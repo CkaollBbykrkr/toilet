@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "slug": "tokyo-transparent-toilet",
+    "name": "Tokyo Transparent Toilet",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "coordinates": { "lat": 35.672, "lng": 139.6952 }
+    },
+    "architect": "Shigeru Ban",
+    "year": 2020,
+    "description": "Part of The Tokyo Toilet project in Shibuya's Yoyogi Fukamachi Park. The colored glass walls are transparent when the stall is vacant and turn opaque when it's locked, letting passersby check cleanliness before entering.",
+    "images": [
+      {
+        "src": "https://placehold.co/1200x800.png?text=Tokyo+Transparent+Toilet",
+        "alt": "Exterior of the transparent public toilet in Yoyogi Fukamachi Park, Shibuya"
+      }
+    ],
+    "styles": ["Contemporary"],
+    "features": ["Free", "24/7", "Smart Glass"],
+    "tips": [
+      "Open 24/7, free to use",
+      "Walls turn opaque the moment you lock the stall",
+      "Part of The Tokyo Toilet project — 16 other designs are nearby in Shibuya"
+    ],
+    "tags": ["japan", "tokyo", "shigeru-ban", "the-tokyo-toilet", "transparent"]
+  },
+  {
+    "slug": "cape-royal-cliffside-toilet",
+    "name": "Cliffside Toilet at Cape Royal",
+    "region": "North America",
+    "location": {
+      "country": "United States",
+      "city": "Grand Canyon National Park, Arizona",
+      "coordinates": { "lat": 36.1942, "lng": -111.9653 }
+    },
+    "description": "A vault toilet near the Cape Royal viewpoint on the North Rim of the Grand Canyon, perched above one of the canyon's widest panoramas.",
+    "images": [
+      {
+        "src": "https://placehold.co/1200x800.png?text=Cape+Royal+Toilet",
+        "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim"
+      }
+    ],
+    "styles": ["Utilitarian"],
+    "features": ["Free", "Off-grid", "Scenic View"],
+    "tips": [
+      "Vault toilet — no running water, bring hand sanitizer",
+      "Pack out everything you bring in",
+      "Bring sun protection: the rim is exposed and shadeless"
+    ],
+    "tags": ["usa", "arizona", "grand-canyon", "national-park", "scenic-view"]
+  },
+  {
+    "slug": "trafalgar-square-loo",
+    "name": "The Loo at Trafalgar Square",
+    "region": "Europe",
+    "location": {
+      "country": "United Kingdom",
+      "city": "London",
+      "coordinates": { "lat": 51.508, "lng": -0.1281 }
+    },
+    "description": "A public restroom in the heart of London, serving the constant stream of visitors at Trafalgar Square.",
+    "images": [
+      {
+        "src": "https://placehold.co/1200x800.png?text=Trafalgar+Square+Loo",
+        "alt": "Public toilet entrance near Trafalgar Square in central London"
+      }
+    ],
+    "styles": ["Heritage"],
+    "features": ["Accessible", "Central Location"],
+    "tips": [
+      "Centrally located, accessible by Tube (Charing Cross)",
+      "Expect queues during peak tourist hours"
+    ],
+    "tags": ["uk", "london", "tourist-landmark"]
+  }
+]
