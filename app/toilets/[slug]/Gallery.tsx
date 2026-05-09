@@ -16,6 +16,8 @@ export function Gallery({ images }: { images: ToiletImage[] }) {
     dialogRef.current?.close();
   }
 
+  const current = images[active];
+
   return (
     <>
       <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3">
@@ -25,7 +27,7 @@ export function Gallery({ images }: { images: ToiletImage[] }) {
               type="button"
               onClick={() => open(i)}
               aria-label={`Open image: ${img.alt}`}
-              className="group block w-full overflow-hidden rounded"
+              className="group block w-full overflow-hidden rounded-md"
             >
               <Image
                 src={img.src}
@@ -33,7 +35,7 @@ export function Gallery({ images }: { images: ToiletImage[] }) {
                 width={600}
                 height={400}
                 sizes="(min-width: 720px) 240px, 50vw"
-                className="h-32 w-full object-cover transition-transform duration-300 group-hover:scale-105 sm:h-36"
+                className="h-32 w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105 sm:h-36"
               />
             </button>
           </li>
@@ -45,15 +47,25 @@ export function Gallery({ images }: { images: ToiletImage[] }) {
         onClick={close}
         className="m-0 h-screen max-h-none w-screen max-w-none bg-transparent p-0 backdrop:bg-black/90"
       >
-        <div className="flex h-full w-full items-center justify-center p-4">
+        <div className="flex h-full w-full flex-col items-center justify-center gap-4 p-4">
           <Image
-            src={images[active].src}
-            alt={images[active].alt}
+            src={current.src}
+            alt={current.alt}
             width={1600}
             height={1200}
             sizes="100vw"
-            className="max-h-full max-w-full object-contain"
+            className="max-h-[80vh] max-w-full object-contain"
           />
+          {(current.caption || current.photographer) && (
+            <p className="max-w-[720px] text-center font-serif text-sm italic text-white/85">
+              {current.caption}
+              {current.photographer && (
+                <span className="not-italic uppercase tracking-wider text-xs text-white/60">
+                  &nbsp;— {current.photographer}
+                </span>
+              )}
+            </p>
+          )}
         </div>
       </dialog>
     </>

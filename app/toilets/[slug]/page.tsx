@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { Gallery } from "./Gallery";
+import { Chip } from "@/components/Chip";
 import { getAllToilets, getRelated, getToiletBySlug } from "@/lib/toilets";
 import type { Toilet } from "@/lib/types";
 
@@ -38,6 +39,7 @@ export default async function ToiletPage({
     <article className="pb-24">
       <Hero toilet={toilet} />
       <div className="mx-auto max-w-[720px] px-4 sm:px-6">
+        <HeroCaption toilet={toilet} />
         <BackLink />
         <InfoCard toilet={toilet} />
         <Story toilet={toilet} />
@@ -78,11 +80,27 @@ function Hero({ toilet }: { toilet: Toilet }) {
   );
 }
 
+function HeroCaption({ toilet }: { toilet: Toilet }) {
+  const cover = toilet.images[0];
+  if (!cover.caption && !cover.photographer) return null;
+  return (
+    <p className="mt-4 font-serif text-sm italic text-muted">
+      {cover.caption}
+      {cover.caption && cover.photographer ? " " : ""}
+      {cover.photographer && (
+        <span className="not-italic uppercase tracking-wider text-xs text-muted">
+          &nbsp;— {cover.photographer}
+        </span>
+      )}
+    </p>
+  );
+}
+
 function BackLink() {
   return (
     <Link
       href="/"
-      className="mt-8 inline-block text-sm uppercase tracking-wider text-foreground/60 hover:text-heading"
+      className="mt-8 inline-block text-xs uppercase tracking-wider text-muted transition-colors hover:text-accent"
     >
       ← Back to atlas
     </Link>
@@ -90,38 +108,70 @@ function BackLink() {
 }
 
 function InfoCard({ toilet }: { toilet: Toilet }) {
-  const items: { label: string; value: string }[] = [
+  const textRows: { label: string; value: string }[] = [
     {
       label: "Location",
       value: `${toilet.location.city}, ${toilet.location.country}`,
     },
   ];
-  if (toilet.region) items.push({ label: "Region", value: toilet.region });
-  if (toilet.year) items.push({ label: "Year", value: String(toilet.year) });
+  if (toilet.region) textRows.push({ label: "Region", value: toilet.region });
+  if (toilet.year) textRows.push({ label: "Year", value: String(toilet.year) });
   if (toilet.architect)
-    items.push({ label: "Architect", value: toilet.architect });
+    textRows.push({ label: "Architect", value: toilet.architect });
+
+  const styles = toilet.styles ?? [];
+  const features = toilet.features ?? [];
+  const tags = toilet.tags ?? [];
 
   return (
-    <section className="mt-8 rounded-lg border border-foreground/10 bg-white p-6">
-      <dl className="grid grid-cols-[max-content_1fr] gap-x-6 gap-y-3 text-sm">
-        {items.map((it) => (
-          <div key={it.label} className="contents">
-            <dt className="uppercase tracking-wider text-foreground/50">
+    <section className="mt-8 rounded-md border border-foreground/10 bg-white p-6">
+      <dl className="space-y-3 text-sm">
+        {textRows.map((it) => (
+          <div
+            key={it.label}
+            className="grid grid-cols-[6rem_1fr] items-baseline gap-x-6"
+          >
+            <dt className="text-xs uppercase tracking-wider text-muted">
               {it.label}
             </dt>
             <dd className="text-foreground">{it.value}</dd>
           </div>
         ))}
+        {styles.length > 0 && (
+          <div className="grid grid-cols-[6rem_1fr] items-start gap-x-6">
+            <dt className="pt-0.5 text-xs uppercase tracking-wider text-muted">
+              Style
+            </dt>
+            <dd className="flex flex-wrap gap-1.5">
+              {styles.map((s) => (
+                <Chip key={s} variant="accent">
+                  {s}
+                </Chip>
+              ))}
+            </dd>
+          </div>
+        )}
+        {features.length > 0 && (
+          <div className="grid grid-cols-[6rem_1fr] items-start gap-x-6">
+            <dt className="pt-0.5 text-xs uppercase tracking-wider text-muted">
+              Features
+            </dt>
+            <dd className="flex flex-wrap gap-1.5">
+              {features.map((f) => (
+                <Chip key={f} variant="accent-soft">
+                  {f}
+                </Chip>
+              ))}
+            </dd>
+          </div>
+        )}
       </dl>
-      {toilet.tags && toilet.tags.length > 0 && (
-        <div className="mt-5 flex flex-wrap gap-2 border-t border-foreground/10 pt-5">
-          {toilet.tags.map((tag) => (
-            <span
-              key={tag}
-              className="rounded-full bg-foreground/5 px-2.5 py-0.5 text-xs text-foreground/60"
-            >
-              {tag}
-            </span>
+      {tags.length > 0 && (
+        <div className="mt-5 flex flex-wrap gap-1.5 border-t border-foreground/10 pt-5">
+          {tags.map((t) => (
+            <Chip key={t} variant="muted">
+              {t}
+            </Chip>
           ))}
         </div>
       )}
@@ -133,7 +183,7 @@ function Story({ toilet }: { toilet: Toilet }) {
   return (
     <section className="mt-12">
       <h2 className="font-serif text-2xl text-heading">The Story</h2>
-      <p className="mt-4 text-base leading-relaxed text-foreground/80">
+      <p className="mt-4 text-base leading-relaxed text-foreground">
         {toilet.description}
       </p>
     </section>
@@ -156,8 +206,9 @@ function DesignerSection({ toilet }: { toilet: Toilet }) {
   return (
     <section className="mt-12">
       <h2 className="font-serif text-2xl text-heading">Designer</h2>
-      <p className="mt-4 text-base leading-relaxed text-foreground/80">
-        Designed by <span className="font-medium">{toilet.architect}</span>
+      <p className="mt-4 text-base leading-relaxed text-foreground">
+        Designed by{" "}
+        <span className="font-medium text-heading">{toilet.architect}</span>
         {toilet.year ? ` in ${toilet.year}.` : "."}
       </p>
     </section>
@@ -174,7 +225,7 @@ function VisitorTips({ toilet }: { toilet: Toilet }) {
         {tips.map((tip) => (
           <li key={tip} className="flex gap-3">
             <CheckIcon />
-            <span className="text-base text-foreground/80">{tip}</span>
+            <span className="text-base text-foreground">{tip}</span>
           </li>
         ))}
       </ul>
@@ -185,7 +236,7 @@ function VisitorTips({ toilet }: { toilet: Toilet }) {
 function CheckIcon() {
   return (
     <svg
-      className="mt-1 h-4 w-4 flex-none text-heading"
+      className="mt-1 h-4 w-4 flex-none text-accent"
       viewBox="0 0 16 16"
       fill="none"
       stroke="currentColor"
@@ -204,11 +255,11 @@ function MapPlaceholder({ toilet }: { toilet: Toilet }) {
   return (
     <section className="mt-12">
       <h2 className="font-serif text-2xl text-heading">Map</h2>
-      <div className="mt-4 rounded-lg border border-dashed border-foreground/20 bg-foreground/[0.02] p-6 text-center">
-        <p className="text-sm uppercase tracking-wider text-foreground/50">
+      <div className="mt-4 rounded-md border border-dashed border-foreground/20 bg-foreground/[0.02] p-6 text-center">
+        <p className="text-xs uppercase tracking-wider text-muted">
           Map placeholder
         </p>
-        <p className="mt-2 font-mono text-sm text-foreground/70">
+        <p className="mt-2 font-mono text-sm text-foreground">
           {c
             ? `Coordinates: ${c.lat.toFixed(4)}, ${c.lng.toFixed(4)}`
             : "Coordinates not available"}
@@ -228,7 +279,7 @@ function RelatedToilets({ related }: { related: Toilet[] }) {
           <li key={t.slug}>
             <Link
               href={`/toilets/${t.slug}`}
-              className="group block overflow-hidden rounded-lg bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-md"
+              className="group block overflow-hidden rounded-md bg-white ring-1 ring-black/5 shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md"
             >
               <div className="overflow-hidden">
                 <Image
@@ -237,12 +288,12 @@ function RelatedToilets({ related }: { related: Toilet[] }) {
                   width={800}
                   height={600}
                   sizes="(min-width: 640px) 350px, 100vw"
-                  className="h-40 w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  className="h-40 w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
                 />
               </div>
               <div className="p-4">
                 <h3 className="font-serif text-base text-heading">{t.name}</h3>
-                <p className="mt-1 text-xs uppercase tracking-wider text-foreground/50">
+                <p className="mt-1 text-xs uppercase tracking-wider text-muted">
                   {t.location.city}, {t.location.country}
                 </p>
               </div>

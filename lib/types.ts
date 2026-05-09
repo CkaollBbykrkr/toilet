@@ -2,6 +2,7 @@ export type ToiletImage = {
   src: string;
   alt: string;
   caption?: string;
+  photographer?: string;
 };
 
 export type Toilet = {

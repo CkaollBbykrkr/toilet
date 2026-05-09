@@ -10,69 +10,78 @@
     },
     "architect": "Shigeru Ban",
     "year": 2020,
+    "tagline": "Color-shifting glass turns opaque when occupied.",
     "description": "Part of The Tokyo Toilet project in Shibuya's Yoyogi Fukamachi Park. The colored glass walls are transparent when the stall is vacant and turn opaque when it's locked, letting passersby check cleanliness before entering.",
     "images": [
       {
         "src": "https://placehold.co/1200x800.png?text=Tokyo+Transparent+Toilet",
-        "alt": "Exterior of the transparent public toilet in Yoyogi Fukamachi Park, Shibuya"
+        "alt": "Exterior of the transparent public toilet in Yoyogi Fukamachi Park, Shibuya",
+        "caption": "The transparent stalls in Yoyogi Fukamachi Park glow softly at dusk.",
+        "photographer": "Image: placeholder"
       }
     ],
-    "styles": ["Contemporary"],
-    "features": ["Free", "24/7", "Smart Glass"],
+    "styles": ["Modern"],
+    "features": ["Free", "Unusual"],
+    "tags": ["Transparent", "Urban"],
     "tips": [
       "Open 24/7, free to use",
       "Walls turn opaque the moment you lock the stall",
       "Part of The Tokyo Toilet project — 16 other designs are nearby in Shibuya"
-    ],
-    "tags": ["japan", "tokyo", "shigeru-ban", "the-tokyo-toilet", "transparent"]
+    ]
   },
   {
     "slug": "cape-royal-cliffside-toilet",
     "name": "Cliffside Toilet at Cape Royal",
-    "region": "North America",
+    "region": "Americas",
     "location": {
-      "country": "United States",
-      "city": "Grand Canyon National Park, Arizona",
+      "country": "USA",
+      "city": "Grand Canyon",
       "coordinates": { "lat": 36.1942, "lng": -111.9653 }
     },
+    "tagline": "A dramatic restroom perched above canyon vistas.",
     "description": "A vault toilet near the Cape Royal viewpoint on the North Rim of the Grand Canyon, perched above one of the canyon's widest panoramas.",
     "images": [
       {
         "src": "https://placehold.co/1200x800.png?text=Cape+Royal+Toilet",
-        "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim"
+        "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim",
+        "caption": "A pit stop with one of the widest views in the American Southwest.",
+        "photographer": "Image: placeholder"
       }
     ],
-    "styles": ["Utilitarian"],
-    "features": ["Free", "Off-grid", "Scenic View"],
+    "styles": ["Vernacular"],
+    "features": ["Scenic", "Free"],
+    "tags": ["Scenic", "Nature"],
     "tips": [
       "Vault toilet — no running water, bring hand sanitizer",
       "Pack out everything you bring in",
       "Bring sun protection: the rim is exposed and shadeless"
-    ],
-    "tags": ["usa", "arizona", "grand-canyon", "national-park", "scenic-view"]
+    ]
   },
   {
     "slug": "trafalgar-square-loo",
     "name": "The Loo at Trafalgar Square",
     "region": "Europe",
     "location": {
-      "country": "United Kingdom",
+      "country": "UK",
       "city": "London",
       "coordinates": { "lat": 51.508, "lng": -0.1281 }
     },
+    "tagline": "A Victorian-flavored convenience beneath the square.",
     "description": "A public restroom in the heart of London, serving the constant stream of visitors at Trafalgar Square.",
     "images": [
       {
         "src": "https://placehold.co/1200x800.png?text=Trafalgar+Square+Loo",
-        "alt": "Public toilet entrance near Trafalgar Square in central London"
+        "alt": "Public toilet entrance near Trafalgar Square in central London",
+        "caption": "Just steps from the lions, a quiet civic refuge in central London.",
+        "photographer": "Image: placeholder"
       }
     ],
     "styles": ["Heritage"],
-    "features": ["Accessible", "Central Location"],
+    "features": ["Accessible"],
+    "tags": ["Heritage", "Underground"],
     "tips": [
       "Centrally located, accessible by Tube (Charing Cross)",
       "Expect queues during peak tourist hours"
-    ],
-    "tags": ["uk", "london", "tourist-landmark"]
+    ]
   }
 ]
