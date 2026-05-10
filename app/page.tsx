@@ -1,6 +1,5 @@
 import { Atlas, type FilterState } from "@/components/Atlas";
 import { Hero } from "@/components/Hero";
-import { SiteHeader } from "@/components/SiteHeader";
 import { WhyBlock } from "@/components/WhyBlock";
 import { getAllToilets } from "@/lib/toilets";
 import type { Toilet } from "@/lib/types";
@@ -25,7 +24,6 @@ export default async function Home({
 
   return (
     <>
-      <SiteHeader />
       <Hero />
       <Atlas toilets={toilets} filtered={filtered} filters={filters} />
       <WhyBlock />

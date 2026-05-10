@@ -5,6 +5,25 @@ export type ToiletImage = {
   photographer?: string;
 };
 
+export type Designer = {
+  name: string;
+  bio?: string;
+  portrait?: string;
+};
+
+export type VisitorTipIcon =
+  | "time"
+  | "privacy"
+  | "accessibility"
+  | "location"
+  | "info";
+
+export type VisitorTip = {
+  title: string;
+  description: string;
+  icon?: VisitorTipIcon;
+};
+
 export type Toilet = {
   slug: string;
   name: string;
@@ -14,13 +33,13 @@ export type Toilet = {
     city: string;
     coordinates?: { lat: number; lng: number };
   };
-  architect?: string;
+  designer?: Designer;
   year?: number;
   tagline?: string;
   description: string;
   images: ToiletImage[];
   styles?: string[];
   features?: string[];
-  tips?: string[];
+  visitorTips?: VisitorTip[];
   tags?: string[];
 };

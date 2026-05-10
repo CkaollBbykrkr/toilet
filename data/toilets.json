@@ -8,29 +8,75 @@
       "city": "Tokyo",
       "coordinates": { "lat": 35.672, "lng": 139.6952 }
     },
-    "architect": "Shigeru Ban",
+    "designer": {
+      "name": "Shigeru Ban",
+      "bio": "Pritzker Prize–winning architect known for innovative use of materials and humanitarian design. His work balances beauty, functionality, and social impact.",
+      "portrait": "https://placehold.co/400x400.png?text=Shigeru+Ban"
+    },
     "year": 2020,
     "tagline": "Color-shifting glass turns opaque when occupied.",
-    "description": "Part of The Tokyo Toilet project in Shibuya's Yoyogi Fukamachi Park. The colored glass walls are transparent when the stall is vacant and turn opaque when it's locked, letting passersby check cleanliness before entering.",
+    "description": "In Shibuya's Yoyogi Fukamachi Mini Park, Shigeru Ban reimagined the public toilet as an experiment in transparency and trust. Glass walls remain clear from the outside, but switch to an opaque state when locked—protecting privacy while inviting openness. More than a convenience, it's a gentle nudge toward empathy and better public spaces.",
     "images": [
       {
-        "src": "https://placehold.co/1200x800.png?text=Tokyo+Transparent+Toilet",
+        "src": "https://placehold.co/1600x1000.png?text=Tokyo+Transparent+Toilet",
         "alt": "Exterior of the transparent public toilet in Yoyogi Fukamachi Park, Shibuya",
         "caption": "The transparent stalls in Yoyogi Fukamachi Park glow softly at dusk.",
         "photographer": "Image: placeholder"
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Interior+View",
+        "alt": "Looking inside one of the colored glass stalls",
+        "caption": "Interior view from within a vacant stall."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=At+Night",
+        "alt": "The toilet glowing at night",
+        "caption": "After sunset, the structure becomes a soft lantern in the park."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Detail+Shot",
+        "alt": "Close-up of the smart glass mechanism",
+        "caption": "Close-up of the electrochromic glass detail."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Park+Setting",
+        "alt": "The toilet in its park context, surrounded by greenery",
+        "caption": "The wider context — a quiet pocket park in Shibuya."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Wide+Angle",
+        "alt": "Wide angle of the structure",
+        "caption": "A wider view showing the full footprint."
       }
     ],
-    "styles": ["Modern"],
-    "features": ["Free", "Unusual"],
+    "styles": ["Modern", "Transparent"],
+    "features": ["Transparent", "Sustainable", "Accessible", "Innovative"],
     "tags": ["Transparent", "Urban"],
-    "tips": [
-      "Open 24/7, free to use",
-      "Walls turn opaque the moment you lock the stall",
-      "Part of The Tokyo Toilet project — 16 other designs are nearby in Shibuya"
+    "visitorTips": [
+      {
+        "icon": "time",
+        "title": "Best Time to Visit",
+        "description": "Visit in the morning or late afternoon for softer light and fewer crowds."
+      },
+      {
+        "icon": "privacy",
+        "title": "Privacy",
+        "description": "Glass walls turn opaque automatically when the door is locked."
+      },
+      {
+        "icon": "accessibility",
+        "title": "Accessibility",
+        "description": "Step-free access and spacious interior. Accessible for all visitors."
+      },
+      {
+        "icon": "location",
+        "title": "Nearby Context",
+        "description": "Located in Yoyogi Fukamachi Mini Park, a peaceful green pocket in Shibuya."
+      }
     ]
   },
   {
-    "slug": "cape-royal-cliffside-toilet",
+    "slug": "cliffside-toilet-at-cape-royal",
     "name": "Cliffside Toilet at Cape Royal",
     "region": "Americas",
     "location": {
@@ -39,26 +85,63 @@
       "coordinates": { "lat": 36.1942, "lng": -111.9653 }
     },
     "tagline": "A dramatic restroom perched above canyon vistas.",
-    "description": "A vault toilet near the Cape Royal viewpoint on the North Rim of the Grand Canyon, perched above one of the canyon's widest panoramas.",
+    "description": "Tucked steps away from one of the Grand Canyon's most expansive North Rim viewpoints, this unassuming vault toilet offers something most architectural marvels cannot: a panorama that stretches for miles. Built for utility but framed by raw geology, it's a quiet reminder that the most memorable comforts often come without plumbing.",
     "images": [
       {
-        "src": "https://placehold.co/1200x800.png?text=Cape+Royal+Toilet",
+        "src": "https://placehold.co/1600x1000.png?text=Cape+Royal+Toilet",
         "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim",
         "caption": "A pit stop with one of the widest views in the American Southwest.",
         "photographer": "Image: placeholder"
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Canyon+Vista",
+        "alt": "The canyon view from near the toilet",
+        "caption": "The canyon panorama just steps away."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=North+Rim+Sunset",
+        "alt": "Sunset over the North Rim",
+        "caption": "Late afternoon light along the rim."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Trail+View",
+        "alt": "The trail leading to the toilet",
+        "caption": "The short path from the parking area."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Structure",
+        "alt": "The structure itself, low-key timber",
+        "caption": "A simple timber-and-stone structure."
       }
     ],
     "styles": ["Vernacular"],
     "features": ["Scenic", "Free"],
     "tags": ["Scenic", "Nature"],
-    "tips": [
-      "Vault toilet — no running water, bring hand sanitizer",
-      "Pack out everything you bring in",
-      "Bring sun protection: the rim is exposed and shadeless"
+    "visitorTips": [
+      {
+        "icon": "time",
+        "title": "Best Time to Visit",
+        "description": "Sunrise and sunset cast the most dramatic light across the canyon."
+      },
+      {
+        "icon": "info",
+        "title": "Practical Tips",
+        "description": "Vault toilet — no running water. Bring hand sanitizer and pack out all trash."
+      },
+      {
+        "icon": "accessibility",
+        "title": "Accessibility",
+        "description": "Ground-level entry; the surrounding terrain is uneven and exposed."
+      },
+      {
+        "icon": "location",
+        "title": "Nearby Context",
+        "description": "Right beside the Cape Royal viewpoint on the North Rim's scenic drive."
+      }
     ]
   },
   {
-    "slug": "trafalgar-square-loo",
+    "slug": "the-loo-at-trafalgar-square",
     "name": "The Loo at Trafalgar Square",
     "region": "Europe",
     "location": {
@@ -67,21 +150,59 @@
       "coordinates": { "lat": 51.508, "lng": -0.1281 }
     },
     "tagline": "A Victorian-flavored convenience beneath the square.",
-    "description": "A public restroom in the heart of London, serving the constant stream of visitors at Trafalgar Square.",
+    "description": "A small civic refuge tucked beneath one of London's most photographed landmarks. Among streams of tourists, double-deckers and Trafalgar's lions, this modest public loo carries on a long London tradition of dignified, accessible public conveniences hidden in plain sight.",
     "images": [
       {
-        "src": "https://placehold.co/1200x800.png?text=Trafalgar+Square+Loo",
+        "src": "https://placehold.co/1600x1000.png?text=Trafalgar+Square+Loo",
         "alt": "Public toilet entrance near Trafalgar Square in central London",
         "caption": "Just steps from the lions, a quiet civic refuge in central London.",
         "photographer": "Image: placeholder"
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Square+View",
+        "alt": "Looking out toward the square",
+        "caption": "Trafalgar Square seen from the entrance."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Signage",
+        "alt": "Heritage-style signage above the entrance",
+        "caption": "Heritage signage above the entrance."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Interior",
+        "alt": "Renovated interior",
+        "caption": "Recently refurbished interior."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Tube+Connection",
+        "alt": "Connection to the Tube",
+        "caption": "A short walk from Charing Cross station."
       }
     ],
     "styles": ["Heritage"],
     "features": ["Accessible"],
     "tags": ["Heritage", "Underground"],
-    "tips": [
-      "Centrally located, accessible by Tube (Charing Cross)",
-      "Expect queues during peak tourist hours"
+    "visitorTips": [
+      {
+        "icon": "time",
+        "title": "Best Time to Visit",
+        "description": "Off-peak afternoons avoid the busiest tourist hours."
+      },
+      {
+        "icon": "location",
+        "title": "Nearby Context",
+        "description": "A short walk from Charing Cross station and the National Gallery."
+      },
+      {
+        "icon": "accessibility",
+        "title": "Accessibility",
+        "description": "Step-free access; centrally located for visitors with mobility needs."
+      },
+      {
+        "icon": "info",
+        "title": "What to Expect",
+        "description": "A small fee may apply during peak hours; queues are common at midday."
+      }
     ]
   }
 ]
