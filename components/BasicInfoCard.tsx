@@ -12,6 +12,15 @@ export function BasicInfoCard({ toilet }: { toilet: Toilet }) {
         label: "Country",
         value: toilet.location.country,
       },
+      ...(toilet.location.address
+        ? [
+            {
+              icon: <PinIcon />,
+              label: "Address",
+              value: toilet.location.address,
+            },
+          ]
+        : []),
       {
         icon: <PinIcon />,
         label: "Region",

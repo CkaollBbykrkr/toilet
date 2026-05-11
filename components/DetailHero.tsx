@@ -4,6 +4,9 @@ import type { Toilet } from "@/lib/types";
 
 export function DetailHero({ toilet }: { toilet: Toilet }) {
   const cover = toilet.images[0];
+  const locationLine =
+    toilet.location.place ??
+    `${toilet.location.city}, ${toilet.location.country}`;
 
   return (
     <section className="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
@@ -30,7 +33,7 @@ export function DetailHero({ toilet }: { toilet: Toilet }) {
             {toilet.name}
           </h1>
           <p className="mt-2 text-sm text-white/85 sm:text-base">
-            {toilet.location.city}, {toilet.location.country}
+            {locationLine}
           </p>
         </div>
       </div>

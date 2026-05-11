@@ -18,6 +18,41 @@ export function DesignerSection({ designer }: { designer?: Designer }) {
           <div className="flex-1">
             <h3 className="font-serif text-xl text-heading">{designer.name}</h3>
             <p className="mt-3 text-sm leading-7 text-[#243447]">{bio}</p>
+            {(designer.portraitCredit || designer.portraitLicense) && (
+              <p className="mt-3 text-[11px] uppercase tracking-wider text-muted">
+                Portrait:{" "}
+                {designer.portraitSourceUrl ? (
+                  <a
+                    href={designer.portraitSourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="transition-colors hover:text-accent"
+                  >
+                    {designer.portraitCredit ?? "Source"}
+                  </a>
+                ) : (
+                  designer.portraitCredit
+                )}
+                {designer.portraitLicense && (
+                  <>
+                    {" "}
+                    ·{" "}
+                    {designer.portraitLicenseUrl ? (
+                      <a
+                        href={designer.portraitLicenseUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="transition-colors hover:text-accent"
+                      >
+                        {designer.portraitLicense}
+                      </a>
+                    ) : (
+                      designer.portraitLicense
+                    )}
+                  </>
+                )}
+              </p>
+            )}
             <button
               type="button"
               className="mt-5 inline-flex items-center gap-2 rounded-full border border-[#1e3a5f]/20 px-4 py-1.5 text-xs uppercase tracking-wider text-heading transition-colors hover:border-accent hover:text-accent"

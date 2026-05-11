@@ -97,6 +97,22 @@ function TipIcon({ name }: { name: VisitorTipIcon }) {
           <circle cx="12" cy="9" r="2.5" />
         </svg>
       );
+    case "ticket":
+      return (
+        <svg {...props}>
+          <path d="M4 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4z" />
+          <path d="M12 6v3" />
+          <path d="M12 11v3" />
+          <path d="M12 16v2" />
+        </svg>
+      );
+    case "camera":
+      return (
+        <svg {...props}>
+          <path d="M4 8h3l2-2h6l2 2h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z" />
+          <circle cx="12" cy="13" r="3.5" />
+        </svg>
+      );
     default:
       return (
         <svg {...props}>

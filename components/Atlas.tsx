@@ -45,7 +45,9 @@ export function Atlas({
   const drawerRef = useRef<HTMLDialogElement>(null);
 
   const options: Record<FilterGroup, string[]> = {
-    regions: uniqueSorted(toilets.map((t) => t.region).filter(isString)),
+    regions: uniqueSorted(
+      toilets.map((t) => t.region as string | undefined).filter(isString),
+    ),
     styles: uniqueSorted(toilets.flatMap((t) => t.styles ?? [])),
     features: uniqueSorted(toilets.flatMap((t) => t.features ?? [])),
   };
@@ -82,7 +84,7 @@ export function Atlas({
   }
 
   return (
-    <>
+    <section id="atlas" aria-label="Toilet atlas">
       <div className="sticky top-0 z-30">
         <div className="bg-[#FAF7F2]/95 pb-4 backdrop-blur supports-[backdrop-filter]:bg-[#FAF7F2]/80">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -203,9 +205,9 @@ export function Atlas({
 
       <main className="mx-auto max-w-7xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
         {filtered.length > 0 ? (
-          <ul className="columns-1 gap-6 sm:columns-2 lg:columns-3 xl:columns-4">
+          <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {filtered.map((toilet, i) => (
-              <li key={toilet.slug} className="mb-6 break-inside-avoid">
+              <li key={toilet.slug}>
                 <ToiletCard toilet={toilet} index={i} />
               </li>
             ))}
@@ -214,7 +216,7 @@ export function Atlas({
           <EmptyState onClear={clearAll} />
         )}
       </main>
-    </>
+    </section>
   );
 }
 
@@ -403,7 +405,7 @@ function FilterIcon() {
   );
 }
 
-function uniqueSorted(values: string[]): string[] {
+function uniqueSorted<T extends string>(values: T[]): T[] {
   return Array.from(new Set(values)).sort((a, b) => a.localeCompare(b));
 }
 

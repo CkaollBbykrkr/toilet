@@ -20,7 +20,7 @@ export function ToiletCard({
       style={{ animationDelay: `${index * 60}ms` }}
       className="group flex flex-col overflow-hidden rounded-2xl border border-[#1e3a5f]/10 bg-[#FFFDF8] shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-xl animate-fade-in-up"
     >
-      <div className="relative aspect-[3/2] w-full overflow-hidden">
+      <div className="relative aspect-[3/2] w-full overflow-hidden bg-[#dedbd3]">
         <Image
           src={cover.src}
           alt={cover.alt}

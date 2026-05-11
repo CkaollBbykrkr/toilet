@@ -35,4 +35,4 @@ Other scripts:
 1. Create a folder under `public/images/<slug>/` and drop image files in it.
 2. Append an entry to `data/toilets.json` referencing those image paths.
 
-The schema for `toilets.json` will be defined as the project grows.
+The schema for `toilets.json` is defined in `lib/types.ts`. Keep new entries aligned with the `Toilet` type; `slug`, `name`, `location`, `description`, and `images` are the core fields the pages expect.

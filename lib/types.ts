@@ -1,14 +1,33 @@
+export type Region =
+  | "Asia"
+  | "Europe"
+  | "North America"
+  | "South America"
+  | "Africa"
+  | "Oceania";
+
+export type LicenseStatus = "cc" | "commercial" | "pending" | "unknown";
+
 export type ToiletImage = {
   src: string;
   alt: string;
   caption?: string;
   photographer?: string;
+  sourceUrl?: string;
+  license?: string;
+  licenseUrl?: string;
+  licenseStatus?: LicenseStatus;
 };
 
 export type Designer = {
   name: string;
+  firm?: string;
   bio?: string;
   portrait?: string;
+  portraitCredit?: string;
+  portraitSourceUrl?: string;
+  portraitLicense?: string;
+  portraitLicenseUrl?: string;
 };
 
 export type VisitorTipIcon =
@@ -16,6 +35,8 @@ export type VisitorTipIcon =
   | "privacy"
   | "accessibility"
   | "location"
+  | "ticket"
+  | "camera"
   | "info";
 
 export type VisitorTip = {
@@ -24,13 +45,27 @@ export type VisitorTip = {
   icon?: VisitorTipIcon;
 };
 
+export type PracticalInfo = {
+  openingHours?: string;
+  fee?: string;
+  accessibility?: string;
+};
+
+export type Source = {
+  title: string;
+  url: string;
+};
+
 export type Toilet = {
   slug: string;
   name: string;
-  region?: string;
+  nameLocal?: string;
+  region?: Region;
   location: {
     country: string;
     city: string;
+    place?: string;
+    address?: string;
     coordinates?: { lat: number; lng: number };
   };
   designer?: Designer;
@@ -42,4 +77,6 @@ export type Toilet = {
   features?: string[];
   visitorTips?: VisitorTip[];
   tags?: string[];
+  practical?: PracticalInfo;
+  sources?: Source[];
 };

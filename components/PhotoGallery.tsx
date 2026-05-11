@@ -49,6 +49,17 @@ export function PhotoGallery({ images }: { images: ToiletImage[] }) {
   }, [open, gallery.length]);
 
   const current = gallery[active];
+  const status = current.licenseStatus ?? "pending";
+  // Photographer line: commercial gets a © prefix; cc/pending/unknown render as-is.
+  const photographerText = current.photographer
+    ? status === "commercial"
+      ? `© ${current.photographer}`
+      : current.photographer
+    : null;
+  // License badge + sourceUrl link only show when the image is verified CC.
+  // pending / unknown / commercial deliberately suppress them.
+  const showLicense = status === "cc" && Boolean(current.license);
+  const showSource = status === "cc" && Boolean(current.sourceUrl);
 
   return (
     <section className="px-4 pt-20 sm:px-6 lg:px-8">
@@ -116,12 +127,41 @@ export function PhotoGallery({ images }: { images: ToiletImage[] }) {
                   className="mx-auto max-h-[70vh] w-auto rounded-xl object-contain"
                 />
               </div>
-              {(current.caption || current.photographer) && (
+              {(current.caption || photographerText) && (
                 <p className="mt-4 max-w-[720px] text-center font-serif text-sm italic text-white/85">
                   {current.caption}
-                  {current.photographer && (
+                  {photographerText && (
                     <span className="not-italic uppercase tracking-wider text-xs text-white/60">
-                      &nbsp;— {current.photographer}
+                      &nbsp;—{" "}
+                      {showSource ? (
+                        <a
+                          href={current.sourceUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="transition-colors hover:text-white"
+                        >
+                          {photographerText}
+                        </a>
+                      ) : (
+                        photographerText
+                      )}
+                      {showLicense && (
+                        <>
+                          {" · "}
+                          {current.licenseUrl ? (
+                            <a
+                              href={current.licenseUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="transition-colors hover:text-white"
+                            >
+                              {current.license}
+                            </a>
+                          ) : (
+                            current.license
+                          )}
+                        </>
+                      )}
                     </span>
                   )}
                 </p>

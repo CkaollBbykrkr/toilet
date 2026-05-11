@@ -6,8 +6,8 @@ const COLUMNS: { heading: string; links: { href: string; label: string }[] }[] =
       heading: "Explore",
       links: [
         { href: "/map", label: "Map" },
-        { href: "/?region=All", label: "Regions" },
-        { href: "/?style=All", label: "Design Styles" },
+        { href: "/#atlas", label: "Regions" },
+        { href: "/#atlas", label: "Design Styles" },
       ],
     },
     {
@@ -58,7 +58,7 @@ export function SiteFooter() {
               </h3>
               <ul className="mt-3 space-y-2">
                 {col.links.map((l) => (
-                  <li key={l.href}>
+                  <li key={`${col.heading}-${l.label}`}>
                     <Link
                       href={l.href}
                       className="text-sm text-muted transition-colors hover:text-accent"
