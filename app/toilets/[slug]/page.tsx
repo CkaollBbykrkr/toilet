@@ -6,6 +6,7 @@ import { DetailHero } from "@/components/DetailHero";
 import { MapPlaceholder } from "@/components/MapPlaceholder";
 import { PhotoGallery } from "@/components/PhotoGallery";
 import { RelatedToilets } from "@/components/RelatedToilets";
+import { SourcesSection } from "@/components/SourcesSection";
 import { StorySection } from "@/components/StorySection";
 import { VisitorTips } from "@/components/VisitorTips";
 import { getAllToilets, getRelated, getToiletBySlug } from "@/lib/toilets";
@@ -57,6 +58,7 @@ export default async function ToiletPage({
       )}
 
       <MapPlaceholder coordinates={toilet.location.coordinates} />
+      <SourcesSection sources={toilet.sources} />
       <RelatedToilets related={related} region={toilet.region} />
     </article>
   );

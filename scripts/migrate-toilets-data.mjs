@@ -100,6 +100,16 @@ const CARRY_OVER = [
   "the-loo-at-trafalgar-square",
 ];
 
+// Patches for carried-over entries — normalize values that pre-date the
+// PRD 6-enum convention so filter bar doesn't show "Scenic" alongside
+// "Scenic View" (etc.). Trafalgar already aligns; only Cape Royal needs it.
+const CARRY_OVER_PATCH = {
+  "cliffside-toilet-at-cape-royal": {
+    styles: ["Traditional"],         // was ["Vernacular"]
+    features: ["Scenic View"],       // was ["Scenic", "Free"] — fee/free moves to practical.fee
+  },
+};
+
 const REGION_REMAP = {
   Americas: "North America",
 };
@@ -160,6 +170,48 @@ function classifyTip(text) {
   }
   return { title: TIP_FALLBACK.title, description: text, icon: TIP_FALLBACK.icon };
 }
+
+// Deterministic PRNG (mulberry32) — same seed → same shuffle every migration.
+function mulberry32(seed) {
+  return function () {
+    let t = (seed += 0x6d2b79f5);
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+// Region-interleaved shuffle:
+//   1. Group entries by region
+//   2. Shuffle each group internally (Fisher-Yates, seeded)
+//   3. Round-robin: each round picks one from each non-empty region,
+//      sorted by remaining count desc — so the biggest region spreads
+//      evenly across the whole array instead of clustering at the end.
+function shuffleByRegion(entries, seed) {
+  const rng = mulberry32(seed);
+  const groups = {};
+  for (const t of entries) {
+    const r = t.region ?? "_other";
+    (groups[r] ??= []).push(t);
+  }
+  for (const r of Object.keys(groups)) {
+    const arr = groups[r];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(rng() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+  }
+  const order = [];
+  while (Object.values(groups).some((a) => a.length > 0)) {
+    const active = Object.keys(groups)
+      .filter((r) => groups[r].length > 0)
+      .sort((a, b) => groups[b].length - groups[a].length || a.localeCompare(b));
+    for (const r of active) order.push(groups[r].shift());
+  }
+  return order;
+}
+
+const SHUFFLE_SEED = 42;
 
 function parseCredit(credit) {
   if (!credit) return {};
@@ -319,10 +371,13 @@ const migrated = NEW.map((prdEntry) => {
 const carried = CARRY_OVER.map((slug) => {
   const entry = currentBySlug[slug];
   if (!entry) throw new Error(`CARRY_OVER slug not in current data: ${slug}`);
-  return fixRegion(entry);
+  const regionFixed = fixRegion(entry);
+  const patch = CARRY_OVER_PATCH[slug];
+  return patch ? { ...regionFixed, ...patch } : regionFixed;
 });
 
-const final = [...migrated, ...carried];
+const combined = [...migrated, ...carried];
+const final = shuffleByRegion(combined, SHUFFLE_SEED);
 
 // =============================================================================
 // REPORT

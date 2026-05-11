@@ -32,6 +32,11 @@ export function DetailHero({ toilet }: { toilet: Toilet }) {
           <h1 className="mt-3 font-serif text-[36px] leading-[0.96] text-white sm:text-5xl lg:text-[64px] lg:leading-[0.95]">
             {toilet.name}
           </h1>
+          {toilet.nameLocal && (
+            <p className="mt-2 font-serif italic text-base text-white/70 sm:text-lg">
+              {toilet.nameLocal}
+            </p>
+          )}
           <p className="mt-2 text-sm text-white/85 sm:text-base">
             {locationLine}
           </p>

@@ -1,5 +1,523 @@
 [
   {
+    "slug": "turkey-ephesus-latrines",
+    "name": "Public Latrines of Ephesus",
+    "region": "Asia",
+    "location": {
+      "country": "Türkiye",
+      "city": "Selçuk (Ephesus)",
+      "coordinates": {
+        "lat": 37.9396,
+        "lng": 27.3406
+      }
+    },
+    "year": 100,
+    "tagline": "Roman-era marble benches that once seated 30 toga-clad citizens at once.",
+    "description": "Beside the Scholastica Baths in the ancient city of Ephesus—once one of the largest cities of the Roman world—runs a remarkable U-shaped marble bench with neatly cut keyhole openings. This was the public latrine, where as many as thirty Ephesians at a time would sit shoulder to shoulder in togas, conducting business and gossip while attending to nature.\n\nRunning water flowed in channels beneath the seats and at the floor for rinsing the shared cleaning sponge. Wealthier patrons paid attendants for the privilege of a warmed marble seat. The structure, dating from around the 1st–2nd century AD, has been beautifully preserved and is one of the most visited corners of the Ephesus archaeological site.",
+    "styles": [
+      "Heritage"
+    ],
+    "features": [
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Fly into Izmir, then drive or take a regional bus to Selçuk (about an hour).",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Visit early morning or late afternoon to avoid the cruise-ship tour crowds.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Combine with the nearby Temple of Artemis ruins and the House of the Virgin Mary.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Wear a hat and bring water—the site is exposed and hot from May to September.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/turkey-ephesus-latrines/cover.jpg",
+        "alt": "Roman marble bench with keyhole-shaped openings under a stone wall",
+        "photographer": "Photo credit needed — Wikimedia Commons CC options widely available",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Türkiye Ministry of Culture — Ephesus",
+        "url": "https://muze.gov.tr/muze-detay?DistId=IZM&SectionId=EFS01"
+      }
+    ],
+    "nameLocal": "Efes Latrina",
+    "designer": {
+      "name": "Ancient Roman civic engineers",
+      "firm": "Roman provincial public works"
+    },
+    "practical": {
+      "openingHours": "Ephesus site hours (typically 8:00–18:30 summer, shorter in winter)",
+      "fee": "Ephesus archaeological site admission",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Heritage",
+      "Historic"
+    ]
+  },
+  {
+    "slug": "london-dont-miss-a-sec",
+    "name": "Don't Miss a Sec",
+    "region": "Europe",
+    "location": {
+      "country": "United Kingdom",
+      "city": "London",
+      "coordinates": {
+        "lat": 51.4912,
+        "lng": -0.1281
+      }
+    },
+    "year": 2003,
+    "tagline": "A working public toilet inside a one-way-mirror cube outside Tate Britain.",
+    "description": "When Italian artist Monica Bonvicini unveiled Don't Miss a Sec in December 2003, on a construction site directly opposite Tate Britain, the premise was unsettlingly simple: a fully functional public toilet enclosed in walls of one-way mirrored glass. From outside, the cube reflected the street—passers-by saw only themselves. From inside, the user looked out at every museum visitor walking past, all of them oblivious.\n\nThe title came from a hedge fund manager who said he didn't want to 'miss a sec' of trading while in the bathroom. Bonvicini was poking at the voyeurism of the art world's see-and-be-seen culture, the surveillance logic of modern life, and the question of where private ends and public begins. The piece was originally a temporary installation, but has since been re-exhibited at venues including the Louisiana Museum of Modern Art.",
+    "styles": [
+      "Minimalist",
+      "Futuristic"
+    ],
+    "features": [
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Good to Know",
+        "description": "The original 2003 installation was temporary; check current exhibition listings before visiting.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The work is owned by Galerie Peter Kilchmann and has shown at major institutions worldwide.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Even when not on display, search for archival footage—the social experiment itself is the art.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Bonvicini's broader work on architecture and power is worth exploring alongside this piece.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/london-dont-miss-a-sec/cover.jpg",
+        "alt": "Mirrored cube containing a public toilet on a London street",
+        "photographer": "Photo credit needed — Getty/Scott Barbour archival images",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galerie Peter Kilchmann — work page",
+        "url": "https://www.peterkilchmann.com/artists/39-monica-bonvicini/works/24169-monica-bonvicini-don-t-miss-a-sec-2004/"
+      }
+    ],
+    "designer": {
+      "name": "Monica Bonvicini",
+      "firm": "Monica Bonvicini (artist)"
+    },
+    "practical": {
+      "openingHours": "Varies by exhibition venue",
+      "fee": "Varies by exhibition venue",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Art Installation"
+    ]
+  },
+  {
+    "slug": "cliffside-toilet-at-cape-royal",
+    "name": "Cliffside Toilet at Cape Royal",
+    "region": "North America",
+    "location": {
+      "country": "USA",
+      "city": "Grand Canyon",
+      "coordinates": {
+        "lat": 36.1942,
+        "lng": -111.9653
+      }
+    },
+    "tagline": "A dramatic restroom perched above canyon vistas.",
+    "description": "Tucked steps away from one of the Grand Canyon's most expansive North Rim viewpoints, this unassuming vault toilet offers something most architectural marvels cannot: a panorama that stretches for miles. Built for utility but framed by raw geology, it's a quiet reminder that the most memorable comforts often come without plumbing.",
+    "images": [
+      {
+        "src": "https://placehold.co/1600x1000.png?text=Cape+Royal+Toilet",
+        "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim",
+        "caption": "A pit stop with one of the widest views in the American Southwest.",
+        "photographer": "Image: placeholder"
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Canyon+Vista",
+        "alt": "The canyon view from near the toilet",
+        "caption": "The canyon panorama just steps away."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=North+Rim+Sunset",
+        "alt": "Sunset over the North Rim",
+        "caption": "Late afternoon light along the rim."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Trail+View",
+        "alt": "The trail leading to the toilet",
+        "caption": "The short path from the parking area."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Structure",
+        "alt": "The structure itself, low-key timber",
+        "caption": "A simple timber-and-stone structure."
+      }
+    ],
+    "styles": [
+      "Traditional"
+    ],
+    "features": [
+      "Scenic View"
+    ],
+    "tags": [
+      "Scenic",
+      "Nature"
+    ],
+    "visitorTips": [
+      {
+        "icon": "time",
+        "title": "Best Time to Visit",
+        "description": "Sunrise and sunset cast the most dramatic light across the canyon."
+      },
+      {
+        "icon": "info",
+        "title": "Practical Tips",
+        "description": "Vault toilet — no running water. Bring hand sanitizer and pack out all trash."
+      },
+      {
+        "icon": "accessibility",
+        "title": "Accessibility",
+        "description": "Ground-level entry; the surrounding terrain is uneven and exposed."
+      },
+      {
+        "icon": "location",
+        "title": "Nearby Context",
+        "description": "Right beside the Cape Royal viewpoint on the North Rim's scenic drive."
+      }
+    ]
+  },
+  {
+    "slug": "kawakawa-hundertwasser-toilets",
+    "name": "Hundertwasser Toilets, Kawakawa",
+    "region": "Oceania",
+    "location": {
+      "country": "New Zealand",
+      "city": "Kawakawa",
+      "coordinates": {
+        "lat": -35.3756,
+        "lng": 174.0686
+      }
+    },
+    "year": 1999,
+    "tagline": "A psychedelic public loo with a living roof—Hundertwasser's last completed work.",
+    "description": "In the small Northland town of Kawakawa, on the main road through town, sits a public toilet that draws 250,000 visitors a year. It was designed by the Austrian artist Friedensreich Hundertwasser, who made New Zealand his second home from 1973 until his death in 2000. Approached by Kawakawa's business association in 1997 to redesign a rundown 1960s concrete block, Hundertwasser ended up personally supervising every detail of the build—his last completed architectural project.\n\nThe result is unmistakably his: wavy roof lines, irregular ceramic tile mosaics made by local Bay of Islands College students, recycled glass bottles embedded as windows, repurposed bricks from a former Bank of New Zealand, undulating cobbled floors, and a roof planted with grasses and crowned by a living plane tree. In 2023, Heritage New Zealand designated it a Category 1 historic place—putting a public toilet, less than 25 years old, alongside Christchurch Cathedral and the Auckland War Memorial Museum.",
+    "styles": [
+      "Whimsical",
+      "Traditional"
+    ],
+    "features": [
+      "Art Installation",
+      "Historic",
+      "Eco-friendly"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Located at 60 Gillies Street, Kawakawa, right on State Highway 1.",
+        "icon": "location"
+      },
+      {
+        "title": "Getting There",
+        "description": "About 3 hours' drive north of Auckland—a natural stop on the way to the Bay of Islands.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Visit the nearby Te Hononga Hundertwasser Memorial Park (opened 2020) for the full context.",
+        "icon": "info"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Photograph the exterior from across the street to take in the full living-roof composition.",
+        "icon": "camera"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/kawakawa-hundertwasser-toilets/cover.jpg",
+        "alt": "Colourful tiled toilet building with wavy roof and a tree growing through it",
+        "photographer": "Photo credit needed — many CC-licensed options on Wikimedia Commons",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — Hundertwasser Toilets",
+        "url": "https://en.wikipedia.org/wiki/Hundertwasser_Toilets"
+      },
+      {
+        "title": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/hundertwasser-toilets"
+      }
+    ],
+    "designer": {
+      "name": "Friedensreich Hundertwasser",
+      "firm": "Hundertwasser (artist-architect)"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Art Installation"
+    ]
+  },
+  {
+    "slug": "tokyo-yoyogi-hachiman-mushrooms",
+    "name": "Three Mushrooms at Yoyogi-Hachiman",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "coordinates": {
+        "lat": 35.6709,
+        "lng": 139.6877
+      }
+    },
+    "year": 2021,
+    "tagline": "Three white shapes rise from the shrine forest like mushrooms after rain.",
+    "description": "Pritzker laureate Toyo Ito placed his Tokyo Toilet contribution beside the entrance to Yoyogi-Hachiman shrine, on a busy stretch of Yamate-Dori. Faced with a forested site adjacent to sacred ground, he split the building into three rounded volumes that rise from the earth like white mushrooms among the cedars.\n\nThe separation isn't only visual: each volume houses one of the three units (men's, women's, accessible), with interconnecting paths that maintain sightlines and a sense of safety. The interiors are kept deliberately bright and clean-lined, the trio reading from the street as a small grove of architectural fungi.",
+    "styles": [
+      "Whimsical",
+      "Minimalist"
+    ],
+    "features": [
+      "Accessible",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Two-minute walk from Yoyogi-Hachiman Station (Odakyu line).",
+        "icon": "location"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Photograph from across Yamate-Dori for the best 'three mushrooms' composition.",
+        "icon": "camera"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Worth combining with a visit to the shrine itself, especially during festival days.",
+        "icon": "info"
+      },
+      {
+        "title": "Best Time",
+        "description": "Lit at night, the volumes glow softly through the trees.",
+        "icon": "time"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-yoyogi-hachiman-mushrooms/cover.jpg",
+        "alt": "Three white rounded toilet structures at a shrine entrance",
+        "photographer": "Satoshi Nagare / The Nippon Foundation",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tokyo Toilet — Yoyogi-Hachiman",
+        "url": "https://tokyotoilet.jp/en/"
+      }
+    ],
+    "nameLocal": "代々木八幡公衆トイレ",
+    "designer": {
+      "name": "Toyo Ito",
+      "firm": "Toyo Ito & Associates"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Accessible"
+    ]
+  },
+  {
+    "slug": "norway-ureddplassen",
+    "name": "Ureddplassen Memorial & Rest Area",
+    "region": "Europe",
+    "location": {
+      "country": "Norway",
+      "city": "Gildeskål",
+      "coordinates": {
+        "lat": 66.9883,
+        "lng": 13.6356
+      }
+    },
+    "year": 2018,
+    "tagline": "A frosted-glass toilet that glows like an iceberg on the Arctic Ocean coast.",
+    "description": "Ureddplassen, a war memorial and rest area along Norway's Helgelandskysten Scenic Route, takes its name from a Norwegian submarine lost during World War II. Haugen/Zohar Arkitekter expanded the site with a swooping marble bench and a small public toilet whose curved, frosted-glass walls glow softly from within—an object somewhere between a fog-lit iceberg and a futuristic chapel.\n\nThe glow is intentional. Above the Arctic Circle, Ureddplassen sits in one of the best places on Earth to see the aurora borealis, and the toilet's gentle interior light is calibrated not to drown out the night sky. By day, the curved white form reads against the granite coast like an arrival from another planet.",
+    "styles": [
+      "Futuristic",
+      "Minimalist"
+    ],
+    "features": [
+      "Scenic View",
+      "Accessible",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Best Time",
+        "description": "Best visited in summer for the midnight sun or in winter for the Northern Lights.",
+        "icon": "time"
+      },
+      {
+        "title": "Getting There",
+        "description": "Roughly a 2-hour drive south of Bodø along the Fv17.",
+        "icon": "location"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Sit on the marble bench at golden hour—one of the route's most photographed compositions.",
+        "icon": "camera"
+      },
+      {
+        "title": "Getting There",
+        "description": "Limited mobile signal; download offline maps before driving.",
+        "icon": "location"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/norway-ureddplassen/cover.jpg",
+        "alt": "Curved frosted-glass toilet glowing at twilight by an Arctic coast",
+        "photographer": "Photo credit needed — Norwegian Scenic Routes / Statens vegvesen",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bored Panda feature",
+        "url": "https://www.boredpanda.com/uredd-rest-area-ureddplassen-public-toilet-norway/"
+      }
+    ],
+    "designer": {
+      "name": "Marit Justine Haugen & Dan Zohar",
+      "firm": "Haugen/Zohar Arkitekter"
+    },
+    "practical": {
+      "openingHours": "Year-round; access depends on road conditions",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Futuristic",
+      "Scenic View"
+    ]
+  },
+  {
+    "slug": "nyc-america-cattelan-gold-toilet",
+    "name": "\"America\" – the Solid Gold Toilet",
+    "region": "North America",
+    "location": {
+      "country": "United States",
+      "city": "New York",
+      "coordinates": {
+        "lat": 40.783,
+        "lng": -73.959
+      }
+    },
+    "year": 2016,
+    "tagline": "An 18-karat gold working toilet, used by 100,000 visitors at the Guggenheim.",
+    "description": "In September 2016, Italian artist Maurizio Cattelan installed America—a fully functional toilet cast in 18-karat solid gold—in a small public bathroom on the fifth floor of New York's Guggenheim Museum. Anyone with a museum ticket could line up and use it. Over the year it was open, about 100,000 people did.\n\nCattelan, an artist with a long history of provocations, intended the piece as a sly commentary on American excess and the populist accessibility of luxury ('one percent art for the ninety-nine percent'). In 2019, after America had moved to Blenheim Palace in Oxfordshire for a special exhibition, the work was stolen in a 5am raid; it has never been recovered. The piece is now as famous for its disappearance as for its golden seat.",
+    "styles": [
+      "Whimsical",
+      "Futuristic"
+    ],
+    "features": [
+      "Art Installation",
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Good to Know",
+        "description": "America is no longer publicly viewable—it was stolen in 2019.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "If you're at the Guggenheim, the original installation site is on the fifth-floor restroom level.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Read Cattelan's broader work (Comedian, La Nona Ora) for context.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Blenheim Palace continues to host contemporary art exhibitions worth visiting.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/nyc-america-cattelan-gold-toilet/cover.jpg",
+        "alt": "Solid 18-karat gold toilet installed in a small white-tiled bathroom",
+        "photographer": "Photo credit needed — Guggenheim Museum press archive",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Guggenheim — Maurizio Cattelan: America",
+        "url": "https://www.guggenheim.org/"
+      }
+    ],
+    "designer": {
+      "name": "Maurizio Cattelan",
+      "firm": "Maurizio Cattelan (artist)"
+    },
+    "practical": {
+      "openingHours": "Not currently exhibited; original Guggenheim installation 2016–2017",
+      "fee": "Museum admission was required during exhibition",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Art Installation"
+    ]
+  },
+  {
     "slug": "tokyo-yoyogi-fukamachi-transparent",
     "name": "Transparent Toilet at Yoyogi Fukamachi Mini Park",
     "region": "Asia",
@@ -82,6 +600,598 @@
     "tags": [
       "Minimalist",
       "Smart Tech"
+    ]
+  },
+  {
+    "slug": "the-loo-at-trafalgar-square",
+    "name": "The Loo at Trafalgar Square",
+    "region": "Europe",
+    "location": {
+      "country": "UK",
+      "city": "London",
+      "coordinates": {
+        "lat": 51.508,
+        "lng": -0.1281
+      }
+    },
+    "tagline": "A Victorian-flavored convenience beneath the square.",
+    "description": "A small civic refuge tucked beneath one of London's most photographed landmarks. Among streams of tourists, double-deckers and Trafalgar's lions, this modest public loo carries on a long London tradition of dignified, accessible public conveniences hidden in plain sight.",
+    "images": [
+      {
+        "src": "https://placehold.co/1600x1000.png?text=Trafalgar+Square+Loo",
+        "alt": "Public toilet entrance near Trafalgar Square in central London",
+        "caption": "Just steps from the lions, a quiet civic refuge in central London.",
+        "photographer": "Image: placeholder"
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Square+View",
+        "alt": "Looking out toward the square",
+        "caption": "Trafalgar Square seen from the entrance."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Signage",
+        "alt": "Heritage-style signage above the entrance",
+        "caption": "Heritage signage above the entrance."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Interior",
+        "alt": "Renovated interior",
+        "caption": "Recently refurbished interior."
+      },
+      {
+        "src": "https://placehold.co/1200x800.png?text=Tube+Connection",
+        "alt": "Connection to the Tube",
+        "caption": "A short walk from Charing Cross station."
+      }
+    ],
+    "styles": [
+      "Heritage"
+    ],
+    "features": [
+      "Accessible"
+    ],
+    "tags": [
+      "Heritage",
+      "Underground"
+    ],
+    "visitorTips": [
+      {
+        "icon": "time",
+        "title": "Best Time to Visit",
+        "description": "Off-peak afternoons avoid the busiest tourist hours."
+      },
+      {
+        "icon": "location",
+        "title": "Nearby Context",
+        "description": "A short walk from Charing Cross station and the National Gallery."
+      },
+      {
+        "icon": "accessibility",
+        "title": "Accessibility",
+        "description": "Step-free access; centrally located for visitors with mobility needs."
+      },
+      {
+        "icon": "info",
+        "title": "What to Expect",
+        "description": "A small fee may apply during peak hours; queues are common at midday."
+      }
+    ]
+  },
+  {
+    "slug": "nyc-bryant-park-restroom",
+    "name": "Bryant Park Public Restroom",
+    "region": "North America",
+    "location": {
+      "country": "United States",
+      "city": "New York",
+      "coordinates": {
+        "lat": 40.7544,
+        "lng": -73.9837
+      }
+    },
+    "year": 1911,
+    "tagline": "The 'Tiffany of public restrooms'—fresh flowers, classical music, rotating art.",
+    "description": "Built in 1911 by the same architects who designed the adjacent New York Public Library, the Bryant Park restroom is a Beaux-Arts granite pavilion that fell into decay by the 1960s and was closed entirely. The 1990s revival of Bryant Park—now a model of urban park renewal—brought it back. Renovations in 2006 and 2017 turned it into what The New York Times called the 'Tiffany of public restrooms.'\n\nThe interiors now feature fresh-cut flowers, classical music piped through speakers, full-service attendants, an air-conditioned interior, and a rotating selection of artworks from a 225-piece collection produced by a painters-in-residence programme. About a million people use it each year. It has been repeatedly named one of America's Best Restrooms by industry awards.",
+    "styles": [
+      "Heritage",
+      "Traditional"
+    ],
+    "features": [
+      "Historic",
+      "Accessible",
+      "Eco-friendly"
+    ],
+    "visitorTips": [
+      {
+        "title": "Good to Know",
+        "description": "Enter Bryant Park from 42nd Street; the restroom sits on the northern edge near the library.",
+        "icon": "info"
+      },
+      {
+        "title": "Best Time",
+        "description": "Visit on a weekday morning to skip queues.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Look at the artworks on the walls—they rotate and reference the park.",
+        "icon": "info"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Free, fully wheelchair accessible, fully staffed.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/nyc-bryant-park-restroom/cover.jpg",
+        "alt": "Beaux-Arts granite restroom building at the edge of Bryant Park",
+        "photographer": "Photo credit needed — Bryant Park Corporation press images",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — Bryant Park restroom",
+        "url": "https://en.wikipedia.org/wiki/Bryant_Park_restroom"
+      }
+    ],
+    "designer": {
+      "name": "John Merven Carrère & Thomas Hastings (original); Jennifer Nitzky and others (renovations)",
+      "firm": "Carrère & Hastings (original 1911); various (renovations)"
+    },
+    "practical": {
+      "openingHours": "Park hours (typically 7:00–22:00)",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Heritage",
+      "Historic"
+    ]
+  },
+  {
+    "slug": "kyoto-tofukuji-tosu",
+    "name": "Tofuku-ji Tōsu",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Kyoto",
+      "coordinates": {
+        "lat": 34.9764,
+        "lng": 135.7741
+      }
+    },
+    "year": 1425,
+    "tagline": "Japan's oldest surviving toilet—a 600-year-old Zen monks' communal latrine.",
+    "description": "Tucked among the sub-temples of Tofuku-ji, one of Kyoto's Five Great Zen temples, the Tōsu is an unassuming wooden hall that holds an extraordinary distinction: it is Japan's oldest surviving toilet. Built during the Muromachi period (early 15th century) for the monastery's resident monks, it is a Designated Important Cultural Property of Japan.\n\nInside, a long row of recessed square pits in the earthen floor served the community in strict ritual silence—part of the Zen discipline of treating every bodily function as a moment of mindful practice. The building is no longer in use, but a small wooden lattice lets visitors look in from outside, peering across six centuries of monastic life.",
+    "styles": [
+      "Heritage",
+      "Traditional"
+    ],
+    "features": [
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Tofuku-ji is a 10-minute walk from JR Tofukuji Station; the Tōsu sits within the main precinct.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The toilet itself is not entered—you view it through the wooden lattice from outside.",
+        "icon": "info"
+      },
+      {
+        "title": "Best Time",
+        "description": "Combine with Tofuku-ji's famous Tsutenkyo bridge, especially in November for autumn maple colour.",
+        "icon": "time"
+      },
+      {
+        "title": "Cost & Booking",
+        "description": "Free to view; the temple's main halls and gardens are paid entry.",
+        "icon": "ticket"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/kyoto-tofukuji-tosu/cover.jpg",
+        "alt": "Long wooden hall with sloping tile roof seen from a temple courtyard",
+        "photographer": "Photo credit needed (see Wikimedia Commons for CC options)",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tofuku-ji Temple official site",
+        "url": "https://tofukuji.jp/"
+      }
+    ],
+    "nameLocal": "東福寺 東司",
+    "designer": {
+      "name": "Unknown Zen Buddhist craftsmen",
+      "firm": "Tofuku-ji Temple complex"
+    },
+    "practical": {
+      "openingHours": "Generally 9:00–16:00, varies seasonally",
+      "fee": "Free (outside-view); temple gardens have admission fee",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Heritage",
+      "Historic"
+    ]
+  },
+  {
+    "slug": "uk-hampton-court-great-house-of-easement",
+    "name": "The Great House of Easement, Hampton Court Palace",
+    "region": "Europe",
+    "location": {
+      "country": "United Kingdom",
+      "city": "London (Hampton Court)",
+      "coordinates": {
+        "lat": 51.4036,
+        "lng": -0.3375
+      }
+    },
+    "year": 1536,
+    "tagline": "Henry VIII's communal palace toilet—seating 28 courtiers at once.",
+    "description": "When Henry VIII's court travelled to Hampton Court Palace it brought a household of around a thousand people, all of whom had to be accommodated. The solution included the Great House of Easement, a two-storey communal latrine built into the palace walls above the moat. At full capacity the structure could seat 28 courtiers simultaneously on rows of wooden boards above chutes that discharged directly into the river.\n\nThe palace also maintained a more dignified arrangement for the king himself—the Groom of the Stool, the courtier responsible for assisting Henry on a velvet-cushioned private close-stool, was among the most coveted positions at court precisely because of the intimate access it granted. The Great House of Easement survives today as part of the Historic Royal Palaces visitor route, a frank reminder of how Tudor royalty handled its plumbing.",
+    "styles": [
+      "Heritage",
+      "Traditional"
+    ],
+    "features": [
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Hampton Court is a 35-minute train ride from London Waterloo to Hampton Court station.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Take a costumed Tudor-era guided tour—staff often single out the Great House of Easement.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Don't miss the Tudor kitchens to complete the 'how the palace really ran' story.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Allow at least half a day for the palace and gardens combined.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/uk-hampton-court-great-house-of-easement/cover.jpg",
+        "alt": "Stone-lined Tudor latrine chamber at Hampton Court Palace",
+        "photographer": "Photo credit needed — Historic Royal Palaces images",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Royal Palaces — Hampton Court",
+        "url": "https://www.hrp.org.uk/hampton-court-palace/"
+      }
+    ],
+    "designer": {
+      "name": "Tudor royal works",
+      "firm": "Henry VIII's Office of Works"
+    },
+    "practical": {
+      "openingHours": "Hampton Court Palace hours (typically 10:00–18:00 in summer, 16:30 in winter)",
+      "fee": "Palace admission ticket required",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Heritage",
+      "Historic"
+    ]
+  },
+  {
+    "slug": "tokyo-jingumae-nigo-washington-heights",
+    "name": "Voice of Forest at Jingumae",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "coordinates": {
+        "lat": 35.6713,
+        "lng": 139.7038
+      }
+    },
+    "year": 2022,
+    "tagline": "A pitched-roof house referencing post-war American military housing in Yoyogi.",
+    "description": "Fashion designer NIGO—founder of streetwear label BAPE and current creative director of Kenzo—designed a toilet that looks, at first glance, like a child's drawing of a house. The form is no accident: NIGO modelled it on the small wooden bungalows of Washington Heights, the American military family housing that occupied the land of present-day Yoyogi Park during the post-war occupation.\n\nIt's an unexpectedly bittersweet history embedded in a public restroom: a quiet acknowledgement of mid-century Tokyo as a city shaped, briefly, by another country's domesticity. The white-painted exterior and small chimney-like vent stack up into something that feels both familiar and uncanny.",
+    "styles": [
+      "Whimsical",
+      "Traditional"
+    ],
+    "features": [
+      "Accessible",
+      "Art Installation",
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Three-minute walk from Meiji-Jingumae Station.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Read the small plaque or pre-research the Washington Heights story—context elevates the visit.",
+        "icon": "info"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Best photographed straight-on for the iconic 'kid's drawing of a house' silhouette.",
+        "icon": "camera"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Close to the Urasando toilet by Marc Newson—do both in one walk.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/cover.jpg",
+        "alt": "Small white pitched-roof house-shaped toilet pavilion",
+        "photographer": "Satoshi Nagare / The Nippon Foundation",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tokyo Toilet — Jingumae",
+        "url": "https://tokyotoilet.jp/en/"
+      }
+    ],
+    "nameLocal": "神宮前公衆トイレ",
+    "designer": {
+      "name": "NIGO",
+      "firm": "Human Made (creative direction)"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Accessible"
+    ]
+  },
+  {
+    "slug": "paris-uritrottoir",
+    "name": "Uritrottoir Composting Street Urinals",
+    "region": "Europe",
+    "location": {
+      "country": "France",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8443,
+        "lng": 2.3743
+      }
+    },
+    "year": 2018,
+    "tagline": "Bright red urinals topped with flower planters—pee in, compost out.",
+    "description": "France has a centuries-old problem its citizens politely call les pipis sauvages—wild urination. In 2018, Paris ran a pilot with Nantes-based design studio Faltazi to install Uritrottoirs ('sidewalk urinals') at hotspots near Gare de Lyon, the Île Saint-Louis, and the Boulevard de Clichy. Each is a bright red waist-high box with a flower planter on top, an opening on the front, and a bed of straw or wood chips inside.\n\nUsers urinate into the straw, a sensor pings city services when the box is full, and the contents are carted off to be composted into fertiliser for municipal parks. The pilots sparked global headlines—and local protests, especially on the Île Saint-Louis—but Faltazi's circular-economy design has since spread to Nantes, Antwerp and several music festivals.",
+    "styles": [
+      "Minimalist",
+      "Whimsical"
+    ],
+    "features": [
+      "Eco-friendly",
+      "Smart Tech"
+    ],
+    "visitorTips": [
+      {
+        "title": "Good to Know",
+        "description": "Most visible Paris locations include outside Gare de Lyon and along the Quai d'Anjou (Île Saint-Louis).",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The system is for standing-up urination only and is designed primarily for men—a major source of public criticism.",
+        "icon": "info"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Photograph respectfully—remember this is functional infrastructure, not a sculpture.",
+        "icon": "camera"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Faltazi's website lists active installations in other French cities and at festivals.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/paris-uritrottoir/cover.jpg",
+        "alt": "Red box-shaped sidewalk urinal with planted flowers on top",
+        "photographer": "Photo credit needed — Faltazi press images",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Faltazi project page",
+        "url": "https://www.faltazi.com/portfolio/uritrottoir-urinoir-sec-public/"
+      },
+      {
+        "title": "Dezeen coverage",
+        "url": "https://www.dezeen.com/2018/08/16/outdoor-urinals-cause-uproar-after-being-installed-on-paris-streets/"
+      }
+    ],
+    "designer": {
+      "name": "Laurent Lebot & Victor Massip",
+      "firm": "Faltazi"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Eco-friendly"
+    ]
+  },
+  {
+    "slug": "tokyo-ebisu-east-park-squid",
+    "name": "The Squid at Ebisu East Park",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "coordinates": {
+        "lat": 35.6464,
+        "lng": 139.7136
+      }
+    },
+    "year": 2020,
+    "tagline": "A cheerful, octopus-roofed pavilion in Tokyo's beloved 'octopus park'.",
+    "description": "Ebisu East Park has been nicknamed Octopus Park for decades, thanks to the much-loved tako (octopus) playground slide that anchors it. Pritzker laureate Fumihiko Maki—then in his nineties—responded with a decentralised pavilion whose splayed roof reads, depending on your mood, as octopus tentacles, a beach umbrella, or a paper aeroplane.\n\nThe layout opens sightlines in every direction so users feel safe approaching, while a cheerful ventilating canopy floods the interior with daylight. The toilet, like the slide, treats the park as a place to play—an unusually generous attitude for civic infrastructure.",
+    "styles": [
+      "Whimsical",
+      "Minimalist"
+    ],
+    "features": [
+      "Accessible",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Six-minute walk from Ebisu Station (JR and Hibiya line).",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Bring kids—the playground itself is one of Tokyo's most charming.",
+        "icon": "info"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Best photographed from the angle that frames roof and octopus slide together.",
+        "icon": "camera"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Free, accessible, with ostomate facilities.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/cover.jpg",
+        "alt": "Pavilion with splayed white roof in a small park",
+        "photographer": "Satoshi Nagare / The Nippon Foundation",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tokyo Toilet — Ebisu East Park",
+        "url": "https://tokyotoilet.jp/en/"
+      }
+    ],
+    "nameLocal": "恵比寿東公園トイレ",
+    "designer": {
+      "name": "Fumihiko Maki",
+      "firm": "Maki and Associates"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Accessible"
+    ]
+  },
+  {
+    "slug": "italy-pompeii-forum-latrine",
+    "name": "Forum Baths Public Latrine, Pompeii",
+    "region": "Europe",
+    "location": {
+      "country": "Italy",
+      "city": "Pompeii",
+      "coordinates": {
+        "lat": 40.7497,
+        "lng": 14.4869
+      }
+    },
+    "year": -80,
+    "tagline": "A communal Roman latrine frozen by Vesuvius in AD 79.",
+    "description": "The Forum Baths complex at Pompeii preserves one of the most intact public latrines of the ancient Roman world. A long stone bench with cut-out seats once seated a dozen-plus users at a time, with constantly running water in a channel beneath—a continuous flush—and a second channel of fresh water at the users' feet for rinsing the communal sponge-on-a-stick (the tersorium).\n\nGoing to the lavatory in ancient Rome was a sociable, sometimes business-conducting affair, completely without modern notions of privacy. The site was buried by ash on 24 August AD 79 and has been excavated and conserved as part of the Pompeii Archaeological Park. It remains a vivid window into the world's first urban sanitation civilisation.",
+    "styles": [
+      "Heritage"
+    ],
+    "features": [
+      "Historic"
+    ],
+    "visitorTips": [
+      {
+        "title": "Cost & Booking",
+        "description": "Buy Pompeii tickets online in advance and choose a guided tour to find the latrines without getting lost.",
+        "icon": "ticket"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The Forum Baths are near the main Forum—follow signs for Terme del Foro.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Pair with Herculaneum, a smaller but better-preserved nearby Roman city.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Wear sturdy shoes; the ancient pavers are uneven.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/italy-pompeii-forum-latrine/cover.jpg",
+        "alt": "Stone bench with circular openings in an excavated Roman bath house",
+        "photographer": "Photo credit needed — Wikimedia Commons CC option available",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pompeii Archaeological Park",
+        "url": "https://pompeiisites.org/en/"
+      }
+    ],
+    "nameLocal": "Latrina delle Terme del Foro",
+    "designer": {
+      "name": "Ancient Roman civic engineers",
+      "firm": "Roman public works"
+    },
+    "practical": {
+      "openingHours": "Pompeii Archaeological Park hours (typically 9:00–19:00 in summer)",
+      "fee": "Pompeii admission ticket required",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Heritage",
+      "Historic"
     ]
   },
   {
@@ -203,22 +1313,388 @@
     ]
   },
   {
-    "slug": "tokyo-jingu-dori-amayadori",
-    "name": "Amayadori at Jingu-Dori Park",
+    "slug": "norway-eggum-lofoten",
+    "name": "Eggum Rest Stop",
+    "region": "Europe",
+    "location": {
+      "country": "Norway",
+      "city": "Eggum, Lofoten",
+      "coordinates": {
+        "lat": 68.3661,
+        "lng": 13.6358
+      }
+    },
+    "year": 2007,
+    "tagline": "Snøhetta's smallest building—a rest stop facing the Norwegian Sea in Lofoten.",
+    "description": "Snøhetta, the Oslo-based studio famous for the Oslo Opera House and the September 11 Memorial Pavilion in New York, designed this tiny rest stop in 2007 along Norway's Lofoten Scenic Route. It is reportedly the firm's smallest completed building. The structure terminates a simple stone-paved path that runs from a former wartime radar foundation toward the sea, framing views of the Norwegian Sea, the surrounding mountains and—in the right season—the midnight sun.\n\nA short amphitheatre of curving stone steps doubles as a viewpoint and an informal stage. The toilet itself is plain, sturdy and weather-tight; the architecture is mostly in the staging of the view.",
+    "styles": [
+      "Minimalist",
+      "Brutalist"
+    ],
+    "features": [
+      "Scenic View",
+      "Accessible"
+    ],
+    "visitorTips": [
+      {
+        "title": "Best Time",
+        "description": "Lofoten is best visited late May to early September; winter access can be difficult.",
+        "icon": "time"
+      },
+      {
+        "title": "Getting There",
+        "description": "Fly to Leknes airport, then drive north along Highway 815.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Camp or hike nearby—the area is one of Lofoten's quieter coastal pockets.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Combine with the Unstad surf beach 20 minutes away.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/norway-eggum-lofoten/cover.jpg",
+        "alt": "Small stone toilet building at the end of a coastal path in Lofoten",
+        "photographer": "Photo credit needed — Norwegian Scenic Routes",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visit Norway — World's Best Toilets",
+        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
+      }
+    ],
+    "designer": {
+      "name": "Snøhetta",
+      "firm": "Snøhetta"
+    },
+    "practical": {
+      "openingHours": "Year-round; summer recommended",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Scenic View"
+    ]
+  },
+  {
+    "slug": "delhi-sulabh-toilet-museum",
+    "name": "Sulabh International Museum of Toilets",
+    "region": "Asia",
+    "location": {
+      "country": "India",
+      "city": "New Delhi",
+      "coordinates": {
+        "lat": 28.6133,
+        "lng": 77.0532
+      }
+    },
+    "year": 1992,
+    "tagline": "One of the world's only museums dedicated to the history of the toilet.",
+    "description": "Sulabh International, founded in 1970 by sanitation pioneer Dr Bindeshwar Pathak, is one of India's most important grassroots organisations. Its work pulling millions out of unsafe sanitation conditions led, in 1992, to the founding of an unusual museum on its New Delhi campus: a serious, fully curated history of the toilet from 2500 BC to the present, organised across Ancient, Medieval and Modern wings.\n\nExhibits include replicas of Roman latrines, illustrated chamber pots from European courts, Japanese washlets, modern composting toilets, and a famous gilded model of Louis XIV's commode-throne. The museum doubles as a research centre on sanitation technology and as a platform for Pathak's advocacy work, which earned him India's Padma Bhushan and the Stockholm Water Prize before his death in 2023.",
+    "styles": [
+      "Whimsical",
+      "Traditional"
+    ],
+    "features": [
+      "Historic",
+      "Eco-friendly",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Located on the Sulabh Gram campus in Mahavir Enclave, southwest Delhi.",
+        "icon": "location"
+      },
+      {
+        "title": "Cost & Booking",
+        "description": "Visiting hours typically Monday–Saturday, 10:00–17:00; closed Sundays and public holidays.",
+        "icon": "ticket"
+      },
+      {
+        "title": "Cost & Booking",
+        "description": "Free admission; donations support Sulabh's sanitation work.",
+        "icon": "ticket"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Best combined with a guided tour to understand the wider impact of Sulabh's social work.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/delhi-sulabh-toilet-museum/cover.jpg",
+        "alt": "Display cases of historic toilet artifacts in a museum gallery",
+        "photographer": "Photo credit needed — Sulabh International press archive",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sulabh International Museum of Toilets",
+        "url": "https://www.sulabhtoiletmuseum.org/"
+      }
+    ],
+    "nameLocal": "सुलभ इंटरनेशनल म्यूज़ियम ऑफ़ टॉयलेट्स",
+    "designer": {
+      "name": "Bindeshwar Pathak (founder)",
+      "firm": "Sulabh International Social Service Organisation"
+    },
+    "practical": {
+      "openingHours": "Mon–Sat 10:00–17:00 (verify locally)",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Whimsical",
+      "Historic"
+    ]
+  },
+  {
+    "slug": "norway-selvika-havoysund",
+    "name": "Selvika Rest Stop",
+    "region": "Europe",
+    "location": {
+      "country": "Norway",
+      "city": "Havøysund",
+      "coordinates": {
+        "lat": 70.9933,
+        "lng": 24.6611
+      }
+    },
+    "year": 2012,
+    "tagline": "A zig-zagging concrete path on the Arctic coast, with a toilet at the end.",
+    "description": "Along Norway's National Tourist Route Havøysund—running north of the 70th parallel, well above the Arctic Circle—Reiulf Ramstad Arkitekter designed a rest area that is mostly a journey. From the car park, a sharp zig-zag of white in-situ concrete walls descends toward the rocky shoreline, slowing visitors down and framing views of the Barents Sea. At the bottom is a small toilet block built from the same uncompromising concrete.\n\nThe project is part of Norway's celebrated Scenic Routes initiative, which commissions leading architects to design rest stops, viewpoints, and other small structures along eighteen designated roads. The Selvika rest stop has become one of the route's defining objects—architecture that turns a bathroom break into a slow, contemplative walk.",
+    "styles": [
+      "Minimalist",
+      "Brutalist"
+    ],
+    "features": [
+      "Scenic View",
+      "Accessible"
+    ],
+    "visitorTips": [
+      {
+        "title": "Best Time",
+        "description": "Open primarily in summer; the road is closed or unreliable in winter.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Walk slowly along the zig-zag—the architecture is designed to be experienced as a sequence.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Bring layers; the wind off the Barents Sea is fierce even in July.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Combine with the broader Havøysund Scenic Route for a multi-stop day.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/norway-selvika-havoysund/cover.jpg",
+        "alt": "White concrete zig-zag path descending to the Arctic coast",
+        "photographer": "Photo credit needed — Norwegian Scenic Routes",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visit Norway — World's Best Toilets",
+        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
+      }
+    ],
+    "designer": {
+      "name": "Reiulf Ramstad",
+      "firm": "Reiulf Ramstad Arkitekter"
+    },
+    "practical": {
+      "openingHours": "Year-round but summer recommended",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Scenic View"
+    ]
+  },
+  {
+    "slug": "singapore-marina-bay-sands-six-star",
+    "name": "Marina Bay Sands Six-Star Restroom",
+    "region": "Asia",
+    "location": {
+      "country": "Singapore",
+      "city": "Singapore",
+      "coordinates": {
+        "lat": 1.2833,
+        "lng": 103.8607
+      }
+    },
+    "year": 2010,
+    "tagline": "Singapore's only six-star restroom—the highest rating ever issued by the RAS.",
+    "description": "Singapore takes its public toilets seriously. The Restroom Association of Singapore (RAS) rates restrooms on a three-to-six-star scale, with six stars reserved for facilities scoring above 104 out of 108 on criteria covering everything from hand-soap provision to deployment of holistic 'detect-feedback-eliminate-clean' technology. In 2018, six restrooms at The Shoppes at Marina Bay Sands became the first—and so far only—facilities in Singapore to receive the six-star rating.\n\nThe restrooms are a logical extension of Moshe Safdie's gleaming integrated resort: motion-sensor everything, gold-trimmed marble fittings, ambient music, fresh florals, and immaculate cleanliness even during peak tourist hours. The RAS Happy Toilet program is endorsed by the World Toilet Organization, headquartered in Singapore.",
+    "styles": [
+      "Futuristic",
+      "Minimalist"
+    ],
+    "features": [
+      "Smart Tech",
+      "Accessible"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Take the MRT to Bayfront station (Downtown/Circle Line)—directly inside the mall.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The six-star rated restrooms are scattered across The Shoppes; ask any concierge or look for the Happy Toilet decal.",
+        "icon": "info"
+      },
+      {
+        "title": "Cost & Booking",
+        "description": "Free to use, no purchase required, but the mall expects mall-going decorum.",
+        "icon": "ticket"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Combine with a stroll across the Helix Bridge for the Marina Bay skyline.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/singapore-marina-bay-sands-six-star/cover.jpg",
+        "alt": "Polished marble interior of a luxury shopping mall restroom",
+        "photographer": "Photo credit needed — Marina Bay Sands press images",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Restroom Association Singapore — Happy Toilet Programme",
+        "url": "https://www.toilet.org.sg/happytoilets"
+      }
+    ],
+    "designer": {
+      "name": "Marina Bay Sands facilities team",
+      "firm": "Originally Moshe Safdie Architects (resort)"
+    },
+    "practical": {
+      "openingHours": "Mall hours (typically 10:00–23:00)",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Futuristic",
+      "Smart Tech"
+    ]
+  },
+  {
+    "slug": "london-sketch-egg-pods",
+    "name": "Egg Pod Toilets at Sketch",
+    "region": "Europe",
+    "location": {
+      "country": "United Kingdom",
+      "city": "London",
+      "coordinates": {
+        "lat": 51.5135,
+        "lng": -0.1421
+      }
+    },
+    "year": 2003,
+    "tagline": "Walk-in white eggs under a rainbow ceiling, in Mayfair's most photogenic loo.",
+    "description": "Climb the curving staircase at the back of Sketch—the avant-garde restaurant set in a Georgian townhouse on Conduit Street—and you arrive at one of the world's most photographed bathrooms. A high white room is studded with milky, free-standing egg-shaped pods, each one a private unisex toilet stall. Overhead: a multicoloured rainbow LED ceiling. Around the corner: staff in Victorian housekeeper uniforms polishing fittings.\n\nProject architect India Mahdavi designed the space when Sketch first opened in 2003 under restaurateur Mourad Mazouz. Twenty-plus years on, the pods are still the punctum of every guest's visit—an Instagram pilgrimage site by way of Stanley Kubrick.",
+    "styles": [
+      "Futuristic",
+      "Whimsical"
+    ],
+    "features": [
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Cost & Booking",
+        "description": "You need to be a Sketch customer to enter—book afternoon tea, drinks, or a meal in any of the rooms.",
+        "icon": "ticket"
+      },
+      {
+        "title": "Getting There",
+        "description": "Address: 9 Conduit Street, Mayfair, London W1S 2XG (5 mins from Oxford Circus).",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The pods are unisex—don't be surprised by the queue.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Visit upstairs to the second 'jewellery box' toilet, less famous but worth seeing.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/london-sketch-egg-pods/cover.jpg",
+        "alt": "White egg-shaped toilet pods under a multicoloured ceiling",
+        "photographer": "Photo credit needed — official press images available from sketch.london",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sketch London official site",
+        "url": "https://sketch.london/"
+      }
+    ],
+    "designer": {
+      "name": "India Mahdavi",
+      "firm": "India Mahdavi (project architect for Sketch)"
+    },
+    "practical": {
+      "openingHours": "Restaurant hours: typically 7am–2am, varies by room",
+      "fee": "Restaurant minimum purchase required",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Futuristic",
+      "Art Installation"
+    ]
+  },
+  {
+    "slug": "tokyo-higashi-sanchome-origata",
+    "name": "Origata at Higashi Sanchome",
     "region": "Asia",
     "location": {
       "country": "Japan",
       "city": "Tokyo",
       "coordinates": {
-        "lat": 35.6692,
-        "lng": 139.7081
+        "lat": 35.6443,
+        "lng": 139.7158
       }
     },
     "year": 2020,
-    "tagline": "A circular concrete drum wrapped in louvres—Tadao Ando's pocket-sized monument.",
-    "description": "Tadao Ando named his contribution to the Tokyo Toilet project Amayadori, which translates roughly as 'taking shelter from the rain.' The cylindrical pavilion uses a circular plan with wide overhanging eaves to create an engawa—the Japanese in-between space that mediates inside and outside—giving passers-by a place to pause as well as a place to relieve themselves.\n\nLight filters through the vertical louvres into the central ring, where signage and sinks are arranged on a single passable loop. Ando, never one for ornament, treats this five-square-metre building with the same gravity he brings to museums and chapels: 'I sought for this small architecture to exceed the boundaries of a public toilet,' he wrote, 'to become a place in the urban landscape.'",
+    "tagline": "A bright red origami of a building on a narrow triangular plot in Shibuya.",
+    "description": "New York–based Japanese designer Nao Tamura was given one of the trickiest sites in the Tokyo Toilet project: a tiny triangular plot wedged between a residential street and a railway line. She responded with one of the boldest objects in the series. The whole structure is painted vivid red, its thin metal eaves folded into sharp creases that recall Origata—the traditional Japanese art of decorative paper-wrapping for gifts.\n\nInside, the building is split into three fully independent unisex stalls so users do not have to gender themselves at a door before entering. Tamura, drawing on her years living in New York's LGBTQ+ community, designed the toilet explicitly as a safer space for people across the gender spectrum. The thin red eaves required new construction techniques—structural steel sheets rolled to a 20mm thickness—to keep the origami crispness Tamura wanted.",
     "styles": [
-      "Minimalist",
+      "Whimsical",
       "Traditional"
     ],
     "features": [
@@ -228,47 +1704,47 @@
     "visitorTips": [
       {
         "title": "Getting There",
-        "description": "Five-minute walk from Shibuya Station, north along Jingu-Dori.",
+        "description": "Three-minute walk from Higashi Station (Tokyo Metro Fukutoshin line) or 8 minutes from Ebisu.",
         "icon": "location"
       },
       {
         "title": "Best Time",
-        "description": "Visit in spring—the surrounding cherry trees frame the cylinder beautifully.",
+        "description": "Catch it at sunset—the red glows against the surrounding grey buildings.",
         "icon": "time"
       },
       {
-        "title": "Good to Know",
-        "description": "The engawa underneath the eaves doubles as a small public bench; lingering is encouraged.",
-        "icon": "info"
+        "title": "Accessibility",
+        "description": "All three stalls are unisex; each is fully accessible and equipped for stoma users.",
+        "icon": "accessibility"
       },
       {
-        "title": "Photo Tips",
-        "description": "Photographs best mid-morning when louvre shadows are crisp.",
-        "icon": "camera"
+        "title": "Getting There",
+        "description": "Combine with the nearby Ebisu Park (Katayama) and Ebisu Station West (Sato) toilets.",
+        "icon": "location"
       }
     ],
     "images": [
       {
-        "src": "/images/tokyo-jingu-dori-amayadori/cover.jpg",
-        "alt": "Circular louvred concrete toilet pavilion in a small park",
+        "src": "/images/tokyo-higashi-sanchome-origata/cover.jpg",
+        "alt": "Bright red triangular toilet building with folded paper-like eaves",
         "photographer": "Satoshi Nagare / The Nippon Foundation",
         "licenseStatus": "pending"
       }
     ],
     "sources": [
       {
-        "title": "The Tokyo Toilet — Jingu-Dori Park",
-        "url": "https://tokyotoilet.jp/en/jingu-dori_park/"
+        "title": "The Tokyo Toilet — Higashi Sanchome",
+        "url": "https://tokyotoilet.jp/en/higashi_sanchome/"
       },
       {
-        "title": "Dezeen coverage",
-        "url": "https://www.dezeen.com/2020/09/14/tadao-ando-toilet-tokyo-jingu-dori-park/"
+        "title": "Designboom feature",
+        "url": "https://www.designboom.com/architecture/nao-tamura-red-restroom-tokyo-toilet-japan-08-10-2020"
       }
     ],
-    "nameLocal": "神宮通公園 アマヤドリ",
+    "nameLocal": "東三丁目公衆トイレ",
     "designer": {
-      "name": "Tadao Ando",
-      "firm": "Tadao Ando Architect & Associates"
+      "name": "Nao Tamura",
+      "firm": "Nao Tamura (product designer)"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -276,8 +1752,81 @@
       "accessibility": "Wheelchair accessible"
     },
     "tags": [
-      "Minimalist",
+      "Whimsical",
       "Accessible"
+    ]
+  },
+  {
+    "slug": "norway-utsikten-gaularfjellet",
+    "name": "Utsikten Viewpoint & Rest Area",
+    "region": "Europe",
+    "location": {
+      "country": "Norway",
+      "city": "Gaularfjellet",
+      "coordinates": {
+        "lat": 61.3422,
+        "lng": 6.2647
+      }
+    },
+    "year": 2017,
+    "tagline": "A sharp triangular concrete deck cantilevered over a Norwegian fjord valley.",
+    "description": "On the Gaularfjellet Scenic Route in western Norway, the Utsikten ('the view') rest area projects a sharp triangular concrete platform out toward a panoramic fjord-and-mountain landscape. The geometry frames a single unforgettable view; a small adjoining structure houses public toilets and shelter. The combination—pure form, big nature, no fuss—has made the stop a fixture on Norwegian architecture tours.",
+    "styles": [
+      "Futuristic",
+      "Minimalist"
+    ],
+    "features": [
+      "Scenic View",
+      "Accessible"
+    ],
+    "visitorTips": [
+      {
+        "title": "Best Time",
+        "description": "The Gaularfjellet road is closed in winter (typically October–May); check before travelling.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Don't skip the rest of the Gaularfjellet route—several other Scenic Route stops are nearby.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Pack a picnic; the cantilevered deck is begging for slow coffee.",
+        "icon": "info"
+      },
+      {
+        "title": "Photo Tips",
+        "description": "Photograph mid-afternoon when the deck and valley share even light.",
+        "icon": "camera"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/norway-utsikten-gaularfjellet/cover.jpg",
+        "alt": "Triangular concrete viewing platform cantilevered over a valley",
+        "photographer": "Photo credit needed — Norwegian Scenic Routes",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visit Norway — World's Best Toilets",
+        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
+      }
+    ],
+    "designer": {
+      "name": "Code Arkitektur",
+      "firm": "Code Arkitektur"
+    },
+    "practical": {
+      "openingHours": "Summer season only (typically May–October)",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Futuristic",
+      "Scenic View"
     ]
   },
   {
@@ -356,151 +1905,76 @@
     ]
   },
   {
-    "slug": "tokyo-yoyogi-hachiman-mushrooms",
-    "name": "Three Mushrooms at Yoyogi-Hachiman",
-    "region": "Asia",
+    "slug": "norway-bukkekjerka-andoya",
+    "name": "Bukkekjerka Rest Stop",
+    "region": "Europe",
     "location": {
-      "country": "Japan",
-      "city": "Tokyo",
+      "country": "Norway",
+      "city": "Andøya",
       "coordinates": {
-        "lat": 35.6709,
-        "lng": 139.6877
+        "lat": 69.0567,
+        "lng": 15.7311
       }
     },
-    "year": 2021,
-    "tagline": "Three white shapes rise from the shrine forest like mushrooms after rain.",
-    "description": "Pritzker laureate Toyo Ito placed his Tokyo Toilet contribution beside the entrance to Yoyogi-Hachiman shrine, on a busy stretch of Yamate-Dori. Faced with a forested site adjacent to sacred ground, he split the building into three rounded volumes that rise from the earth like white mushrooms among the cedars.\n\nThe separation isn't only visual: each volume houses one of the three units (men's, women's, accessible), with interconnecting paths that maintain sightlines and a sense of safety. The interiors are kept deliberately bright and clean-lined, the trio reading from the street as a small grove of architectural fungi.",
+    "year": 2018,
+    "tagline": "An angular mirrored toilet that disappears into a sacred Sámi rock formation.",
+    "description": "Bukkekjerka is a striking natural rock formation on the island of Andøya, used historically as a sacred site by the local Sámi people. Morfeus Arkitekter's intervention here is deliberately humble: a small toilet and shelter clad in dark, angular panels that reflect the surrounding cliffs and sky, so the building all but vanishes against the geology.\n\nA discreet walkway leads visitors from the road to a coastal viewpoint past the toilet, ensuring the natural and cultural site remains the protagonist. It's a textbook example of the Scenic Routes program's philosophy: architecture as a hinge, not a hero.",
     "styles": [
-      "Whimsical",
-      "Minimalist"
+      "Minimalist",
+      "Futuristic"
     ],
     "features": [
-      "Accessible",
-      "Art Installation"
+      "Scenic View",
+      "Accessible"
     ],
     "visitorTips": [
       {
         "title": "Getting There",
-        "description": "Two-minute walk from Yoyogi-Hachiman Station (Odakyu line).",
+        "description": "Andøya is the northernmost of the Vesterålen islands—plan a long drive or fly to Andenes airport.",
         "icon": "location"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Photograph from across Yamate-Dori for the best 'three mushrooms' composition.",
-        "icon": "camera"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Worth combining with a visit to the shrine itself, especially during festival days.",
-        "icon": "info"
       },
       {
         "title": "Best Time",
-        "description": "Lit at night, the volumes glow softly through the trees.",
+        "description": "Visit in summer for the midnight sun or autumn for the Northern Lights.",
         "icon": "time"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/tokyo-yoyogi-hachiman-mushrooms/cover.jpg",
-        "alt": "Three white rounded toilet structures at a shrine entrance",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Tokyo Toilet — Yoyogi-Hachiman",
-        "url": "https://tokyotoilet.jp/en/"
-      }
-    ],
-    "nameLocal": "代々木八幡公衆トイレ",
-    "designer": {
-      "name": "Toyo Ito",
-      "firm": "Toyo Ito & Associates"
-    },
-    "practical": {
-      "openingHours": "24 hours",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
-      "Accessible"
-    ]
-  },
-  {
-    "slug": "tokyo-ebisu-east-park-squid",
-    "name": "The Squid at Ebisu East Park",
-    "region": "Asia",
-    "location": {
-      "country": "Japan",
-      "city": "Tokyo",
-      "coordinates": {
-        "lat": 35.6464,
-        "lng": 139.7136
-      }
-    },
-    "year": 2020,
-    "tagline": "A cheerful, octopus-roofed pavilion in Tokyo's beloved 'octopus park'.",
-    "description": "Ebisu East Park has been nicknamed Octopus Park for decades, thanks to the much-loved tako (octopus) playground slide that anchors it. Pritzker laureate Fumihiko Maki—then in his nineties—responded with a decentralised pavilion whose splayed roof reads, depending on your mood, as octopus tentacles, a beach umbrella, or a paper aeroplane.\n\nThe layout opens sightlines in every direction so users feel safe approaching, while a cheerful ventilating canopy floods the interior with daylight. The toilet, like the slide, treats the park as a place to play—an unusually generous attitude for civic infrastructure.",
-    "styles": [
-      "Whimsical",
-      "Minimalist"
-    ],
-    "features": [
-      "Accessible",
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Six-minute walk from Ebisu Station (JR and Hibiya line).",
-        "icon": "location"
       },
       {
         "title": "Good to Know",
-        "description": "Bring kids—the playground itself is one of Tokyo's most charming.",
+        "description": "Respect the site's Sámi cultural significance—keep voices low and stay on paths.",
         "icon": "info"
       },
       {
-        "title": "Photo Tips",
-        "description": "Best photographed from the angle that frames roof and octopus slide together.",
-        "icon": "camera"
-      },
-      {
-        "title": "Accessibility",
-        "description": "Free, accessible, with ostomate facilities.",
-        "icon": "accessibility"
+        "title": "Good to Know",
+        "description": "Whale-watching tours operate from nearby Andenes, an easy combination.",
+        "icon": "info"
       }
     ],
     "images": [
       {
-        "src": "/images/tokyo-ebisu-east-park-squid/cover.jpg",
-        "alt": "Pavilion with splayed white roof in a small park",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
+        "src": "/images/norway-bukkekjerka-andoya/cover.jpg",
+        "alt": "Angular dark-clad toilet structure beside a coastal rock formation",
+        "photographer": "Photo credit needed — Norwegian Scenic Routes",
         "licenseStatus": "pending"
       }
     ],
     "sources": [
       {
-        "title": "The Tokyo Toilet — Ebisu East Park",
-        "url": "https://tokyotoilet.jp/en/"
+        "title": "Visit Norway — World's Best Toilets",
+        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
       }
     ],
-    "nameLocal": "恵比寿東公園トイレ",
     "designer": {
-      "name": "Fumihiko Maki",
-      "firm": "Maki and Associates"
+      "name": "Morfeus Arkitekter",
+      "firm": "Morfeus Arkitekter"
     },
     "practical": {
-      "openingHours": "24 hours",
+      "openingHours": "Summer season recommended",
       "fee": "Free",
       "accessibility": "Wheelchair accessible"
     },
     "tags": [
-      "Whimsical",
-      "Accessible"
+      "Minimalist",
+      "Scenic View"
     ]
   },
   {
@@ -578,20 +2052,20 @@
     ]
   },
   {
-    "slug": "tokyo-urasando-marc-newson",
-    "name": "Urasando Public Toilet",
+    "slug": "tokyo-jingu-dori-amayadori",
+    "name": "Amayadori at Jingu-Dori Park",
     "region": "Asia",
     "location": {
       "country": "Japan",
       "city": "Tokyo",
       "coordinates": {
-        "lat": 35.6708,
-        "lng": 139.7035
+        "lat": 35.6692,
+        "lng": 139.7081
       }
     },
-    "year": 2023,
-    "tagline": "A mint-green hut with a copper roof, modelled on a Japanese tea house.",
-    "description": "Industrial designer Marc Newson—better known for chairs, aircraft interiors and Apple Watches—made his architectural debut with this tea-house-inspired toilet on a quiet side street near Meiji Jingumae. The minimalist hut with its sweeping copper roof references the simple geometries of traditional Japanese teahouses and shrine outbuildings, treated with a contemporary minty palette.\n\nThe copper, untreated, will weather over decades into a soft green patina, weaving the building gradually into Tokyo's urban fabric. Inside, the fittings are characteristically Newson—rounded edges, precise details, soft lighting—turning a utilitarian box into a small object of industrial design.",
+    "year": 2020,
+    "tagline": "A circular concrete drum wrapped in louvres—Tadao Ando's pocket-sized monument.",
+    "description": "Tadao Ando named his contribution to the Tokyo Toilet project Amayadori, which translates roughly as 'taking shelter from the rain.' The cylindrical pavilion uses a circular plan with wide overhanging eaves to create an engawa—the Japanese in-between space that mediates inside and outside—giving passers-by a place to pause as well as a place to relieve themselves.\n\nLight filters through the vertical louvres into the central ring, where signage and sinks are arranged on a single passable loop. Ando, never one for ornament, treats this five-square-metre building with the same gravity he brings to museums and chapels: 'I sought for this small architecture to exceed the boundaries of a public toilet,' he wrote, 'to become a place in the urban landscape.'",
     "styles": [
       "Minimalist",
       "Traditional"
@@ -603,43 +2077,47 @@
     "visitorTips": [
       {
         "title": "Getting There",
-        "description": "Two-minute walk from Meiji-Jingumae 'Harajuku' Station.",
+        "description": "Five-minute walk from Shibuya Station, north along Jingu-Dori.",
         "icon": "location"
       },
       {
         "title": "Best Time",
-        "description": "Visit on a sunny afternoon when the copper roof glows.",
+        "description": "Visit in spring—the surrounding cherry trees frame the cylinder beautifully.",
         "icon": "time"
       },
       {
         "title": "Good to Know",
-        "description": "Newson rarely designs buildings—this is among his only completed works of public architecture.",
+        "description": "The engawa underneath the eaves doubles as a small public bench; lingering is encouraged.",
         "icon": "info"
       },
       {
-        "title": "Good to Know",
-        "description": "Quieter neighbourhood than the main Harajuku drag; combine with a stroll down Cat Street.",
-        "icon": "info"
+        "title": "Photo Tips",
+        "description": "Photographs best mid-morning when louvre shadows are crisp.",
+        "icon": "camera"
       }
     ],
     "images": [
       {
-        "src": "/images/tokyo-urasando-marc-newson/cover.jpg",
-        "alt": "Mint-green hut with a copper hipped roof on a residential street",
+        "src": "/images/tokyo-jingu-dori-amayadori/cover.jpg",
+        "alt": "Circular louvred concrete toilet pavilion in a small park",
         "photographer": "Satoshi Nagare / The Nippon Foundation",
         "licenseStatus": "pending"
       }
     ],
     "sources": [
       {
-        "title": "The Tokyo Toilet — Urasando",
-        "url": "https://tokyotoilet.jp/en/"
+        "title": "The Tokyo Toilet — Jingu-Dori Park",
+        "url": "https://tokyotoilet.jp/en/jingu-dori_park/"
+      },
+      {
+        "title": "Dezeen coverage",
+        "url": "https://www.dezeen.com/2020/09/14/tadao-ando-toilet-tokyo-jingu-dori-park/"
       }
     ],
-    "nameLocal": "裏参道公衆トイレ",
+    "nameLocal": "神宮通公園 アマヤドリ",
     "designer": {
-      "name": "Marc Newson",
-      "firm": "Marc Newson Ltd"
+      "name": "Tadao Ando",
+      "firm": "Tadao Ando Architect & Associates"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -648,81 +2126,6 @@
     },
     "tags": [
       "Minimalist",
-      "Accessible"
-    ]
-  },
-  {
-    "slug": "tokyo-jingumae-nigo-washington-heights",
-    "name": "Voice of Forest at Jingumae",
-    "region": "Asia",
-    "location": {
-      "country": "Japan",
-      "city": "Tokyo",
-      "coordinates": {
-        "lat": 35.6713,
-        "lng": 139.7038
-      }
-    },
-    "year": 2022,
-    "tagline": "A pitched-roof house referencing post-war American military housing in Yoyogi.",
-    "description": "Fashion designer NIGO—founder of streetwear label BAPE and current creative director of Kenzo—designed a toilet that looks, at first glance, like a child's drawing of a house. The form is no accident: NIGO modelled it on the small wooden bungalows of Washington Heights, the American military family housing that occupied the land of present-day Yoyogi Park during the post-war occupation.\n\nIt's an unexpectedly bittersweet history embedded in a public restroom: a quiet acknowledgement of mid-century Tokyo as a city shaped, briefly, by another country's domesticity. The white-painted exterior and small chimney-like vent stack up into something that feels both familiar and uncanny.",
-    "styles": [
-      "Whimsical",
-      "Traditional"
-    ],
-    "features": [
-      "Accessible",
-      "Art Installation",
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Three-minute walk from Meiji-Jingumae Station.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Read the small plaque or pre-research the Washington Heights story—context elevates the visit.",
-        "icon": "info"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Best photographed straight-on for the iconic 'kid's drawing of a house' silhouette.",
-        "icon": "camera"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Close to the Urasando toilet by Marc Newson—do both in one walk.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/tokyo-jingumae-nigo-washington-heights/cover.jpg",
-        "alt": "Small white pitched-roof house-shaped toilet pavilion",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Tokyo Toilet — Jingumae",
-        "url": "https://tokyotoilet.jp/en/"
-      }
-    ],
-    "nameLocal": "神宮前公衆トイレ",
-    "designer": {
-      "name": "NIGO",
-      "firm": "Human Made (creative direction)"
-    },
-    "practical": {
-      "openingHours": "24 hours",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
       "Accessible"
     ]
   },
@@ -789,6 +2192,158 @@
     "designer": {
       "name": "Kashiwa Sato",
       "firm": "Samurai (creative direction)"
+    },
+    "practical": {
+      "openingHours": "24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Accessible"
+    ]
+  },
+  {
+    "slug": "ichihara-toilet-in-nature",
+    "name": "Toilet in Nature",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Ichihara",
+      "coordinates": {
+        "lat": 35.2978,
+        "lng": 140.1322
+      }
+    },
+    "year": 2012,
+    "tagline": "A single glass cubicle in the middle of a 200m² walled meadow.",
+    "description": "Beside the tiny, unstaffed Itabu Station in rural Chiba, Sou Fujimoto designed what he calls 'the world's largest bathroom stall.' A single glass-walled toilet stands in the middle of a 200-square-metre meadow planted with grasses, clover and a cherry tree—the entire garden encircled by a two-metre-high fence of 675 vertical cedar logs.\n\nFrom the bench outside, you cannot tell there's a toilet here at all. Step through the gate, walk across the wildflower field, open the door of the glass box—and the experience becomes both intensely private and dazzlingly open to the sky. Built in 2012 ahead of a local art festival, it predates the Tokyo Toilet Project by eight years and arguably inspired Shigeru Ban's transparent gambit.",
+    "styles": [
+      "Minimalist",
+      "Futuristic"
+    ],
+    "features": [
+      "Scenic View",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Take the Kominato Railway to Itabu Station—about 100 minutes from Chiba Station.",
+        "icon": "location"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The glass cubicle is for women only; a smaller unisex restroom sits beside the garden gate.",
+        "icon": "info"
+      },
+      {
+        "title": "Best Time",
+        "description": "Cherry blossom season (late March–early April) is the most beautiful time to visit.",
+        "icon": "time"
+      },
+      {
+        "title": "Cost & Booking",
+        "description": "There is no staff and no entry fee; treat it with quiet respect.",
+        "icon": "ticket"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/ichihara-toilet-in-nature/cover.jpg",
+        "alt": "Glass-walled toilet in a wildflower meadow surrounded by a wooden log fence",
+        "photographer": "Iwan Baan / courtesy Sou Fujimoto Architects",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Designboom feature",
+        "url": "https://www.designboom.com/architecture/sou-fujimotos-public-toilet-in-ichihara-is-a-garden-escape-10-29-2013/"
+      },
+      {
+        "title": "Atlas Obscura — Toilet in Nature",
+        "url": "https://www.atlasobscura.com/places/toilet-in-nature"
+      }
+    ],
+    "nameLocal": "市原トイレ・イチハラトイレ",
+    "designer": {
+      "name": "Sou Fujimoto",
+      "firm": "Sou Fujimoto Architects"
+    },
+    "practical": {
+      "openingHours": "Daylight hours (station is unstaffed)",
+      "fee": "Free",
+      "accessibility": "Not wheelchair accessible"
+    },
+    "tags": [
+      "Minimalist",
+      "Scenic View"
+    ]
+  },
+  {
+    "slug": "tokyo-urasando-marc-newson",
+    "name": "Urasando Public Toilet",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "coordinates": {
+        "lat": 35.6708,
+        "lng": 139.7035
+      }
+    },
+    "year": 2023,
+    "tagline": "A mint-green hut with a copper roof, modelled on a Japanese tea house.",
+    "description": "Industrial designer Marc Newson—better known for chairs, aircraft interiors and Apple Watches—made his architectural debut with this tea-house-inspired toilet on a quiet side street near Meiji Jingumae. The minimalist hut with its sweeping copper roof references the simple geometries of traditional Japanese teahouses and shrine outbuildings, treated with a contemporary minty palette.\n\nThe copper, untreated, will weather over decades into a soft green patina, weaving the building gradually into Tokyo's urban fabric. Inside, the fittings are characteristically Newson—rounded edges, precise details, soft lighting—turning a utilitarian box into a small object of industrial design.",
+    "styles": [
+      "Minimalist",
+      "Traditional"
+    ],
+    "features": [
+      "Accessible",
+      "Art Installation"
+    ],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Two-minute walk from Meiji-Jingumae 'Harajuku' Station.",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Visit on a sunny afternoon when the copper roof glows.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Newson rarely designs buildings—this is among his only completed works of public architecture.",
+        "icon": "info"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Quieter neighbourhood than the main Harajuku drag; combine with a stroll down Cat Street.",
+        "icon": "info"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-urasando-marc-newson/cover.jpg",
+        "alt": "Mint-green hut with a copper hipped roof on a residential street",
+        "photographer": "Satoshi Nagare / The Nippon Foundation",
+        "licenseStatus": "pending"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tokyo Toilet — Urasando",
+        "url": "https://tokyotoilet.jp/en/"
+      }
+    ],
+    "nameLocal": "裏参道公衆トイレ",
+    "designer": {
+      "name": "Marc Newson",
+      "firm": "Marc Newson Ltd"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -872,1562 +2427,6 @@
     "tags": [
       "Traditional",
       "Accessible"
-    ]
-  },
-  {
-    "slug": "tokyo-higashi-sanchome-origata",
-    "name": "Origata at Higashi Sanchome",
-    "region": "Asia",
-    "location": {
-      "country": "Japan",
-      "city": "Tokyo",
-      "coordinates": {
-        "lat": 35.6443,
-        "lng": 139.7158
-      }
-    },
-    "year": 2020,
-    "tagline": "A bright red origami of a building on a narrow triangular plot in Shibuya.",
-    "description": "New York–based Japanese designer Nao Tamura was given one of the trickiest sites in the Tokyo Toilet project: a tiny triangular plot wedged between a residential street and a railway line. She responded with one of the boldest objects in the series. The whole structure is painted vivid red, its thin metal eaves folded into sharp creases that recall Origata—the traditional Japanese art of decorative paper-wrapping for gifts.\n\nInside, the building is split into three fully independent unisex stalls so users do not have to gender themselves at a door before entering. Tamura, drawing on her years living in New York's LGBTQ+ community, designed the toilet explicitly as a safer space for people across the gender spectrum. The thin red eaves required new construction techniques—structural steel sheets rolled to a 20mm thickness—to keep the origami crispness Tamura wanted.",
-    "styles": [
-      "Whimsical",
-      "Traditional"
-    ],
-    "features": [
-      "Accessible",
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Three-minute walk from Higashi Station (Tokyo Metro Fukutoshin line) or 8 minutes from Ebisu.",
-        "icon": "location"
-      },
-      {
-        "title": "Best Time",
-        "description": "Catch it at sunset—the red glows against the surrounding grey buildings.",
-        "icon": "time"
-      },
-      {
-        "title": "Accessibility",
-        "description": "All three stalls are unisex; each is fully accessible and equipped for stoma users.",
-        "icon": "accessibility"
-      },
-      {
-        "title": "Getting There",
-        "description": "Combine with the nearby Ebisu Park (Katayama) and Ebisu Station West (Sato) toilets.",
-        "icon": "location"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/tokyo-higashi-sanchome-origata/cover.jpg",
-        "alt": "Bright red triangular toilet building with folded paper-like eaves",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Tokyo Toilet — Higashi Sanchome",
-        "url": "https://tokyotoilet.jp/en/higashi_sanchome/"
-      },
-      {
-        "title": "Designboom feature",
-        "url": "https://www.designboom.com/architecture/nao-tamura-red-restroom-tokyo-toilet-japan-08-10-2020"
-      }
-    ],
-    "nameLocal": "東三丁目公衆トイレ",
-    "designer": {
-      "name": "Nao Tamura",
-      "firm": "Nao Tamura (product designer)"
-    },
-    "practical": {
-      "openingHours": "24 hours",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
-      "Accessible"
-    ]
-  },
-  {
-    "slug": "ichihara-toilet-in-nature",
-    "name": "Toilet in Nature",
-    "region": "Asia",
-    "location": {
-      "country": "Japan",
-      "city": "Ichihara",
-      "coordinates": {
-        "lat": 35.2978,
-        "lng": 140.1322
-      }
-    },
-    "year": 2012,
-    "tagline": "A single glass cubicle in the middle of a 200m² walled meadow.",
-    "description": "Beside the tiny, unstaffed Itabu Station in rural Chiba, Sou Fujimoto designed what he calls 'the world's largest bathroom stall.' A single glass-walled toilet stands in the middle of a 200-square-metre meadow planted with grasses, clover and a cherry tree—the entire garden encircled by a two-metre-high fence of 675 vertical cedar logs.\n\nFrom the bench outside, you cannot tell there's a toilet here at all. Step through the gate, walk across the wildflower field, open the door of the glass box—and the experience becomes both intensely private and dazzlingly open to the sky. Built in 2012 ahead of a local art festival, it predates the Tokyo Toilet Project by eight years and arguably inspired Shigeru Ban's transparent gambit.",
-    "styles": [
-      "Minimalist",
-      "Futuristic"
-    ],
-    "features": [
-      "Scenic View",
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Take the Kominato Railway to Itabu Station—about 100 minutes from Chiba Station.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The glass cubicle is for women only; a smaller unisex restroom sits beside the garden gate.",
-        "icon": "info"
-      },
-      {
-        "title": "Best Time",
-        "description": "Cherry blossom season (late March–early April) is the most beautiful time to visit.",
-        "icon": "time"
-      },
-      {
-        "title": "Cost & Booking",
-        "description": "There is no staff and no entry fee; treat it with quiet respect.",
-        "icon": "ticket"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/ichihara-toilet-in-nature/cover.jpg",
-        "alt": "Glass-walled toilet in a wildflower meadow surrounded by a wooden log fence",
-        "photographer": "Iwan Baan / courtesy Sou Fujimoto Architects",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Designboom feature",
-        "url": "https://www.designboom.com/architecture/sou-fujimotos-public-toilet-in-ichihara-is-a-garden-escape-10-29-2013/"
-      },
-      {
-        "title": "Atlas Obscura — Toilet in Nature",
-        "url": "https://www.atlasobscura.com/places/toilet-in-nature"
-      }
-    ],
-    "nameLocal": "市原トイレ・イチハラトイレ",
-    "designer": {
-      "name": "Sou Fujimoto",
-      "firm": "Sou Fujimoto Architects"
-    },
-    "practical": {
-      "openingHours": "Daylight hours (station is unstaffed)",
-      "fee": "Free",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "kyoto-tofukuji-tosu",
-    "name": "Tofuku-ji Tōsu",
-    "region": "Asia",
-    "location": {
-      "country": "Japan",
-      "city": "Kyoto",
-      "coordinates": {
-        "lat": 34.9764,
-        "lng": 135.7741
-      }
-    },
-    "year": 1425,
-    "tagline": "Japan's oldest surviving toilet—a 600-year-old Zen monks' communal latrine.",
-    "description": "Tucked among the sub-temples of Tofuku-ji, one of Kyoto's Five Great Zen temples, the Tōsu is an unassuming wooden hall that holds an extraordinary distinction: it is Japan's oldest surviving toilet. Built during the Muromachi period (early 15th century) for the monastery's resident monks, it is a Designated Important Cultural Property of Japan.\n\nInside, a long row of recessed square pits in the earthen floor served the community in strict ritual silence—part of the Zen discipline of treating every bodily function as a moment of mindful practice. The building is no longer in use, but a small wooden lattice lets visitors look in from outside, peering across six centuries of monastic life.",
-    "styles": [
-      "Heritage",
-      "Traditional"
-    ],
-    "features": [
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Tofuku-ji is a 10-minute walk from JR Tofukuji Station; the Tōsu sits within the main precinct.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The toilet itself is not entered—you view it through the wooden lattice from outside.",
-        "icon": "info"
-      },
-      {
-        "title": "Best Time",
-        "description": "Combine with Tofuku-ji's famous Tsutenkyo bridge, especially in November for autumn maple colour.",
-        "icon": "time"
-      },
-      {
-        "title": "Cost & Booking",
-        "description": "Free to view; the temple's main halls and gardens are paid entry.",
-        "icon": "ticket"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/kyoto-tofukuji-tosu/cover.jpg",
-        "alt": "Long wooden hall with sloping tile roof seen from a temple courtyard",
-        "photographer": "Photo credit needed (see Wikimedia Commons for CC options)",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Tofuku-ji Temple official site",
-        "url": "https://tofukuji.jp/"
-      }
-    ],
-    "nameLocal": "東福寺 東司",
-    "designer": {
-      "name": "Unknown Zen Buddhist craftsmen",
-      "firm": "Tofuku-ji Temple complex"
-    },
-    "practical": {
-      "openingHours": "Generally 9:00–16:00, varies seasonally",
-      "fee": "Free (outside-view); temple gardens have admission fee",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Heritage",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "london-sketch-egg-pods",
-    "name": "Egg Pod Toilets at Sketch",
-    "region": "Europe",
-    "location": {
-      "country": "United Kingdom",
-      "city": "London",
-      "coordinates": {
-        "lat": 51.5135,
-        "lng": -0.1421
-      }
-    },
-    "year": 2003,
-    "tagline": "Walk-in white eggs under a rainbow ceiling, in Mayfair's most photogenic loo.",
-    "description": "Climb the curving staircase at the back of Sketch—the avant-garde restaurant set in a Georgian townhouse on Conduit Street—and you arrive at one of the world's most photographed bathrooms. A high white room is studded with milky, free-standing egg-shaped pods, each one a private unisex toilet stall. Overhead: a multicoloured rainbow LED ceiling. Around the corner: staff in Victorian housekeeper uniforms polishing fittings.\n\nProject architect India Mahdavi designed the space when Sketch first opened in 2003 under restaurateur Mourad Mazouz. Twenty-plus years on, the pods are still the punctum of every guest's visit—an Instagram pilgrimage site by way of Stanley Kubrick.",
-    "styles": [
-      "Futuristic",
-      "Whimsical"
-    ],
-    "features": [
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Cost & Booking",
-        "description": "You need to be a Sketch customer to enter—book afternoon tea, drinks, or a meal in any of the rooms.",
-        "icon": "ticket"
-      },
-      {
-        "title": "Getting There",
-        "description": "Address: 9 Conduit Street, Mayfair, London W1S 2XG (5 mins from Oxford Circus).",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The pods are unisex—don't be surprised by the queue.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Visit upstairs to the second 'jewellery box' toilet, less famous but worth seeing.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/london-sketch-egg-pods/cover.jpg",
-        "alt": "White egg-shaped toilet pods under a multicoloured ceiling",
-        "photographer": "Photo credit needed — official press images available from sketch.london",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Sketch London official site",
-        "url": "https://sketch.london/"
-      }
-    ],
-    "designer": {
-      "name": "India Mahdavi",
-      "firm": "India Mahdavi (project architect for Sketch)"
-    },
-    "practical": {
-      "openingHours": "Restaurant hours: typically 7am–2am, varies by room",
-      "fee": "Restaurant minimum purchase required",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Futuristic",
-      "Art Installation"
-    ]
-  },
-  {
-    "slug": "london-dont-miss-a-sec",
-    "name": "Don't Miss a Sec",
-    "region": "Europe",
-    "location": {
-      "country": "United Kingdom",
-      "city": "London",
-      "coordinates": {
-        "lat": 51.4912,
-        "lng": -0.1281
-      }
-    },
-    "year": 2003,
-    "tagline": "A working public toilet inside a one-way-mirror cube outside Tate Britain.",
-    "description": "When Italian artist Monica Bonvicini unveiled Don't Miss a Sec in December 2003, on a construction site directly opposite Tate Britain, the premise was unsettlingly simple: a fully functional public toilet enclosed in walls of one-way mirrored glass. From outside, the cube reflected the street—passers-by saw only themselves. From inside, the user looked out at every museum visitor walking past, all of them oblivious.\n\nThe title came from a hedge fund manager who said he didn't want to 'miss a sec' of trading while in the bathroom. Bonvicini was poking at the voyeurism of the art world's see-and-be-seen culture, the surveillance logic of modern life, and the question of where private ends and public begins. The piece was originally a temporary installation, but has since been re-exhibited at venues including the Louisiana Museum of Modern Art.",
-    "styles": [
-      "Minimalist",
-      "Futuristic"
-    ],
-    "features": [
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Good to Know",
-        "description": "The original 2003 installation was temporary; check current exhibition listings before visiting.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The work is owned by Galerie Peter Kilchmann and has shown at major institutions worldwide.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Even when not on display, search for archival footage—the social experiment itself is the art.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Bonvicini's broader work on architecture and power is worth exploring alongside this piece.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/london-dont-miss-a-sec/cover.jpg",
-        "alt": "Mirrored cube containing a public toilet on a London street",
-        "photographer": "Photo credit needed — Getty/Scott Barbour archival images",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Galerie Peter Kilchmann — work page",
-        "url": "https://www.peterkilchmann.com/artists/39-monica-bonvicini/works/24169-monica-bonvicini-don-t-miss-a-sec-2004/"
-      }
-    ],
-    "designer": {
-      "name": "Monica Bonvicini",
-      "firm": "Monica Bonvicini (artist)"
-    },
-    "practical": {
-      "openingHours": "Varies by exhibition venue",
-      "fee": "Varies by exhibition venue",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Art Installation"
-    ]
-  },
-  {
-    "slug": "paris-uritrottoir",
-    "name": "Uritrottoir Composting Street Urinals",
-    "region": "Europe",
-    "location": {
-      "country": "France",
-      "city": "Paris",
-      "coordinates": {
-        "lat": 48.8443,
-        "lng": 2.3743
-      }
-    },
-    "year": 2018,
-    "tagline": "Bright red urinals topped with flower planters—pee in, compost out.",
-    "description": "France has a centuries-old problem its citizens politely call les pipis sauvages—wild urination. In 2018, Paris ran a pilot with Nantes-based design studio Faltazi to install Uritrottoirs ('sidewalk urinals') at hotspots near Gare de Lyon, the Île Saint-Louis, and the Boulevard de Clichy. Each is a bright red waist-high box with a flower planter on top, an opening on the front, and a bed of straw or wood chips inside.\n\nUsers urinate into the straw, a sensor pings city services when the box is full, and the contents are carted off to be composted into fertiliser for municipal parks. The pilots sparked global headlines—and local protests, especially on the Île Saint-Louis—but Faltazi's circular-economy design has since spread to Nantes, Antwerp and several music festivals.",
-    "styles": [
-      "Minimalist",
-      "Whimsical"
-    ],
-    "features": [
-      "Eco-friendly",
-      "Smart Tech"
-    ],
-    "visitorTips": [
-      {
-        "title": "Good to Know",
-        "description": "Most visible Paris locations include outside Gare de Lyon and along the Quai d'Anjou (Île Saint-Louis).",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The system is for standing-up urination only and is designed primarily for men—a major source of public criticism.",
-        "icon": "info"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Photograph respectfully—remember this is functional infrastructure, not a sculpture.",
-        "icon": "camera"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Faltazi's website lists active installations in other French cities and at festivals.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/paris-uritrottoir/cover.jpg",
-        "alt": "Red box-shaped sidewalk urinal with planted flowers on top",
-        "photographer": "Photo credit needed — Faltazi press images",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Faltazi project page",
-        "url": "https://www.faltazi.com/portfolio/uritrottoir-urinoir-sec-public/"
-      },
-      {
-        "title": "Dezeen coverage",
-        "url": "https://www.dezeen.com/2018/08/16/outdoor-urinals-cause-uproar-after-being-installed-on-paris-streets/"
-      }
-    ],
-    "designer": {
-      "name": "Laurent Lebot & Victor Massip",
-      "firm": "Faltazi"
-    },
-    "practical": {
-      "openingHours": "24 hours",
-      "fee": "Free",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Eco-friendly"
-    ]
-  },
-  {
-    "slug": "norway-selvika-havoysund",
-    "name": "Selvika Rest Stop",
-    "region": "Europe",
-    "location": {
-      "country": "Norway",
-      "city": "Havøysund",
-      "coordinates": {
-        "lat": 70.9933,
-        "lng": 24.6611
-      }
-    },
-    "year": 2012,
-    "tagline": "A zig-zagging concrete path on the Arctic coast, with a toilet at the end.",
-    "description": "Along Norway's National Tourist Route Havøysund—running north of the 70th parallel, well above the Arctic Circle—Reiulf Ramstad Arkitekter designed a rest area that is mostly a journey. From the car park, a sharp zig-zag of white in-situ concrete walls descends toward the rocky shoreline, slowing visitors down and framing views of the Barents Sea. At the bottom is a small toilet block built from the same uncompromising concrete.\n\nThe project is part of Norway's celebrated Scenic Routes initiative, which commissions leading architects to design rest stops, viewpoints, and other small structures along eighteen designated roads. The Selvika rest stop has become one of the route's defining objects—architecture that turns a bathroom break into a slow, contemplative walk.",
-    "styles": [
-      "Minimalist",
-      "Brutalist"
-    ],
-    "features": [
-      "Scenic View",
-      "Accessible"
-    ],
-    "visitorTips": [
-      {
-        "title": "Best Time",
-        "description": "Open primarily in summer; the road is closed or unreliable in winter.",
-        "icon": "time"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Walk slowly along the zig-zag—the architecture is designed to be experienced as a sequence.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Bring layers; the wind off the Barents Sea is fierce even in July.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Combine with the broader Havøysund Scenic Route for a multi-stop day.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/norway-selvika-havoysund/cover.jpg",
-        "alt": "White concrete zig-zag path descending to the Arctic coast",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Visit Norway — World's Best Toilets",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
-      }
-    ],
-    "designer": {
-      "name": "Reiulf Ramstad",
-      "firm": "Reiulf Ramstad Arkitekter"
-    },
-    "practical": {
-      "openingHours": "Year-round but summer recommended",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "norway-ureddplassen",
-    "name": "Ureddplassen Memorial & Rest Area",
-    "region": "Europe",
-    "location": {
-      "country": "Norway",
-      "city": "Gildeskål",
-      "coordinates": {
-        "lat": 66.9883,
-        "lng": 13.6356
-      }
-    },
-    "year": 2018,
-    "tagline": "A frosted-glass toilet that glows like an iceberg on the Arctic Ocean coast.",
-    "description": "Ureddplassen, a war memorial and rest area along Norway's Helgelandskysten Scenic Route, takes its name from a Norwegian submarine lost during World War II. Haugen/Zohar Arkitekter expanded the site with a swooping marble bench and a small public toilet whose curved, frosted-glass walls glow softly from within—an object somewhere between a fog-lit iceberg and a futuristic chapel.\n\nThe glow is intentional. Above the Arctic Circle, Ureddplassen sits in one of the best places on Earth to see the aurora borealis, and the toilet's gentle interior light is calibrated not to drown out the night sky. By day, the curved white form reads against the granite coast like an arrival from another planet.",
-    "styles": [
-      "Futuristic",
-      "Minimalist"
-    ],
-    "features": [
-      "Scenic View",
-      "Accessible",
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Best Time",
-        "description": "Best visited in summer for the midnight sun or in winter for the Northern Lights.",
-        "icon": "time"
-      },
-      {
-        "title": "Getting There",
-        "description": "Roughly a 2-hour drive south of Bodø along the Fv17.",
-        "icon": "location"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Sit on the marble bench at golden hour—one of the route's most photographed compositions.",
-        "icon": "camera"
-      },
-      {
-        "title": "Getting There",
-        "description": "Limited mobile signal; download offline maps before driving.",
-        "icon": "location"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/norway-ureddplassen/cover.jpg",
-        "alt": "Curved frosted-glass toilet glowing at twilight by an Arctic coast",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes / Statens vegvesen",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Bored Panda feature",
-        "url": "https://www.boredpanda.com/uredd-rest-area-ureddplassen-public-toilet-norway/"
-      }
-    ],
-    "designer": {
-      "name": "Marit Justine Haugen & Dan Zohar",
-      "firm": "Haugen/Zohar Arkitekter"
-    },
-    "practical": {
-      "openingHours": "Year-round; access depends on road conditions",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Futuristic",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "norway-eggum-lofoten",
-    "name": "Eggum Rest Stop",
-    "region": "Europe",
-    "location": {
-      "country": "Norway",
-      "city": "Eggum, Lofoten",
-      "coordinates": {
-        "lat": 68.3661,
-        "lng": 13.6358
-      }
-    },
-    "year": 2007,
-    "tagline": "Snøhetta's smallest building—a rest stop facing the Norwegian Sea in Lofoten.",
-    "description": "Snøhetta, the Oslo-based studio famous for the Oslo Opera House and the September 11 Memorial Pavilion in New York, designed this tiny rest stop in 2007 along Norway's Lofoten Scenic Route. It is reportedly the firm's smallest completed building. The structure terminates a simple stone-paved path that runs from a former wartime radar foundation toward the sea, framing views of the Norwegian Sea, the surrounding mountains and—in the right season—the midnight sun.\n\nA short amphitheatre of curving stone steps doubles as a viewpoint and an informal stage. The toilet itself is plain, sturdy and weather-tight; the architecture is mostly in the staging of the view.",
-    "styles": [
-      "Minimalist",
-      "Brutalist"
-    ],
-    "features": [
-      "Scenic View",
-      "Accessible"
-    ],
-    "visitorTips": [
-      {
-        "title": "Best Time",
-        "description": "Lofoten is best visited late May to early September; winter access can be difficult.",
-        "icon": "time"
-      },
-      {
-        "title": "Getting There",
-        "description": "Fly to Leknes airport, then drive north along Highway 815.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Camp or hike nearby—the area is one of Lofoten's quieter coastal pockets.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Combine with the Unstad surf beach 20 minutes away.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/norway-eggum-lofoten/cover.jpg",
-        "alt": "Small stone toilet building at the end of a coastal path in Lofoten",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Visit Norway — World's Best Toilets",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
-      }
-    ],
-    "designer": {
-      "name": "Snøhetta",
-      "firm": "Snøhetta"
-    },
-    "practical": {
-      "openingHours": "Year-round; summer recommended",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "norway-utsikten-gaularfjellet",
-    "name": "Utsikten Viewpoint & Rest Area",
-    "region": "Europe",
-    "location": {
-      "country": "Norway",
-      "city": "Gaularfjellet",
-      "coordinates": {
-        "lat": 61.3422,
-        "lng": 6.2647
-      }
-    },
-    "year": 2017,
-    "tagline": "A sharp triangular concrete deck cantilevered over a Norwegian fjord valley.",
-    "description": "On the Gaularfjellet Scenic Route in western Norway, the Utsikten ('the view') rest area projects a sharp triangular concrete platform out toward a panoramic fjord-and-mountain landscape. The geometry frames a single unforgettable view; a small adjoining structure houses public toilets and shelter. The combination—pure form, big nature, no fuss—has made the stop a fixture on Norwegian architecture tours.",
-    "styles": [
-      "Futuristic",
-      "Minimalist"
-    ],
-    "features": [
-      "Scenic View",
-      "Accessible"
-    ],
-    "visitorTips": [
-      {
-        "title": "Best Time",
-        "description": "The Gaularfjellet road is closed in winter (typically October–May); check before travelling.",
-        "icon": "time"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Don't skip the rest of the Gaularfjellet route—several other Scenic Route stops are nearby.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Pack a picnic; the cantilevered deck is begging for slow coffee.",
-        "icon": "info"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Photograph mid-afternoon when the deck and valley share even light.",
-        "icon": "camera"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/norway-utsikten-gaularfjellet/cover.jpg",
-        "alt": "Triangular concrete viewing platform cantilevered over a valley",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Visit Norway — World's Best Toilets",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
-      }
-    ],
-    "designer": {
-      "name": "Code Arkitektur",
-      "firm": "Code Arkitektur"
-    },
-    "practical": {
-      "openingHours": "Summer season only (typically May–October)",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Futuristic",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "norway-bukkekjerka-andoya",
-    "name": "Bukkekjerka Rest Stop",
-    "region": "Europe",
-    "location": {
-      "country": "Norway",
-      "city": "Andøya",
-      "coordinates": {
-        "lat": 69.0567,
-        "lng": 15.7311
-      }
-    },
-    "year": 2018,
-    "tagline": "An angular mirrored toilet that disappears into a sacred Sámi rock formation.",
-    "description": "Bukkekjerka is a striking natural rock formation on the island of Andøya, used historically as a sacred site by the local Sámi people. Morfeus Arkitekter's intervention here is deliberately humble: a small toilet and shelter clad in dark, angular panels that reflect the surrounding cliffs and sky, so the building all but vanishes against the geology.\n\nA discreet walkway leads visitors from the road to a coastal viewpoint past the toilet, ensuring the natural and cultural site remains the protagonist. It's a textbook example of the Scenic Routes program's philosophy: architecture as a hinge, not a hero.",
-    "styles": [
-      "Minimalist",
-      "Futuristic"
-    ],
-    "features": [
-      "Scenic View",
-      "Accessible"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Andøya is the northernmost of the Vesterålen islands—plan a long drive or fly to Andenes airport.",
-        "icon": "location"
-      },
-      {
-        "title": "Best Time",
-        "description": "Visit in summer for the midnight sun or autumn for the Northern Lights.",
-        "icon": "time"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Respect the site's Sámi cultural significance—keep voices low and stay on paths.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Whale-watching tours operate from nearby Andenes, an easy combination.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/norway-bukkekjerka-andoya/cover.jpg",
-        "alt": "Angular dark-clad toilet structure beside a coastal rock formation",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Visit Norway — World's Best Toilets",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/"
-      }
-    ],
-    "designer": {
-      "name": "Morfeus Arkitekter",
-      "firm": "Morfeus Arkitekter"
-    },
-    "practical": {
-      "openingHours": "Summer season recommended",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Minimalist",
-      "Scenic View"
-    ]
-  },
-  {
-    "slug": "italy-pompeii-forum-latrine",
-    "name": "Forum Baths Public Latrine, Pompeii",
-    "region": "Europe",
-    "location": {
-      "country": "Italy",
-      "city": "Pompeii",
-      "coordinates": {
-        "lat": 40.7497,
-        "lng": 14.4869
-      }
-    },
-    "year": -80,
-    "tagline": "A communal Roman latrine frozen by Vesuvius in AD 79.",
-    "description": "The Forum Baths complex at Pompeii preserves one of the most intact public latrines of the ancient Roman world. A long stone bench with cut-out seats once seated a dozen-plus users at a time, with constantly running water in a channel beneath—a continuous flush—and a second channel of fresh water at the users' feet for rinsing the communal sponge-on-a-stick (the tersorium).\n\nGoing to the lavatory in ancient Rome was a sociable, sometimes business-conducting affair, completely without modern notions of privacy. The site was buried by ash on 24 August AD 79 and has been excavated and conserved as part of the Pompeii Archaeological Park. It remains a vivid window into the world's first urban sanitation civilisation.",
-    "styles": [
-      "Heritage"
-    ],
-    "features": [
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Cost & Booking",
-        "description": "Buy Pompeii tickets online in advance and choose a guided tour to find the latrines without getting lost.",
-        "icon": "ticket"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The Forum Baths are near the main Forum—follow signs for Terme del Foro.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Pair with Herculaneum, a smaller but better-preserved nearby Roman city.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Wear sturdy shoes; the ancient pavers are uneven.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/italy-pompeii-forum-latrine/cover.jpg",
-        "alt": "Stone bench with circular openings in an excavated Roman bath house",
-        "photographer": "Photo credit needed — Wikimedia Commons CC option available",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Pompeii Archaeological Park",
-        "url": "https://pompeiisites.org/en/"
-      }
-    ],
-    "nameLocal": "Latrina delle Terme del Foro",
-    "designer": {
-      "name": "Ancient Roman civic engineers",
-      "firm": "Roman public works"
-    },
-    "practical": {
-      "openingHours": "Pompeii Archaeological Park hours (typically 9:00–19:00 in summer)",
-      "fee": "Pompeii admission ticket required",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Heritage",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "uk-hampton-court-great-house-of-easement",
-    "name": "The Great House of Easement, Hampton Court Palace",
-    "region": "Europe",
-    "location": {
-      "country": "United Kingdom",
-      "city": "London (Hampton Court)",
-      "coordinates": {
-        "lat": 51.4036,
-        "lng": -0.3375
-      }
-    },
-    "year": 1536,
-    "tagline": "Henry VIII's communal palace toilet—seating 28 courtiers at once.",
-    "description": "When Henry VIII's court travelled to Hampton Court Palace it brought a household of around a thousand people, all of whom had to be accommodated. The solution included the Great House of Easement, a two-storey communal latrine built into the palace walls above the moat. At full capacity the structure could seat 28 courtiers simultaneously on rows of wooden boards above chutes that discharged directly into the river.\n\nThe palace also maintained a more dignified arrangement for the king himself—the Groom of the Stool, the courtier responsible for assisting Henry on a velvet-cushioned private close-stool, was among the most coveted positions at court precisely because of the intimate access it granted. The Great House of Easement survives today as part of the Historic Royal Palaces visitor route, a frank reminder of how Tudor royalty handled its plumbing.",
-    "styles": [
-      "Heritage",
-      "Traditional"
-    ],
-    "features": [
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Hampton Court is a 35-minute train ride from London Waterloo to Hampton Court station.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Take a costumed Tudor-era guided tour—staff often single out the Great House of Easement.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Don't miss the Tudor kitchens to complete the 'how the palace really ran' story.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Allow at least half a day for the palace and gardens combined.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/uk-hampton-court-great-house-of-easement/cover.jpg",
-        "alt": "Stone-lined Tudor latrine chamber at Hampton Court Palace",
-        "photographer": "Photo credit needed — Historic Royal Palaces images",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Historic Royal Palaces — Hampton Court",
-        "url": "https://www.hrp.org.uk/hampton-court-palace/"
-      }
-    ],
-    "designer": {
-      "name": "Tudor royal works",
-      "firm": "Henry VIII's Office of Works"
-    },
-    "practical": {
-      "openingHours": "Hampton Court Palace hours (typically 10:00–18:00 in summer, 16:30 in winter)",
-      "fee": "Palace admission ticket required",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Heritage",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "turkey-ephesus-latrines",
-    "name": "Public Latrines of Ephesus",
-    "region": "Asia",
-    "location": {
-      "country": "Türkiye",
-      "city": "Selçuk (Ephesus)",
-      "coordinates": {
-        "lat": 37.9396,
-        "lng": 27.3406
-      }
-    },
-    "year": 100,
-    "tagline": "Roman-era marble benches that once seated 30 toga-clad citizens at once.",
-    "description": "Beside the Scholastica Baths in the ancient city of Ephesus—once one of the largest cities of the Roman world—runs a remarkable U-shaped marble bench with neatly cut keyhole openings. This was the public latrine, where as many as thirty Ephesians at a time would sit shoulder to shoulder in togas, conducting business and gossip while attending to nature.\n\nRunning water flowed in channels beneath the seats and at the floor for rinsing the shared cleaning sponge. Wealthier patrons paid attendants for the privilege of a warmed marble seat. The structure, dating from around the 1st–2nd century AD, has been beautifully preserved and is one of the most visited corners of the Ephesus archaeological site.",
-    "styles": [
-      "Heritage"
-    ],
-    "features": [
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Fly into Izmir, then drive or take a regional bus to Selçuk (about an hour).",
-        "icon": "location"
-      },
-      {
-        "title": "Best Time",
-        "description": "Visit early morning or late afternoon to avoid the cruise-ship tour crowds.",
-        "icon": "time"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Combine with the nearby Temple of Artemis ruins and the House of the Virgin Mary.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Wear a hat and bring water—the site is exposed and hot from May to September.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/turkey-ephesus-latrines/cover.jpg",
-        "alt": "Roman marble bench with keyhole-shaped openings under a stone wall",
-        "photographer": "Photo credit needed — Wikimedia Commons CC options widely available",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Türkiye Ministry of Culture — Ephesus",
-        "url": "https://muze.gov.tr/muze-detay?DistId=IZM&SectionId=EFS01"
-      }
-    ],
-    "nameLocal": "Efes Latrina",
-    "designer": {
-      "name": "Ancient Roman civic engineers",
-      "firm": "Roman provincial public works"
-    },
-    "practical": {
-      "openingHours": "Ephesus site hours (typically 8:00–18:30 summer, shorter in winter)",
-      "fee": "Ephesus archaeological site admission",
-      "accessibility": "Not wheelchair accessible"
-    },
-    "tags": [
-      "Heritage",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "nyc-bryant-park-restroom",
-    "name": "Bryant Park Public Restroom",
-    "region": "North America",
-    "location": {
-      "country": "United States",
-      "city": "New York",
-      "coordinates": {
-        "lat": 40.7544,
-        "lng": -73.9837
-      }
-    },
-    "year": 1911,
-    "tagline": "The 'Tiffany of public restrooms'—fresh flowers, classical music, rotating art.",
-    "description": "Built in 1911 by the same architects who designed the adjacent New York Public Library, the Bryant Park restroom is a Beaux-Arts granite pavilion that fell into decay by the 1960s and was closed entirely. The 1990s revival of Bryant Park—now a model of urban park renewal—brought it back. Renovations in 2006 and 2017 turned it into what The New York Times called the 'Tiffany of public restrooms.'\n\nThe interiors now feature fresh-cut flowers, classical music piped through speakers, full-service attendants, an air-conditioned interior, and a rotating selection of artworks from a 225-piece collection produced by a painters-in-residence programme. About a million people use it each year. It has been repeatedly named one of America's Best Restrooms by industry awards.",
-    "styles": [
-      "Heritage",
-      "Traditional"
-    ],
-    "features": [
-      "Historic",
-      "Accessible",
-      "Eco-friendly"
-    ],
-    "visitorTips": [
-      {
-        "title": "Good to Know",
-        "description": "Enter Bryant Park from 42nd Street; the restroom sits on the northern edge near the library.",
-        "icon": "info"
-      },
-      {
-        "title": "Best Time",
-        "description": "Visit on a weekday morning to skip queues.",
-        "icon": "time"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Look at the artworks on the walls—they rotate and reference the park.",
-        "icon": "info"
-      },
-      {
-        "title": "Accessibility",
-        "description": "Free, fully wheelchair accessible, fully staffed.",
-        "icon": "accessibility"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/nyc-bryant-park-restroom/cover.jpg",
-        "alt": "Beaux-Arts granite restroom building at the edge of Bryant Park",
-        "photographer": "Photo credit needed — Bryant Park Corporation press images",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Wikipedia — Bryant Park restroom",
-        "url": "https://en.wikipedia.org/wiki/Bryant_Park_restroom"
-      }
-    ],
-    "designer": {
-      "name": "John Merven Carrère & Thomas Hastings (original); Jennifer Nitzky and others (renovations)",
-      "firm": "Carrère & Hastings (original 1911); various (renovations)"
-    },
-    "practical": {
-      "openingHours": "Park hours (typically 7:00–22:00)",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Heritage",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "nyc-america-cattelan-gold-toilet",
-    "name": "\"America\" – the Solid Gold Toilet",
-    "region": "North America",
-    "location": {
-      "country": "United States",
-      "city": "New York",
-      "coordinates": {
-        "lat": 40.783,
-        "lng": -73.959
-      }
-    },
-    "year": 2016,
-    "tagline": "An 18-karat gold working toilet, used by 100,000 visitors at the Guggenheim.",
-    "description": "In September 2016, Italian artist Maurizio Cattelan installed America—a fully functional toilet cast in 18-karat solid gold—in a small public bathroom on the fifth floor of New York's Guggenheim Museum. Anyone with a museum ticket could line up and use it. Over the year it was open, about 100,000 people did.\n\nCattelan, an artist with a long history of provocations, intended the piece as a sly commentary on American excess and the populist accessibility of luxury ('one percent art for the ninety-nine percent'). In 2019, after America had moved to Blenheim Palace in Oxfordshire for a special exhibition, the work was stolen in a 5am raid; it has never been recovered. The piece is now as famous for its disappearance as for its golden seat.",
-    "styles": [
-      "Whimsical",
-      "Futuristic"
-    ],
-    "features": [
-      "Art Installation",
-      "Historic"
-    ],
-    "visitorTips": [
-      {
-        "title": "Good to Know",
-        "description": "America is no longer publicly viewable—it was stolen in 2019.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "If you're at the Guggenheim, the original installation site is on the fifth-floor restroom level.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Read Cattelan's broader work (Comedian, La Nona Ora) for context.",
-        "icon": "info"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Blenheim Palace continues to host contemporary art exhibitions worth visiting.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/nyc-america-cattelan-gold-toilet/cover.jpg",
-        "alt": "Solid 18-karat gold toilet installed in a small white-tiled bathroom",
-        "photographer": "Photo credit needed — Guggenheim Museum press archive",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Guggenheim — Maurizio Cattelan: America",
-        "url": "https://www.guggenheim.org/"
-      }
-    ],
-    "designer": {
-      "name": "Maurizio Cattelan",
-      "firm": "Maurizio Cattelan (artist)"
-    },
-    "practical": {
-      "openingHours": "Not currently exhibited; original Guggenheim installation 2016–2017",
-      "fee": "Museum admission was required during exhibition",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
-      "Art Installation"
-    ]
-  },
-  {
-    "slug": "singapore-marina-bay-sands-six-star",
-    "name": "Marina Bay Sands Six-Star Restroom",
-    "region": "Asia",
-    "location": {
-      "country": "Singapore",
-      "city": "Singapore",
-      "coordinates": {
-        "lat": 1.2833,
-        "lng": 103.8607
-      }
-    },
-    "year": 2010,
-    "tagline": "Singapore's only six-star restroom—the highest rating ever issued by the RAS.",
-    "description": "Singapore takes its public toilets seriously. The Restroom Association of Singapore (RAS) rates restrooms on a three-to-six-star scale, with six stars reserved for facilities scoring above 104 out of 108 on criteria covering everything from hand-soap provision to deployment of holistic 'detect-feedback-eliminate-clean' technology. In 2018, six restrooms at The Shoppes at Marina Bay Sands became the first—and so far only—facilities in Singapore to receive the six-star rating.\n\nThe restrooms are a logical extension of Moshe Safdie's gleaming integrated resort: motion-sensor everything, gold-trimmed marble fittings, ambient music, fresh florals, and immaculate cleanliness even during peak tourist hours. The RAS Happy Toilet program is endorsed by the World Toilet Organization, headquartered in Singapore.",
-    "styles": [
-      "Futuristic",
-      "Minimalist"
-    ],
-    "features": [
-      "Smart Tech",
-      "Accessible"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Take the MRT to Bayfront station (Downtown/Circle Line)—directly inside the mall.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "The six-star rated restrooms are scattered across The Shoppes; ask any concierge or look for the Happy Toilet decal.",
-        "icon": "info"
-      },
-      {
-        "title": "Cost & Booking",
-        "description": "Free to use, no purchase required, but the mall expects mall-going decorum.",
-        "icon": "ticket"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Combine with a stroll across the Helix Bridge for the Marina Bay skyline.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/singapore-marina-bay-sands-six-star/cover.jpg",
-        "alt": "Polished marble interior of a luxury shopping mall restroom",
-        "photographer": "Photo credit needed — Marina Bay Sands press images",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Restroom Association Singapore — Happy Toilet Programme",
-        "url": "https://www.toilet.org.sg/happytoilets"
-      }
-    ],
-    "designer": {
-      "name": "Marina Bay Sands facilities team",
-      "firm": "Originally Moshe Safdie Architects (resort)"
-    },
-    "practical": {
-      "openingHours": "Mall hours (typically 10:00–23:00)",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Futuristic",
-      "Smart Tech"
-    ]
-  },
-  {
-    "slug": "delhi-sulabh-toilet-museum",
-    "name": "Sulabh International Museum of Toilets",
-    "region": "Asia",
-    "location": {
-      "country": "India",
-      "city": "New Delhi",
-      "coordinates": {
-        "lat": 28.6133,
-        "lng": 77.0532
-      }
-    },
-    "year": 1992,
-    "tagline": "One of the world's only museums dedicated to the history of the toilet.",
-    "description": "Sulabh International, founded in 1970 by sanitation pioneer Dr Bindeshwar Pathak, is one of India's most important grassroots organisations. Its work pulling millions out of unsafe sanitation conditions led, in 1992, to the founding of an unusual museum on its New Delhi campus: a serious, fully curated history of the toilet from 2500 BC to the present, organised across Ancient, Medieval and Modern wings.\n\nExhibits include replicas of Roman latrines, illustrated chamber pots from European courts, Japanese washlets, modern composting toilets, and a famous gilded model of Louis XIV's commode-throne. The museum doubles as a research centre on sanitation technology and as a platform for Pathak's advocacy work, which earned him India's Padma Bhushan and the Stockholm Water Prize before his death in 2023.",
-    "styles": [
-      "Whimsical",
-      "Traditional"
-    ],
-    "features": [
-      "Historic",
-      "Eco-friendly",
-      "Art Installation"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Located on the Sulabh Gram campus in Mahavir Enclave, southwest Delhi.",
-        "icon": "location"
-      },
-      {
-        "title": "Cost & Booking",
-        "description": "Visiting hours typically Monday–Saturday, 10:00–17:00; closed Sundays and public holidays.",
-        "icon": "ticket"
-      },
-      {
-        "title": "Cost & Booking",
-        "description": "Free admission; donations support Sulabh's sanitation work.",
-        "icon": "ticket"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Best combined with a guided tour to understand the wider impact of Sulabh's social work.",
-        "icon": "info"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/delhi-sulabh-toilet-museum/cover.jpg",
-        "alt": "Display cases of historic toilet artifacts in a museum gallery",
-        "photographer": "Photo credit needed — Sulabh International press archive",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Sulabh International Museum of Toilets",
-        "url": "https://www.sulabhtoiletmuseum.org/"
-      }
-    ],
-    "nameLocal": "सुलभ इंटरनेशनल म्यूज़ियम ऑफ़ टॉयलेट्स",
-    "designer": {
-      "name": "Bindeshwar Pathak (founder)",
-      "firm": "Sulabh International Social Service Organisation"
-    },
-    "practical": {
-      "openingHours": "Mon–Sat 10:00–17:00 (verify locally)",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
-      "Historic"
-    ]
-  },
-  {
-    "slug": "kawakawa-hundertwasser-toilets",
-    "name": "Hundertwasser Toilets, Kawakawa",
-    "region": "Oceania",
-    "location": {
-      "country": "New Zealand",
-      "city": "Kawakawa",
-      "coordinates": {
-        "lat": -35.3756,
-        "lng": 174.0686
-      }
-    },
-    "year": 1999,
-    "tagline": "A psychedelic public loo with a living roof—Hundertwasser's last completed work.",
-    "description": "In the small Northland town of Kawakawa, on the main road through town, sits a public toilet that draws 250,000 visitors a year. It was designed by the Austrian artist Friedensreich Hundertwasser, who made New Zealand his second home from 1973 until his death in 2000. Approached by Kawakawa's business association in 1997 to redesign a rundown 1960s concrete block, Hundertwasser ended up personally supervising every detail of the build—his last completed architectural project.\n\nThe result is unmistakably his: wavy roof lines, irregular ceramic tile mosaics made by local Bay of Islands College students, recycled glass bottles embedded as windows, repurposed bricks from a former Bank of New Zealand, undulating cobbled floors, and a roof planted with grasses and crowned by a living plane tree. In 2023, Heritage New Zealand designated it a Category 1 historic place—putting a public toilet, less than 25 years old, alongside Christchurch Cathedral and the Auckland War Memorial Museum.",
-    "styles": [
-      "Whimsical",
-      "Traditional"
-    ],
-    "features": [
-      "Art Installation",
-      "Historic",
-      "Eco-friendly"
-    ],
-    "visitorTips": [
-      {
-        "title": "Getting There",
-        "description": "Located at 60 Gillies Street, Kawakawa, right on State Highway 1.",
-        "icon": "location"
-      },
-      {
-        "title": "Getting There",
-        "description": "About 3 hours' drive north of Auckland—a natural stop on the way to the Bay of Islands.",
-        "icon": "location"
-      },
-      {
-        "title": "Good to Know",
-        "description": "Visit the nearby Te Hononga Hundertwasser Memorial Park (opened 2020) for the full context.",
-        "icon": "info"
-      },
-      {
-        "title": "Photo Tips",
-        "description": "Photograph the exterior from across the street to take in the full living-roof composition.",
-        "icon": "camera"
-      }
-    ],
-    "images": [
-      {
-        "src": "/images/kawakawa-hundertwasser-toilets/cover.jpg",
-        "alt": "Colourful tiled toilet building with wavy roof and a tree growing through it",
-        "photographer": "Photo credit needed — many CC-licensed options on Wikimedia Commons",
-        "licenseStatus": "pending"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Wikipedia — Hundertwasser Toilets",
-        "url": "https://en.wikipedia.org/wiki/Hundertwasser_Toilets"
-      },
-      {
-        "title": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/hundertwasser-toilets"
-      }
-    ],
-    "designer": {
-      "name": "Friedensreich Hundertwasser",
-      "firm": "Hundertwasser (artist-architect)"
-    },
-    "practical": {
-      "openingHours": "24 hours",
-      "fee": "Free",
-      "accessibility": "Wheelchair accessible"
-    },
-    "tags": [
-      "Whimsical",
-      "Art Installation"
-    ]
-  },
-  {
-    "slug": "cliffside-toilet-at-cape-royal",
-    "name": "Cliffside Toilet at Cape Royal",
-    "region": "North America",
-    "location": {
-      "country": "USA",
-      "city": "Grand Canyon",
-      "coordinates": {
-        "lat": 36.1942,
-        "lng": -111.9653
-      }
-    },
-    "tagline": "A dramatic restroom perched above canyon vistas.",
-    "description": "Tucked steps away from one of the Grand Canyon's most expansive North Rim viewpoints, this unassuming vault toilet offers something most architectural marvels cannot: a panorama that stretches for miles. Built for utility but framed by raw geology, it's a quiet reminder that the most memorable comforts often come without plumbing.",
-    "images": [
-      {
-        "src": "https://placehold.co/1600x1000.png?text=Cape+Royal+Toilet",
-        "alt": "Vault toilet near the Cape Royal viewpoint on the Grand Canyon's North Rim",
-        "caption": "A pit stop with one of the widest views in the American Southwest.",
-        "photographer": "Image: placeholder"
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Canyon+Vista",
-        "alt": "The canyon view from near the toilet",
-        "caption": "The canyon panorama just steps away."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=North+Rim+Sunset",
-        "alt": "Sunset over the North Rim",
-        "caption": "Late afternoon light along the rim."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Trail+View",
-        "alt": "The trail leading to the toilet",
-        "caption": "The short path from the parking area."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Structure",
-        "alt": "The structure itself, low-key timber",
-        "caption": "A simple timber-and-stone structure."
-      }
-    ],
-    "styles": [
-      "Vernacular"
-    ],
-    "features": [
-      "Scenic",
-      "Free"
-    ],
-    "tags": [
-      "Scenic",
-      "Nature"
-    ],
-    "visitorTips": [
-      {
-        "icon": "time",
-        "title": "Best Time to Visit",
-        "description": "Sunrise and sunset cast the most dramatic light across the canyon."
-      },
-      {
-        "icon": "info",
-        "title": "Practical Tips",
-        "description": "Vault toilet — no running water. Bring hand sanitizer and pack out all trash."
-      },
-      {
-        "icon": "accessibility",
-        "title": "Accessibility",
-        "description": "Ground-level entry; the surrounding terrain is uneven and exposed."
-      },
-      {
-        "icon": "location",
-        "title": "Nearby Context",
-        "description": "Right beside the Cape Royal viewpoint on the North Rim's scenic drive."
-      }
-    ]
-  },
-  {
-    "slug": "the-loo-at-trafalgar-square",
-    "name": "The Loo at Trafalgar Square",
-    "region": "Europe",
-    "location": {
-      "country": "UK",
-      "city": "London",
-      "coordinates": {
-        "lat": 51.508,
-        "lng": -0.1281
-      }
-    },
-    "tagline": "A Victorian-flavored convenience beneath the square.",
-    "description": "A small civic refuge tucked beneath one of London's most photographed landmarks. Among streams of tourists, double-deckers and Trafalgar's lions, this modest public loo carries on a long London tradition of dignified, accessible public conveniences hidden in plain sight.",
-    "images": [
-      {
-        "src": "https://placehold.co/1600x1000.png?text=Trafalgar+Square+Loo",
-        "alt": "Public toilet entrance near Trafalgar Square in central London",
-        "caption": "Just steps from the lions, a quiet civic refuge in central London.",
-        "photographer": "Image: placeholder"
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Square+View",
-        "alt": "Looking out toward the square",
-        "caption": "Trafalgar Square seen from the entrance."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Signage",
-        "alt": "Heritage-style signage above the entrance",
-        "caption": "Heritage signage above the entrance."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Interior",
-        "alt": "Renovated interior",
-        "caption": "Recently refurbished interior."
-      },
-      {
-        "src": "https://placehold.co/1200x800.png?text=Tube+Connection",
-        "alt": "Connection to the Tube",
-        "caption": "A short walk from Charing Cross station."
-      }
-    ],
-    "styles": [
-      "Heritage"
-    ],
-    "features": [
-      "Accessible"
-    ],
-    "tags": [
-      "Heritage",
-      "Underground"
-    ],
-    "visitorTips": [
-      {
-        "icon": "time",
-        "title": "Best Time to Visit",
-        "description": "Off-peak afternoons avoid the busiest tourist hours."
-      },
-      {
-        "icon": "location",
-        "title": "Nearby Context",
-        "description": "A short walk from Charing Cross station and the National Gallery."
-      },
-      {
-        "icon": "accessibility",
-        "title": "Accessibility",
-        "description": "Step-free access; centrally located for visitors with mobility needs."
-      },
-      {
-        "icon": "info",
-        "title": "What to Expect",
-        "description": "A small fee may apply during peak hours; queues are common at midday."
-      }
     ]
   }
 ]

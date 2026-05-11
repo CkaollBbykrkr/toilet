@@ -34,13 +34,52 @@ export function BasicInfoCard({ toilet }: { toilet: Toilet }) {
       {
         icon: <PersonIcon />,
         label: "Designer",
-        value: toilet.designer?.name ?? "—",
+        value: toilet.designer?.name ? (
+          <span>
+            {toilet.designer.name}
+            {toilet.designer.firm &&
+              toilet.designer.firm !== toilet.designer.name && (
+                <span className="block text-sm text-muted">
+                  {toilet.designer.firm}
+                </span>
+              )}
+          </span>
+        ) : (
+          "—"
+        ),
       },
       {
         icon: <DiamondIcon />,
         label: "Design Style",
         value: styleSummary,
       },
+      ...(toilet.practical?.openingHours
+        ? [
+            {
+              icon: <ClockIcon />,
+              label: "Hours",
+              value: toilet.practical.openingHours,
+            },
+          ]
+        : []),
+      ...(toilet.practical?.fee
+        ? [
+            {
+              icon: <TicketIcon />,
+              label: "Fee",
+              value: toilet.practical.fee,
+            },
+          ]
+        : []),
+      ...(toilet.practical?.accessibility
+        ? [
+            {
+              icon: <WheelchairIcon />,
+              label: "Accessibility",
+              value: toilet.practical.accessibility,
+            },
+          ]
+        : []),
     ];
 
   return (
@@ -184,6 +223,62 @@ function StarIcon() {
       aria-hidden="true"
     >
       <path d="M12 2 14.39 8.26 21 9.27l-5 4.87 1.18 6.86L12 17.77l-6.18 3.23L7 14.14l-5-4.87 6.61-1.01L12 2z" />
+    </svg>
+  );
+}
+
+function ClockIcon() {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.6"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="h-5 w-5"
+      aria-hidden="true"
+    >
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 7v5l3.5 2" />
+    </svg>
+  );
+}
+
+function TicketIcon() {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.6"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="h-5 w-5"
+      aria-hidden="true"
+    >
+      <path d="M4 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4z" />
+      <path d="M12 6v3" />
+      <path d="M12 11v3" />
+      <path d="M12 16v2" />
+    </svg>
+  );
+}
+
+function WheelchairIcon() {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.6"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="h-5 w-5"
+      aria-hidden="true"
+    >
+      <circle cx="12" cy="5" r="2" />
+      <path d="M9 21l1.5-7H8l1.5-5h5l1 4 3 1" />
     </svg>
   );
 }
