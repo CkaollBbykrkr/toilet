@@ -36,8 +36,8 @@ export function VisitorTips({ tips }: { tips?: VisitorTip[] }) {
       <div className="rounded-2xl border border-[#1e3a5f]/10 bg-[#FFFDF8] p-6 sm:p-8">
         <SectionHeading align="left">Visitor Tips</SectionHeading>
         <ul className="mt-6 space-y-5">
-          {list.map((tip) => (
-            <li key={tip.title} className="flex gap-4">
+          {list.map((tip, i) => (
+            <li key={`${tip.title}-${i}`} className="flex gap-4">
               <span className="mt-0.5 flex-none text-heading/70">
                 <TipIcon name={tip.icon ?? "info"} />
               </span>
