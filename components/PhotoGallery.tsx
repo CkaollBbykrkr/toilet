@@ -56,10 +56,10 @@ export function PhotoGallery({ images }: { images: ToiletImage[] }) {
       ? `© ${current.photographer}`
       : current.photographer
     : null;
-  // License badge + sourceUrl link only show when the image is verified CC.
-  // pending / unknown / commercial deliberately suppress them.
+  // License details stay restricted to verified CC images, but a sourceUrl can
+  // still link the visible credit for unknown/pending images.
   const showLicense = status === "cc" && Boolean(current.license);
-  const showSource = status === "cc" && Boolean(current.sourceUrl);
+  const showSource = Boolean(current.sourceUrl);
 
   return (
     <section className="px-4 pt-20 sm:px-6 lg:px-8">

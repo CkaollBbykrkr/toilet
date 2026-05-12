@@ -173,74 +173,6 @@
   },
 
   {
-    "id": "tokyo-ebisu-east-park-squid",
-    "name": "The Squid at Ebisu East Park",
-    "nameLocal": "恵比寿東公園トイレ",
-    "city": "Tokyo",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "Asia",
-    "coordinates": { "lat": 35.6464, "lng": 139.7136 },
-    "designStyles": ["Whimsical", "Minimalist"],
-    "features": ["Accessible", "Art Installation"],
-    "designer": "Fumihiko Maki",
-    "architectFirm": "Maki and Associates",
-    "yearBuilt": 2020,
-    "tagline": "A cheerful, octopus-roofed pavilion in Tokyo's beloved 'octopus park'.",
-    "story": "Ebisu East Park has been nicknamed Octopus Park for decades, thanks to the much-loved tako (octopus) playground slide that anchors it. Pritzker laureate Fumihiko Maki—then in his nineties—responded with a decentralised pavilion whose splayed roof reads, depending on your mood, as octopus tentacles, a beach umbrella, or a paper aeroplane.\n\nThe layout opens sightlines in every direction so users feel safe approaching, while a cheerful ventilating canopy floods the interior with daylight. The toilet, like the slide, treats the park as a place to play—an unusually generous attitude for civic infrastructure.",
-    "visitorTips": [
-      "Six-minute walk from Ebisu Station (JR and Hibiya line).",
-      "Bring kids—the playground itself is one of Tokyo's most charming.",
-      "Best photographed from the angle that frames roof and octopus slide together.",
-      "Free, accessible, with ostomate facilities."
-    ],
-    "openingHours": "24 hours",
-    "fee": "Free",
-    "accessibility": true,
-    "images": [
-      { "src": "/images/tokyo-ebisu-east-park-squid/cover.jpg", "alt": "Pavilion with splayed white roof in a small park", "credit": "Photo: Satoshi Nagare / The Nippon Foundation" }
-    ],
-    "coverImage": "/images/tokyo-ebisu-east-park-squid/cover.jpg",
-    "sources": [
-      { "title": "The Tokyo Toilet — Ebisu East Park", "url": "https://tokyotoilet.jp/en/" }
-    ]
-  },
-
-  {
-    "id": "tokyo-ebisu-park-fifteen-walls",
-    "name": "Fifteen Walls at Ebisu Park",
-    "nameLocal": "恵比寿公園トイレ",
-    "city": "Tokyo",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "Asia",
-    "coordinates": { "lat": 35.6485, "lng": 139.7102 },
-    "designStyles": ["Brutalist", "Minimalist"],
-    "features": ["Accessible", "Art Installation"],
-    "designer": "Masamichi Katayama",
-    "architectFirm": "Wonderwall",
-    "yearBuilt": 2020,
-    "tagline": "Fifteen unrefined concrete walls arranged like a labyrinth in a city park.",
-    "story": "Interior designer Masamichi Katayama, founder of the influential studio Wonderwall, took a sculptural approach for Ebisu Park. Fifteen plain concrete walls of varying heights are arranged to feel almost like an ancient ruin or a Stonehenge in miniature, the gaps between them forming the entrances, exits, and stalls.\n\nThere are no doors at the perimeter—the layout itself provides privacy. A glance at the diagrammatic sign at the entrance makes the labyrinth instantly legible, and the rough concrete softens at every step into something quietly monumental. It's the most overtly art-installation toilet in the project.",
-    "visitorTips": [
-      "Three minutes' walk from Ebisu Station east exit.",
-      "Take time to walk the full loop—each angle reveals a different composition.",
-      "Avoid late evenings; this is one of the project's more spatially complex toilets and is less intuitive in the dark.",
-      "Free and wheelchair accessible."
-    ],
-    "openingHours": "24 hours",
-    "fee": "Free",
-    "accessibility": true,
-    "images": [
-      { "src": "/images/tokyo-ebisu-park-fifteen-walls/cover.jpg", "alt": "Maze-like arrangement of grey concrete walls in a small park", "credit": "Photo: Satoshi Nagare / The Nippon Foundation" }
-    ],
-    "coverImage": "/images/tokyo-ebisu-park-fifteen-walls/cover.jpg",
-    "sources": [
-      { "title": "The Tokyo Toilet — Ebisu Park", "url": "https://tokyotoilet.jp/en/" }
-    ]
-  },
-
-  {
     "id": "tokyo-urasando-marc-newson",
     "name": "Urasando Public Toilet",
     "nameLocal": "裏参道公衆トイレ",
@@ -271,40 +203,6 @@
     "coverImage": "/images/tokyo-urasando-marc-newson/cover.jpg",
     "sources": [
       { "title": "The Tokyo Toilet — Urasando", "url": "https://tokyotoilet.jp/en/" }
-    ]
-  },
-
-  {
-    "id": "tokyo-jingumae-nigo-washington-heights",
-    "name": "Voice of Forest at Jingumae",
-    "nameLocal": "神宮前公衆トイレ",
-    "city": "Tokyo",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "Asia",
-    "coordinates": { "lat": 35.6713, "lng": 139.7038 },
-    "designStyles": ["Whimsical", "Traditional"],
-    "features": ["Accessible", "Art Installation", "Historic"],
-    "designer": "NIGO",
-    "architectFirm": "Human Made (creative direction)",
-    "yearBuilt": 2022,
-    "tagline": "A pitched-roof house referencing post-war American military housing in Yoyogi.",
-    "story": "Fashion designer NIGO—founder of streetwear label BAPE and current creative director of Kenzo—designed a toilet that looks, at first glance, like a child's drawing of a house. The form is no accident: NIGO modelled it on the small wooden bungalows of Washington Heights, the American military family housing that occupied the land of present-day Yoyogi Park during the post-war occupation.\n\nIt's an unexpectedly bittersweet history embedded in a public restroom: a quiet acknowledgement of mid-century Tokyo as a city shaped, briefly, by another country's domesticity. The white-painted exterior and small chimney-like vent stack up into something that feels both familiar and uncanny.",
-    "visitorTips": [
-      "Three-minute walk from Meiji-Jingumae Station.",
-      "Read the small plaque or pre-research the Washington Heights story—context elevates the visit.",
-      "Best photographed straight-on for the iconic 'kid's drawing of a house' silhouette.",
-      "Close to the Urasando toilet by Marc Newson—do both in one walk."
-    ],
-    "openingHours": "24 hours",
-    "fee": "Free",
-    "accessibility": true,
-    "images": [
-      { "src": "/images/tokyo-jingumae-nigo-washington-heights/cover.jpg", "alt": "Small white pitched-roof house-shaped toilet pavilion", "credit": "Photo: Satoshi Nagare / The Nippon Foundation" }
-    ],
-    "coverImage": "/images/tokyo-jingumae-nigo-washington-heights/cover.jpg",
-    "sources": [
-      { "title": "The Tokyo Toilet — Jingumae", "url": "https://tokyotoilet.jp/en/" }
     ]
   },
 
@@ -754,40 +652,6 @@
   },
 
   {
-    "id": "italy-pompeii-forum-latrine",
-    "name": "Forum Baths Public Latrine, Pompeii",
-    "nameLocal": "Latrina delle Terme del Foro",
-    "city": "Pompeii",
-    "country": "Italy",
-    "countryCode": "IT",
-    "region": "Europe",
-    "coordinates": { "lat": 40.7497, "lng": 14.4869 },
-    "designStyles": ["Heritage"],
-    "features": ["Historic"],
-    "designer": "Ancient Roman civic engineers",
-    "architectFirm": "Roman public works",
-    "yearBuilt": -80,
-    "tagline": "A communal Roman latrine frozen by Vesuvius in AD 79.",
-    "story": "The Forum Baths complex at Pompeii preserves one of the most intact public latrines of the ancient Roman world. A long stone bench with cut-out seats once seated a dozen-plus users at a time, with constantly running water in a channel beneath—a continuous flush—and a second channel of fresh water at the users' feet for rinsing the communal sponge-on-a-stick (the tersorium).\n\nGoing to the lavatory in ancient Rome was a sociable, sometimes business-conducting affair, completely without modern notions of privacy. The site was buried by ash on 24 August AD 79 and has been excavated and conserved as part of the Pompeii Archaeological Park. It remains a vivid window into the world's first urban sanitation civilisation.",
-    "visitorTips": [
-      "Buy Pompeii tickets online in advance and choose a guided tour to find the latrines without getting lost.",
-      "The Forum Baths are near the main Forum—follow signs for Terme del Foro.",
-      "Pair with Herculaneum, a smaller but better-preserved nearby Roman city.",
-      "Wear sturdy shoes; the ancient pavers are uneven."
-    ],
-    "openingHours": "Pompeii Archaeological Park hours (typically 9:00–19:00 in summer)",
-    "fee": "Pompeii admission ticket required",
-    "accessibility": false,
-    "images": [
-      { "src": "/images/italy-pompeii-forum-latrine/cover.jpg", "alt": "Stone bench with circular openings in an excavated Roman bath house", "credit": "Photo credit needed — Wikimedia Commons CC option available" }
-    ],
-    "coverImage": "/images/italy-pompeii-forum-latrine/cover.jpg",
-    "sources": [
-      { "title": "Pompeii Archaeological Park", "url": "https://pompeiisites.org/en/" }
-    ]
-  },
-
-  {
     "id": "uk-hampton-court-great-house-of-easement",
     "name": "The Great House of Easement, Hampton Court Palace",
     "nameLocal": null,
@@ -925,7 +789,7 @@
 
   {
     "id": "singapore-marina-bay-sands-six-star",
-    "name": "Marina Bay Sands Six-Star Restroom",
+    "name": "Six-Star Restrooms at The Shoppes at Marina Bay Sands",
     "nameLocal": null,
     "city": "Singapore",
     "country": "Singapore",
