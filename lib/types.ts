@@ -56,6 +56,21 @@ export type Source = {
   url: string;
 };
 
+export type StorySection = {
+  heading: string;
+  body: string;
+};
+
+export type Story = {
+  slug: string;
+  title: string;
+  tagline: string;
+  heroToiletSlug: string;
+  intro: string;
+  sections: StorySection[];
+  relatedToiletSlugs: string[];
+};
+
 export type Toilet = {
   slug: string;
   name: string;

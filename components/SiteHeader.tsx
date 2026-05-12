@@ -1,14 +1,23 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const NAV = [
-  { href: "/", label: "Explore", active: true },
+  { href: "/", label: "Explore" },
   { href: "/map", label: "Map" },
   { href: "/stories", label: "Stories" },
   { href: "/about", label: "About" },
   { href: "/submit", label: "Submit a Toilet" },
 ];
 
+function isActive(pathname: string, href: string) {
+  if (href === "/") return pathname === "/";
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
 export function SiteHeader() {
+  const pathname = usePathname();
   return (
     <header className="border-b border-[#1e3a5f]/10">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-5 sm:px-6 lg:px-8">
@@ -25,7 +34,7 @@ export function SiteHeader() {
               key={item.href}
               href={item.href}
               className={
-                item.active
+                isActive(pathname, item.href)
                   ? "border-b-2 border-heading pb-0.5 font-medium text-heading"
                   : "text-foreground/80 transition-colors hover:text-heading"
               }
