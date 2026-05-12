@@ -161,9 +161,43 @@
     "images": [
       {
         "src": "/images/norway-eggum-lofoten/cover.jpg",
-        "alt": "Small stone toilet building at the end of a coastal path in Lofoten",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
+        "alt": "Wide view of the Eggum rest stop's grass-edged gravel amphitheatre, ringed by tiered gabion walls, with a small dark-wood service building set into the embankment.",
+        "caption": "Snøhetta's amphitheatre at Eggum dishes a service building — kiosk and toilet — straight into the gabion wall, sharing a hilltop with a German radar ruin.",
+        "photographer": "Jarle Wæhler / Statens vegvesen (via Nasjonale turistveger)",
+        "sourceUrl": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-eggum-lofoten/context-village.jpg",
+        "alt": "A scatter of red wooden fishing huts strung along the Eggum shoreline under a heavy bank of cloud, with mountains and open sea behind.",
+        "caption": "The rest stop sits at the edge of an active fishing hamlet — its restraint is a deliberate answer to those red sheds.",
+        "photographer": "Steinar Skaar / Statens vegvesen (via Nasjonale turistveger)",
+        "sourceUrl": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-eggum-lofoten/detail-sculpture-hode.jpg",
+        "alt": "A small rust-red anthropomorphic head sculpture by Markus Raetz sits atop a rough granite column overlooking the Norwegian Sea.",
+        "caption": "Markus Raetz's bronze 'Hode' stares out from a granite pillar — the rest stop doubles as an open-air sculpture room.",
+        "photographer": "Steinar Skaar / Statens vegvesen (via Nasjonale turistveger)",
+        "sourceUrl": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-eggum-lofoten/context-borga-ruin.jpg",
+        "alt": "Four hikers in bright jackets walk a gravel path up a green hill toward 'Borga', a circular dry-stone ruin of a German WWII radar station.",
+        "caption": "The footpath from the rest stop climbs to Borga, the stone-walled WWII radar ruin that informed Snøhetta's gabion language.",
+        "photographer": "Steinar Skaar / Statens vegvesen (via Nasjonale turistveger)",
+        "sourceUrl": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-eggum-lofoten/visitors-shore.jpg",
+        "alt": "Two visitors take a break at a small wooden picnic table on a grassy bluff above a white-pebble boulder beach, looking out over the calm North Atlantic.",
+        "caption": "A picnic stop on the bluff makes the toilet stop feel less like a service yard and more like a place to linger.",
+        "photographer": "Frid-Jorunn Stabell / Statens vegvesen (via Nasjonale turistveger)",
+        "sourceUrl": "https://www.nasjonaleturistveger.no/en/routes/lofoten/eggum/",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -174,7 +208,12 @@
     ],
     "designer": {
       "name": "Snøhetta",
-      "firm": "Snøhetta"
+      "firm": "Snøhetta",
+      "portrait": "/images/norway-eggum-lofoten/kjetil-traedal-thorsen.jpg",
+      "portraitCredit": "Birgit Fostervold, via Wikimedia Commons (Kjetil Trædal Thorsen, Snøhetta co-founder)",
+      "portraitSourceUrl": "https://commons.wikimedia.org/wiki/File:KjetilTr%C3%A6dalThorsen.jpg",
+      "portraitLicense": "CC BY-SA 4.0",
+      "portraitLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     "practical": {
       "openingHours": "Year-round; summer recommended",
@@ -584,10 +623,44 @@
     ],
     "images": [
       {
-        "src": "/images/norway-selvika-havoysund/cover.jpg",
-        "alt": "White concrete zig-zag path descending to the Arctic coast",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
+        "src": "/images/norway-selvika-havoysund/01_kitchen_pavilion.jpg",
+        "alt": "A curved concrete shelter at the Selvika rest stop holds a small dining table and bench under a sweeping cantilevered roof punched with circular portholes.",
+        "caption": "Reiulf Ramstad's open-air kitchen pavilion, part of the same monolithic concrete composition as the toilet building.",
+        "photographer": "Reiulf Ramstad Arkitekter",
+        "sourceUrl": "https://www.archdaily.com/251346/selvika-reiulf-ramstad-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-selvika-havoysund/02_ramp_beach.jpg",
+        "alt": "The signature sinuous concrete ribbon ramp coils across the sandy bay at Selvika, sea on the right and the coastal road just visible behind.",
+        "caption": "The serpentine concrete ramp choreographs the descent from car park to sand and sea.",
+        "photographer": "Reiulf Ramstad Arkitekter",
+        "sourceUrl": "https://www.archdaily.com/251346/selvika-reiulf-ramstad-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-selvika-havoysund/03_overview_sea.jpg",
+        "alt": "Looking from atop one of the curving concrete walls across a small bay toward distant Finnmark headlands and a blue summer sky.",
+        "caption": "From the rest stop's upper wall, the structure opens onto the Barents-facing coast.",
+        "photographer": "Reiulf Ramstad Arkitekter",
+        "sourceUrl": "https://www.archdaily.com/251346/selvika-reiulf-ramstad-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-selvika-havoysund/04_toilet_building.jpg",
+        "alt": "A compact board-formed concrete volume — the actual public toilet at Selvika — sits low against the moss-covered ground, its blank wall pierced by three circular portholes of different sizes.",
+        "caption": "The toilet itself: a small concrete chamber punched with portholes, lodged inside the sweeping ribbon wall.",
+        "photographer": "Reiulf Ramstad Arkitekter",
+        "sourceUrl": "https://www.archdaily.com/251346/selvika-reiulf-ramstad-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-selvika-havoysund/05_structure_landscape.jpg",
+        "alt": "The entire Selvika rest stop seen from the beach side as a single sculpture of board-formed concrete coiling into the rocky hillside.",
+        "caption": "The whole ensemble reads as one monolithic concrete creature settled into the rock.",
+        "photographer": "Reiulf Ramstad Arkitekter",
+        "sourceUrl": "https://www.archdaily.com/251346/selvika-reiulf-ramstad-arkitekter",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -598,7 +671,10 @@
     ],
     "designer": {
       "name": "Reiulf Ramstad",
-      "firm": "Reiulf Ramstad Arkitekter"
+      "firm": "Reiulf Ramstad Arkitekter",
+      "portrait": "/images/norway-selvika-havoysund/reiulf-ramstad.jpg",
+      "portraitCredit": "Reiulf Ramstad Arkitekter (studio portrait; RRA portraits typically by Ivar Kvaal)",
+      "portraitSourceUrl": "https://www.reiulframstadarkitekter.com/person/reiulf-ramstad"
     },
     "practical": {
       "openingHours": "Year-round but summer recommended",
@@ -886,9 +962,39 @@
     "images": [
       {
         "src": "/images/london-dont-miss-a-sec/cover.jpg",
-        "alt": "Mirrored cube containing a public toilet on a London street",
-        "photographer": "Photo credit needed — Getty/Scott Barbour archival images",
-        "licenseStatus": "pending"
+        "alt": "A mirrored-glass cube sits in an open plaza, its one-way reflective walls catching the sky and surrounding architecture so passersby see only themselves.",
+        "caption": "From the outside, Monica Bonvicini's 'Don't Miss a Sec'.' is a sealed mirrored cube — the joke (and the toilet) hidden behind the reflection.",
+        "photographer": "Jannes Linders",
+        "sourceUrl": "https://monicabonvicini.net/dont-miss-a-sec-2/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/london-dont-miss-a-sec/interior-toilet-bowl.jpg",
+        "alt": "Interior view of the cube — a single stainless-steel toilet bowl sits on a fluorescent-lit milk-glass plinth, and through the one-way mirrored walls you can see pedestrians and traffic outside, completely unaware they are being watched from the loo.",
+        "caption": "The iconic view from the seat — Bonvicini hands the all-seeing gaze to whoever is on the bowl.",
+        "photographer": "Jannes Linders",
+        "sourceUrl": "https://monicabonvicini.net/dont-miss-a-sec-2/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/london-dont-miss-a-sec/rotterdam-coolsingel.jpg",
+        "alt": "The cube installed on Coolsingel in central Rotterdam, surrounded by tram tracks, leafless trees and weekday foot traffic. Its mirrored skin warps the surrounding buildings into a slightly fish-eye reflection.",
+        "caption": "'Don't Miss a Sec'.' on Coolsingel, Rotterdam — disguised as urban sculpture in plain sight.",
+        "photographer": "FaceMePLS via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Don%27t_Miss_A_Sec_(2004)_(1710210866).jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "src": "/images/london-dont-miss-a-sec/rotterdam-alt-angle.jpg",
+        "alt": "A second view of the Rotterdam installation, photographed from a different angle on the same day. A pedestrian crosses behind the cube; the mirrored walls show no hint of the toilet inside.",
+        "caption": "Same cube, second pass — the work refuses to reveal itself from any angle outside.",
+        "photographer": "FaceMePLS via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Don%27t_Miss_A_Sec_(2004)_(1710211846).jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       }
     ],
     "sources": [
@@ -899,7 +1005,10 @@
     ],
     "designer": {
       "name": "Monica Bonvicini",
-      "firm": "Monica Bonvicini (artist)"
+      "firm": "Monica Bonvicini (artist)",
+      "portrait": "/images/london-dont-miss-a-sec/monica-bonvicini.jpg",
+      "portraitCredit": "Martin Bahler, via AWARE — Archives of Women Artists, Research and Exhibitions",
+      "portraitSourceUrl": "https://awarewomenartists.com/en/artiste/monica-bonvicini/"
     },
     "practical": {
       "openingHours": "Varies by exhibition venue",
@@ -959,10 +1068,46 @@
     ],
     "images": [
       {
-        "src": "/images/delhi-sulabh-toilet-museum/cover.jpg",
-        "alt": "Display cases of historic toilet artifacts in a museum gallery",
-        "photographer": "Photo credit needed — Sulabh International press archive",
-        "licenseStatus": "pending"
+        "src": "/images/delhi-sulabh-toilet-museum/museum-entrance.jpg",
+        "alt": "The exterior sign and entrance of Sulabh International Museum of Toilets, a modest single-storey building in Mahavir Enclave, Delhi.",
+        "caption": "A quietly extraordinary museum tucked into Sulabh International's Delhi campus.",
+        "photographer": "FLUSH (blog)",
+        "sourceUrl": "https://www.itsflush.com/post/sulabh-museum",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/delhi-sulabh-toilet-museum/interior-view.jpg",
+        "alt": "Wide shot of the museum's main gallery: bright fluorescent lighting, glass vitrines lining a long room, illustrated wall panels tracing the history of sanitation chronologically.",
+        "caption": "Five thousand years of plumbing arranged like a school corridor.",
+        "photographer": "FLUSH (blog)",
+        "sourceUrl": "https://www.itsflush.com/post/sulabh-museum",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/delhi-sulabh-toilet-museum/toilet-display.jpg",
+        "alt": "Vitrine packed with antique commodes, chamber pots and decorated Victorian toilet seats, each labelled with handwritten cards.",
+        "caption": "A study collection of privies, chamber pots and ornate water closets spanning 1145 CE to the late 20th century.",
+        "photographer": "FLUSH (blog)",
+        "sourceUrl": "https://www.itsflush.com/post/sulabh-museum",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/delhi-sulabh-toilet-museum/chinese-dung-bucket.jpg",
+        "alt": "A glass case displaying a tall wooden Chinese dung-collection bucket from the Qing era, set against an explanatory wall panel.",
+        "caption": "Curated alongside Mughal commodes and Roman gold pots, the everyday tools of historical sanitation.",
+        "photographer": "FLUSH (blog)",
+        "sourceUrl": "https://www.itsflush.com/post/sulabh-museum",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/delhi-sulabh-toilet-museum/ecosan-toilet.jpg",
+        "alt": "Concrete floor with two side-by-side ecosan squat pans, each with separate apertures for urine and faeces, set into a tiled cubicle of a Sulabh complex.",
+        "caption": "The dry twin-pit ecosan technology Sulabh propagated nationwide — the live counterpart to the museum's historical displays.",
+        "photographer": "Ajay Tallam via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulabh_ecosan_toilet.jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       }
     ],
     "sources": [
@@ -974,7 +1119,12 @@
     "nameLocal": "सुलभ इंटरनेशनल म्यूज़ियम ऑफ़ टॉयलेट्स",
     "designer": {
       "name": "Bindeshwar Pathak (founder)",
-      "firm": "Sulabh International Social Service Organisation"
+      "firm": "Sulabh International Social Service Organisation",
+      "portrait": "/images/delhi-sulabh-toilet-museum/bindeshwar-pathak.jpg",
+      "portraitCredit": "Government of India / Photo Division (Prime Minister's Office), via Wikimedia Commons",
+      "portraitSourceUrl": "https://commons.wikimedia.org/wiki/File:Bindeshwar_Pathak.jpg",
+      "portraitLicense": "GODL-India",
+      "portraitLicenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
     },
     "practical": {
       "openingHours": "Mon–Sat 10:00–17:00 (verify locally)",
@@ -1130,9 +1280,43 @@
     "images": [
       {
         "src": "/images/tokyo-higashi-sanchome-origata/cover.jpg",
-        "alt": "Bright red triangular toilet building with folded paper-like eaves",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
+        "alt": "A bright red angular toilet structure with three folded volumes sits on a triangular plot, its sloped roof folding over each enclosure like wrapping paper.",
+        "caption": "Nao Tamura's 'Origata' reframes the public toilet as a wrapped gift — three vermilion volumes folded onto a triangular Shibuya plot.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-higashi-sanchome-origata/oblique-corner.jpg",
+        "alt": "Sunlit corner view of the red toilet showing three deep recesses cut into the volumes, with frosted-glass stall doors set back from the bright red facade.",
+        "caption": "From the street corner, the three folded recesses register as urgent red flags amid Shibuya's grey backdrop.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-higashi-sanchome-origata/exterior-night.jpg",
+        "alt": "The red structure photographed from down the street with the rail line and graffiti-covered retaining wall to its right.",
+        "caption": "A red marker for the neighbourhood, the toilet asserts itself against the messy backdrop of Tokyo's rail infrastructure.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-higashi-sanchome-origata/interior-stall.jpg",
+        "alt": "Interior of one stall: a white sink with chrome tap mounted on a concrete-and-white wall, mirror above, and a TOTO toilet bowl visible through an open door.",
+        "caption": "Inside, the red shell gives way to a calm white cell with a TOTO bowl, exposed concrete and a single washbasin.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-higashi-sanchome-origata/interior-bowl.jpg",
+        "alt": "A close view through the white stall doorway of a wall-mounted TOTO washlet toilet bowl, raw concrete to one side and a frosted red panel diffusing light to the other.",
+        "caption": "A single washlet sits in a tight white cell, framed by raw concrete and the red glow filtered through frosted glass.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -1148,7 +1332,10 @@
     "nameLocal": "東三丁目公衆トイレ",
     "designer": {
       "name": "Nao Tamura",
-      "firm": "Nao Tamura (product designer)"
+      "firm": "Nao Tamura (product designer)",
+      "portrait": "/images/tokyo-higashi-sanchome-origata/nao-tamura.jpg",
+      "portraitCredit": "via The Tokyo Toilet / The Nippon Foundation",
+      "portraitSourceUrl": "https://tokyotoilet.jp/en/higashi_sanchome/"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -1207,10 +1394,44 @@
     ],
     "images": [
       {
-        "src": "/images/norway-bukkekjerka-andoya/cover.jpg",
-        "alt": "Angular dark-clad toilet structure beside a coastal rock formation",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
+        "src": "/images/norway-bukkekjerka-andoya/01_interior_view.jpg",
+        "alt": "Inside the Bukkekjerka toilet — a polished stainless-steel basin with black tap-handles hovers in front of a glass wall that frames the bare Andøya coastline.",
+        "caption": "From inside, the one-way mirror glass becomes a private cinema of the Norwegian Sea.",
+        "photographer": "MORFEUS arkitekter (Caroline Støvring)",
+        "sourceUrl": "https://www.archdaily.com/896606/bukkekjerka-morfeus-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-bukkekjerka-andoya/02_interior_sink.jpg",
+        "alt": "A closer view of the stainless-steel washbasin and matte-black mixer tap inside the cubicle, with rocky moss-covered terrain and a horizon of mountains beyond the floor-to-ceiling mirrored glass.",
+        "caption": "Black VOLA fittings and a steel basin face the unbroken Vesterålen horizon.",
+        "photographer": "MORFEUS arkitekter (Caroline Støvring)",
+        "sourceUrl": "https://www.archdaily.com/896606/bukkekjerka-morfeus-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-bukkekjerka-andoya/03_exterior_mirror.jpg",
+        "alt": "The angular Bukkekjerka pavilion seen from the parking platform — a folded concrete roof bridges between rocks above a mirror-clad cubicle that reflects the landscape.",
+        "caption": "A folded concrete slab steps between rocks; the toilet cubicle disappears into a reflection of its own ground.",
+        "photographer": "MORFEUS arkitekter (Caroline Støvring)",
+        "sourceUrl": "https://www.archdaily.com/896606/bukkekjerka-morfeus-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-bukkekjerka-andoya/04_exterior_close.jpg",
+        "alt": "A close view of the mirror-clad toilet box from outside — the wall reflects orange and grey lichen-covered rocks, while a sliver of concrete soffit overhead reveals the building's geometry.",
+        "caption": "From outside, the cubicle camouflages itself in lichen-orange rock.",
+        "photographer": "MORFEUS arkitekter (Caroline Støvring)",
+        "sourceUrl": "https://www.archdaily.com/896606/bukkekjerka-morfeus-arkitekter",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-bukkekjerka-andoya/05_landscape_mountain.jpg",
+        "alt": "A wide landscape view of the Bukkekjerka site — the low concrete rest-stop snakes along at the foot of a towering Sámi sacred rock formation, dwarfed by mountain and moss.",
+        "caption": "Bukkekjerka in context: a quiet sliver of concrete at the foot of Andøya's sacred peak.",
+        "photographer": "MORFEUS arkitekter (Caroline Støvring)",
+        "sourceUrl": "https://www.archdaily.com/896606/bukkekjerka-morfeus-arkitekter",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -1221,7 +1442,8 @@
     ],
     "designer": {
       "name": "Morfeus Arkitekter",
-      "firm": "Morfeus Arkitekter"
+      "firm": "Morfeus Arkitekter",
+      "bio": "Oslo studio founded 2007 by Caroline Støvring and Cecilie Wille; the Bukkekjerka project team also included Margrethe Rosenlund and Mari Høstmælingen Grennæs."
     },
     "practical": {
       "openingHours": "Summer season recommended",
@@ -1386,9 +1608,51 @@
     "images": [
       {
         "src": "/images/paris-uritrottoir/cover.jpg",
-        "alt": "Red box-shaped sidewalk urinal with planted flowers on top",
-        "photographer": "Photo credit needed — Faltazi press images",
-        "licenseStatus": "pending"
+        "alt": "A red Uritrottoir STOUT model on a narrow Nantes sidewalk: a chest-high metal box with a planter on top of grasses and flowers, and an inclined urinal opening on its front face.",
+        "caption": "A Faltazi Uritrottoir on rue Montaudouine in Nantes — planter on top, dry composting urinal below.",
+        "photographer": "Roland Belote via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uritrottoir.jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/images/paris-uritrottoir/close-up-opening.jpg",
+        "alt": "Tight framing of a green Uritrottoir against a stone-wall alley, showing the angled urinal slot at standing height with a Faltazi/Ekovore decal.",
+        "caption": "Close-up — the opening at standing-male height makes the function unmistakable.",
+        "photographer": "Benoît Prieur via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uritrottoir_Rue_de_la_Bl%C3%A9terie_(Nantes)_en_mars_2023.JPG",
+        "licenseStatus": "cc",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      {
+        "src": "/images/paris-uritrottoir/street-context.jpg",
+        "alt": "The larger STOUT XL variant installed on rue de la Bléterie, Nantes — wider, taller, and slotted between traditional shopfronts.",
+        "caption": "The STOUT XL variant in Nantes — sized up for higher-traffic spots like Paris's Gare de Lyon.",
+        "photographer": "Roland Belote via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uritrottoir_STOUT_XL.jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/images/paris-uritrottoir/cross-section.jpg",
+        "alt": "A schematic diagram showing the Uritrottoir's internal logic: urine plus straw drops into a sealed compost tray, which is later harvested as fertilizer.",
+        "caption": "How it works — urine plus straw becomes compost, the loop the design is built to close.",
+        "photographer": "Roland Belote / Faltazi via Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Compostage-uritrottoir.jpg",
+        "licenseStatus": "cc",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/images/paris-uritrottoir/planter-detail.jpg",
+        "alt": "Faltazi's own product photograph of a Uritrottoir in golden afternoon light, with the top planter spilling over with grasses and red flowers.",
+        "caption": "Faltazi's studio shot — the design's pitch in a single image: a garden that absorbs the pee problem.",
+        "photographer": "Faltazi (studio)",
+        "sourceUrl": "https://www.faltazi.com/portfolio/uritrottoir-urinoir-sec-public/",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -1403,7 +1667,10 @@
     ],
     "designer": {
       "name": "Laurent Lebot & Victor Massip",
-      "firm": "Faltazi"
+      "firm": "Faltazi",
+      "portrait": "/images/paris-uritrottoir/faltazi.jpg",
+      "portraitCredit": "© Faltazi (studio-supplied portrait of Laurent Lebot and Victor Massip, via Urbanisme magazine)",
+      "portraitSourceUrl": "https://www.urbanisme.fr/invite/victor-massip-et-laurent-lebot-cofondateurs-de-lagence-faltazi/"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -2019,9 +2286,43 @@
     "images": [
       {
         "src": "/images/norway-utsikten-gaularfjellet/cover.jpg",
-        "alt": "Triangular concrete viewing platform cantilevered over a valley",
-        "photographer": "Photo credit needed — Norwegian Scenic Routes",
-        "licenseStatus": "pending"
+        "alt": "A vast triangular concrete platform, its tips rising up like wings, perched at the edge of a Norwegian mountain ridge under a moody grey sky.",
+        "caption": "Code Arkitektur's 80-centimetre-thin concrete deck floats above the Gaular plateau like a tectonic plate.",
+        "photographer": "Jiri Havran",
+        "sourceUrl": "https://www.archdaily.com/793615/utsikten-viewpoint-code-arkitektur",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-utsikten-gaularfjellet/aerial.jpg",
+        "alt": "Drone view straight down on the triangular concrete platform, its three corners flared upward like origami folds, surrounded by mossy rock and gravel.",
+        "caption": "From above, the platform reads as a paper aeroplane snipped from the mountainside.",
+        "photographer": "Jiri Havran",
+        "sourceUrl": "https://www.archdaily.com/793615/utsikten-viewpoint-code-arkitektur",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-utsikten-gaularfjellet/corner-aperture.jpg",
+        "alt": "Close detail of one raised concrete wing, a rectangular cut-out forming the doorway to the small restroom embedded inside the structure.",
+        "caption": "Each upturned corner conceals a function — seating, terrain access, or, here, the entrance to the solar-powered toilet.",
+        "photographer": "Jiri Havran",
+        "sourceUrl": "https://www.archdaily.com/793615/utsikten-viewpoint-code-arkitektur",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-utsikten-gaularfjellet/platform-toilet-entry.jpg",
+        "alt": "Side-on ground-level view of the platform with a raised wing-corner in profile, showing the dark slot of the toilet doorway carved into the concrete.",
+        "caption": "The restroom hides in plain sight — the building IS the platform.",
+        "photographer": "Jiri Havran",
+        "sourceUrl": "https://www.archdaily.com/793615/utsikten-viewpoint-code-arkitektur",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/norway-utsikten-gaularfjellet/restroom-access.jpg",
+        "alt": "Visitors approaching the corner aperture of the platform that leads into the solar-powered toilet block, scale humans against the heroic concrete.",
+        "caption": "A toilet break with a 700-metre view down the fjord.",
+        "photographer": "Jiri Havran",
+        "sourceUrl": "https://www.archdaily.com/793615/utsikten-viewpoint-code-arkitektur",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -2032,7 +2333,11 @@
     ],
     "designer": {
       "name": "Code Arkitektur",
-      "firm": "Code Arkitektur"
+      "firm": "Code Arkitektur",
+      "bio": "Oslo studio founded in 1997 by Bjarne Ringstad, Julian Lynghjem, Gaute Stensrud and Henning Kaland (joined by Ole Einejord in 1999).",
+      "portrait": "/images/norway-utsikten-gaularfjellet/code-arkitektur.jpg",
+      "portraitCredit": "Code Arkitektur studio group photo, via Norwegian Architects' Association (Arkitektur N)",
+      "portraitSourceUrl": "https://www.arkitektur.no/folk/selvangivelsen/code-arkitektur/"
     },
     "practical": {
       "openingHours": "Summer season only (typically May–October)",
@@ -2322,9 +2627,43 @@
     "images": [
       {
         "src": "/images/tokyo-ebisu-station-white/cover.jpg",
-        "alt": "Pure white louvred toilet pavilion outside a train station",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
+        "alt": "At dusk a glowing white louvered box sits in the plaza outside Ebisu Station's west exit, framed by the station's diamond-grid canopy overhead and blurred commuters streaming past.",
+        "caption": "Kashiwa Sato's pure-white slatted volume at Ebisu Station glows softly into the evening commute.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-station-white/exterior-front.jpg",
+        "alt": "Daytime front elevation of the toilet, a square box wrapped in horizontal white slats with a faint V-shaped pattern, set on a low white plinth between two concrete buildings.",
+        "caption": "By day the slatted skin reads as a quiet white ledger panel, deliberately recessive against the city's grain.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-station-white/dusk-glow.jpg",
+        "alt": "The white box at blue hour, light bleeding through its horizontal louvers from inside, with the green JR East logo on the station building visible behind.",
+        "caption": "Designed as a 'neighbourhood symbol that should not be overly conspicuous,' the box becomes a soft lantern only after dark.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-station-white/pictogram-detail.jpg",
+        "alt": "A tight detail of six brushed-steel pictograms (man, woman, wheelchair, ostomate, baby-change, multi-purpose) standing proud of the white horizontal slats.",
+        "caption": "Sato's signage system, lifted off the louvered skin in brushed steel, treats inclusion as graphic identity.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-station-white/interior-stall.jpg",
+        "alt": "Interior of an accessible cubicle: white TOTO washlet bowl against a white wall, compact ceramic washbasin to the left, grab bar to the right, recessed lighting above.",
+        "caption": "A pristine all-white cell, every fixture set into the wall — Sato's 'clean and safe' stripped to bright graphic abstraction.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -2336,7 +2675,10 @@
     "nameLocal": "恵比寿駅西口公衆トイレ",
     "designer": {
       "name": "Kashiwa Sato",
-      "firm": "Samurai (creative direction)"
+      "firm": "Samurai (creative direction)",
+      "portrait": "/images/tokyo-ebisu-station-white/kashiwa-sato.jpg",
+      "portraitCredit": "via The Tokyo Toilet / The Nippon Foundation",
+      "portraitSourceUrl": "https://tokyotoilet.jp/en/ebisu_station_west_exit/"
     },
     "practical": {
       "openingHours": "24 hours",
@@ -2695,9 +3037,43 @@
     "images": [
       {
         "src": "/images/tokyo-nishihara-itchome-andon/cover.jpg",
-        "alt": "Green-tinted glass lantern-like toilet glowing at dusk",
-        "photographer": "Satoshi Nagare / The Nippon Foundation",
-        "licenseStatus": "pending"
+        "alt": "Night view of the toilet building glowing warmly from within, like a paper lantern set in a small Tokyo park; a silhouetted figure stands at the entrance.",
+        "caption": "After dark the mint-green box dissolves into an 'andon' — a lantern that gives the cramped Nishihara block a soft, civic light.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-nishihara-itchome-andon/facade-day.jpg",
+        "alt": "Daytime frontal view of the pale-mint rectangular facade with three green-painted entry recesses, signage cut directly into the panels.",
+        "caption": "By day the lantern reads as a calm, restrained civic object — three doors, three pictograms, no fuss.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-nishihara-itchome-andon/interior-accessible-wc.jpg",
+        "alt": "Accessible restroom interior showing a wall-mounted urinal with white grab bars, a small basin, and a wall of frosted glass softly printed with a forest silhouette pattern.",
+        "caption": "Inside the multipurpose stall, frosted glass printed with a forest motif lets daylight wash over white fittings and chrome.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-nishihara-itchome-andon/interior-stall-andon.jpg",
+        "alt": "View looking into a single toilet stall through a tall frosted-glass door, with the white WC visible behind the panel which is printed with a delicate woodland scene.",
+        "caption": "Each stall reads from the park as a glowing lantern — the printed woodland on the glass keeps the user private but never sealed in.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-nishihara-itchome-andon/interior-washbasin-frosted.jpg",
+        "alt": "A square washbasin and mirror stand in front of a full-height panel of frosted glass printed with a soft tree silhouette, painted dark green wall at left.",
+        "caption": "A washbasin set against a printed glass screen turns the wall itself into the park's borrowed scenery.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/",
+        "licenseStatus": "unknown"
       }
     ],
     "sources": [
@@ -2709,7 +3085,10 @@
     "nameLocal": "西原一丁目公園 行灯",
     "designer": {
       "name": "Takenosuke Sakakura",
-      "firm": "Sakakura Associates"
+      "firm": "Sakakura Associates",
+      "portrait": "/images/tokyo-nishihara-itchome-andon/takenosuke-sakakura.jpg",
+      "portraitCredit": "via The Tokyo Toilet / The Nippon Foundation",
+      "portraitSourceUrl": "https://tokyotoilet.jp/en/nishihara_itchome_park/"
     },
     "practical": {
       "openingHours": "24 hours",
