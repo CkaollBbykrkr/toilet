@@ -20,6 +20,16 @@ const NEW = JSON.parse(
 const CURRENT = JSON.parse(
   readFileSync(resolve(ROOT, "data/toilets.json"), "utf-8"),
 );
+// Extras: entries authored outside the PRD source (already in final Toilet
+// shape). Optional — missing file is treated as empty.
+let EXTRAS = [];
+try {
+  EXTRAS = JSON.parse(
+    readFileSync(resolve(ROOT, "data/toilets-extras.json"), "utf-8"),
+  );
+} catch (e) {
+  if (e.code !== "ENOENT") throw e;
+}
 
 // =============================================================================
 // CONFIG
@@ -1088,7 +1098,7 @@ const carried = CARRY_OVER.map((slug) => {
   return patch ? { ...regionFixed, ...patch } : regionFixed;
 });
 
-const combined = [...migrated, ...carried];
+const combined = [...migrated, ...carried, ...EXTRAS];
 const final = shuffleByRegion(combined, SHUFFLE_SEED);
 
 // =============================================================================
@@ -1098,6 +1108,7 @@ const final = shuffleByRegion(combined, SHUFFLE_SEED);
 console.log(`\n=== Migration summary ===`);
 console.log(`Migrated entries:    ${migrated.length}`);
 console.log(`Carried-over:        ${carried.length}`);
+console.log(`Extras:              ${EXTRAS.length}`);
 console.log(`Total:               ${final.length}`);
 console.log(`Merge rules applied: ${Object.keys(MERGE_RULES).length}`);
 

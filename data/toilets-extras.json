@@ -1,0 +1,314 @@
+[
+  {
+    "slug": "tokyo-ebisu-east-park-squid",
+    "name": "Ebisu East Park Public Toilet",
+    "nameLocal": "恵比寿東公園トイレ",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "place": "Ebisu East Park (Shibuya)",
+      "coordinates": { "lat": 35.6476, "lng": 139.7141 }
+    },
+    "year": 2020,
+    "tagline": "Fumihiko Maki's thin white roof floats above the park—locals call it the Squid.",
+    "description": "Fumihiko Maki's contribution to the Tokyo Toilet Project sits in a small Ebisu park better known for its octopus-shaped play slide. His response was deceptively quiet: a thin white roof, gently curved at the edges, hovering above three small volumes—men's, women's and a universal stall—arranged around an open central courtyard. From above the roof spreads its tentacle-like extensions over a bench seat, an information board and the entrances, earning the building its nickname: the Squid.\n\nThe move is generosity disguised as restraint. By breaking the programme into separate volumes and slipping a courtyard between them, Maki removes the conventional toilet building's sense of enclosure. Sightlines stay open through the structure, the bench invites loitering, and the accessible stall sits visible from the street rather than hidden in a corner. It's a quiet argument that a public restroom can simply be public space with plumbing.",
+    "styles": ["Minimalist", "Futuristic"],
+    "features": ["Accessible", "Family-friendly"],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Five minutes' walk from Ebisu Station's East Exit; the park sits just behind the Yebisu Garden Place approach.",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Daytime, when the white roof catches the light and the courtyard is open to the sky.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Combine with the Yoyogi-Fukamachi Transparent Toilet and Jingu-Dori Amayadori for a Tokyo Toilet Project mini-tour.",
+        "icon": "info"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Universal stall with grab rails, ostomate fixtures and a wall-mounted child seat.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/cover.jpg",
+        "alt": "Fumihiko Maki's white curved roof above the Ebisu East Park restroom, earning its 'Squid' nickname",
+        "caption": "Maki's thin curved white roof hovers over the restroom — locals nicknamed it the Squid Toilet, after the park's octopus slide.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_east_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/interior-stall.jpg",
+        "alt": "Open central courtyard with men/women/accessible pictograms and the accessible toilet visible inside",
+        "caption": "From the courtyard, the universal stall is visible on the right with its toilet, grab rails and changing table.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_east_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/courtyard.jpg",
+        "alt": "Open central courtyard with bench and tree, men's and women's rooms entered from either side",
+        "caption": "The central courtyard with bench and tree separates the men's and women's rooms.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_east_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/baby-seat.jpg",
+        "alt": "Wall-mounted child seat fixture inside the men's room",
+        "caption": "A wall-mounted child seat inside the men's room — part of Maki's accessibility-minded brief.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_east_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-east-park-squid/exterior.jpg",
+        "alt": "Side approach showing the bench seating tucked beneath the eaves of the squid-like canopy",
+        "caption": "From the side, the bench seating sits beneath the squid-like canopy.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_east_park/",
+        "licenseStatus": "unknown"
+      }
+    ],
+    "designer": {
+      "name": "Fumihiko Maki",
+      "firm": "Maki and Associates",
+      "portrait": "/images/tokyo-ebisu-east-park-squid/fumihiko-maki.jpg",
+      "portraitCredit": "jeanbaptisteparis via Wikimedia Commons (3x4 crop)",
+      "portraitSourceUrl": "https://commons.wikimedia.org/wiki/File:Fumihiko_Maki_2010_alt_(3x4_cropped).jpg",
+      "portraitLicense": "CC BY-SA 2.0",
+      "portraitLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "practical": {
+      "openingHours": "Open 24 hours",
+      "fee": "Free",
+      "accessibility": "Universal stall with grab rails, ostomate fixtures and child seat"
+    },
+    "tags": ["Minimalist", "Accessible"],
+    "sources": [
+      {
+        "title": "Ebisu East Park Public Toilet — The Tokyo Toilet",
+        "url": "https://tokyotoilet.jp/en/ebisu_east_park/"
+      }
+    ]
+  },
+  {
+    "slug": "tokyo-ebisu-park-fifteen-walls",
+    "name": "Modern Kawaya at Ebisu Park",
+    "nameLocal": "恵比寿公園トイレ",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "place": "Ebisu Park (Shibuya)",
+      "coordinates": { "lat": 35.6463, "lng": 139.7048 }
+    },
+    "year": 2020,
+    "tagline": "Fifteen concrete walls scattered like neolithic huts—Wonderwall's love letter to the original Japanese kawaya.",
+    "description": "Masamichi Katayama of Wonderwall called his Tokyo Toilet entry 'Modern Kawaya'—a reference to the ambiguous, semi-public squat-shelters that Japanese villagers improvised from rocks, branches and walls long before plumbing arrived. His version sets fifteen randomly-rotated concrete walls in a small Ebisu park, threaded by passages that lead the visitor inward to the stalls and washbasins at the centre.\n\nThe arrangement deliberately resists the conventional restroom block. From outside it reads as a small civic sculpture; from inside the walls open and close around you, framing fragments of trees and sky. Board-formed concrete gives way to warmer interior surfaces—proof that even a programme as banal as a public toilet can survive being treated as architecture.",
+    "styles": ["Brutalist", "Conceptual"],
+    "features": ["Accessible", "Art Installation"],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Three minutes' walk from Ebisu Station West Exit, on the eastern edge of Ebisu Park.",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Late afternoon, when long shadows accentuate the walls' irregular geometry.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "The fifteen-wall arrangement is best appreciated by walking the full perimeter before stepping inside.",
+        "icon": "info"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Wheelchair-accessible universal stall with full fixtures.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/cover.jpg",
+        "alt": "Cluster of fifteen interlocking concrete walls forming Masamichi Katayama's Modern Kawaya at Ebisu Park",
+        "caption": "Katayama's design name is 'Modern Kawaya' — fifteen randomly placed concrete walls referencing neolithic Japanese huts.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/entrance-pictogram.jpg",
+        "alt": "Restroom entrance between concrete walls with WC pictogram signage",
+        "caption": "WC pictograms on the concrete walls signal the entrances between the maze-like passages.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/interior-stall.jpg",
+        "alt": "Wood-lined interior of the restroom showing basins and softly lit cedar walls",
+        "caption": "Inside, board-formed concrete gives way to warm wood walls and a clean pair of basins.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/sink-area.jpg",
+        "alt": "Sink area showing the washbasin and interior fixtures",
+        "caption": "Detail of the wash area at the heart of the interlocking-wall arrangement.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/passage-detail.jpg",
+        "alt": "Maze-like passage between concrete walls leading to a restroom entrance",
+        "caption": "The passages between the fifteen walls thread visitors toward the restroom entrances.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-ebisu-park-fifteen-walls/walls-overview.jpg",
+        "alt": "Overview of the full fifteen-wall arrangement from the park's perimeter",
+        "caption": "From the park's edge the fifteen walls read as a small civic sculpture rather than a restroom block.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/ebisu_park/",
+        "licenseStatus": "unknown"
+      }
+    ],
+    "designer": {
+      "name": "Masamichi Katayama",
+      "firm": "Wonderwall",
+      "portrait": "/images/tokyo-ebisu-park-fifteen-walls/masamichi-katayama.jpg",
+      "portraitCredit": "Wonderwall (official press portrait)",
+      "portraitSourceUrl": "https://wonder-wall.com/about/"
+    },
+    "practical": {
+      "openingHours": "Open 24 hours",
+      "fee": "Free",
+      "accessibility": "Wheelchair-accessible universal stall"
+    },
+    "tags": ["Brutalist", "Accessible"],
+    "sources": [
+      {
+        "title": "Ebisu Park — The Tokyo Toilet",
+        "url": "https://tokyotoilet.jp/en/ebisu_park/"
+      }
+    ]
+  },
+  {
+    "slug": "tokyo-jingumae-nigo-washington-heights",
+    "name": "The House at Jingumae",
+    "nameLocal": "神宮前公衆便所",
+    "region": "Asia",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "place": "Jingumae 6-chome (Shibuya)",
+      "coordinates": { "lat": 35.6671, "lng": 139.7019 }
+    },
+    "year": 2023,
+    "tagline": "NIGO's small cottage with a red roof—a quiet nod to the Washington Heights houses that once stood nearby.",
+    "description": "When NIGO (Tomoaki Nagao, founder of A Bathing Ape and now creative director of Kenzo) was asked to design a public toilet, he reached past architectural vocabulary to a piece of neighbourhood history: the Washington Heights houses. From 1946 to 1964 the area now occupied by Yoyogi Park and the surrounding Jingumae blocks was an American military housing compound—rows of pitched-roof cottages in mint and white that became, for many Japanese, an early visual shorthand for postwar America.\n\nThe restroom takes that cottage form almost literally. A red-shingled gable roof sits over white clapboard walls trimmed in mint blue; inside, exposed white trusses run beneath the vaulted ceiling and a picket-fence partition lets daylight wash across the urinals. It is, in NIGO's hands, almost a Pop-art gesture—the toilet as a fragment of Tokyo's appropriated mid-century imagery, dropped back onto its original site.",
+    "styles": ["Pop", "Conceptual"],
+    "features": ["Accessible", "Art Installation"],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "A few minutes' walk from Meiji-Jingumae 'Harajuku' Station or Yoyogi-Hachiman Station.",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Mid-morning, when daylight filters through the mint picket-fence partition.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Read up on Washington Heights (1946–1964) before visiting—it adds a layer to the cottage form.",
+        "icon": "info"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Universal stall with washlet, sink and grab rails.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/cover.jpg",
+        "alt": "NIGO's 'The House' at Jingumae — a small American-style cottage with red pitched roof, white walls and mint-blue window frames",
+        "caption": "NIGO's design is shaped like a small American cottage — a quiet reference to the post-war Washington Heights housing that once stood nearby.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/jingumae/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/interior-urinals.jpg",
+        "alt": "Men's room interior with white urinals and a mint-blue picket-fence partition admitting daylight",
+        "caption": "Inside the men's room: white urinals against a mint-blue picket-fence partition that lets in daylight.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/jingumae/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/interior-mens.jpg",
+        "alt": "Men's room interior with washbasin, mirror and stall partition under a vaulted roof with exposed white trusses",
+        "caption": "Inside, exposed white trusses run beneath the cottage's vaulted ceiling.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/jingumae/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/accessible-interior.jpg",
+        "alt": "Accessible toilet interior with washlet, sink and grab rails inside one of the house's rooms",
+        "caption": "The accessible stall sits inside one of the house volumes — washlet, sink and grab rails arranged for universal access.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/jingumae/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/tokyo-jingumae-nigo-washington-heights/interior-sink.jpg",
+        "alt": "Washbasin alcove with mint-framed obscured-glass window echoing the cottage's exterior trim",
+        "caption": "A washbasin alcove with mint-framed glazing echoes the cottage's exterior trim.",
+        "photographer": "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+        "sourceUrl": "https://tokyotoilet.jp/en/jingumae/",
+        "licenseStatus": "unknown"
+      }
+    ],
+    "designer": {
+      "name": "NIGO (Tomoaki Nagao)",
+      "firm": "with Wonderwall",
+      "portrait": "/images/tokyo-jingumae-nigo-washington-heights/nigo.jpg",
+      "portraitCredit": "Sry85 via Wikimedia Commons",
+      "portraitSourceUrl": "https://commons.wikimedia.org/wiki/File:Nigo_in_Thailand,_2006.jpg",
+      "portraitLicense": "CC BY-SA 3.0",
+      "portraitLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "practical": {
+      "openingHours": "Open 24 hours",
+      "fee": "Free",
+      "accessibility": "Universal stall with washlet and grab rails"
+    },
+    "tags": ["Pop", "Accessible"],
+    "sources": [
+      {
+        "title": "Jingumae — The Tokyo Toilet",
+        "url": "https://tokyotoilet.jp/en/jingumae/"
+      }
+    ]
+  }
+]
