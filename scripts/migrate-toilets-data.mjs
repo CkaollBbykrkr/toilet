@@ -1349,6 +1349,60 @@ const MERGE_RULES = {
       ],
     },
   },
+
+  "singapore-marina-bay-sands-six-star": {
+    inlineOverride: {
+      year: 2018,
+      designer: {
+        name: "Marina Bay Sands facilities team",
+        bio: "The Shoppes at Marina Bay Sands was master-planned by Moshe Safdie; the six 6-star Happy Toilet restrooms inside it were certified by Jack Sim's Restroom Association of Singapore in April 2018, marking the first time the 6-star tier (introduced 2014) was ever awarded. The certification rewards 'smart restroom' features including an ammonia sensor that alerts cleaners when air-quality thresholds are crossed, and a tablet-based user-feedback loop modelled on ride-share apps.",
+      },
+      images: [
+        {
+          src: "/images/singapore-marina-bay-sands-six-star/cover.jpg",
+          alt: "Restroom interior at The Shoppes at Marina Bay Sands — black-framed mirrors over a dark-veined marble vanity with twin basins, framed by marble walls and dark-wood stall doors.",
+          caption: "One of the six 6-star Happy Toilet restrooms at The Shoppes at Marina Bay Sands, finished in book-matched marble and black-framed mirrors.",
+          photographer: "Restroom Association (Singapore)",
+          sourceUrl: "https://www.toilet.org.sg/gallery/207/6-star-toilet-the-shoppes-at-marina-bay-sands",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/singapore-marina-bay-sands-six-star/washbasin-row.jpg",
+          alt: "Wide view of the double-basin vanity counter in dark marble, with a cluster of black-framed mirrors and recessed sanitary-bin alcoves clad in the same marble.",
+          caption: "The washbasin row uses the same dark marble found throughout the MBS retail interiors, a hallmark of the 6-star fitout.",
+          photographer: "Restroom Association (Singapore)",
+          sourceUrl: "https://www.toilet.org.sg/gallery/207/6-star-toilet-the-shoppes-at-marina-bay-sands",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/singapore-marina-bay-sands-six-star/stall-corridor.jpg",
+          alt: "Marble-clad stall corridor with floor-to-ceiling dark-wood doors lined up against a back wall of figured stone.",
+          caption: "Stall doors run from floor to ceiling — a detail RAS auditors flag as a 6-star feature for privacy and acoustics.",
+          photographer: "Restroom Association (Singapore)",
+          sourceUrl: "https://www.toilet.org.sg/gallery/207/6-star-toilet-the-shoppes-at-marina-bay-sands",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/singapore-marina-bay-sands-six-star/urinal-wall.jpg",
+          alt: "Two wall-hung urinals separated by a dark-wood privacy divider, set against marble walls.",
+          caption: "The men's room pairs marble cladding with full-height privacy dividers between urinals.",
+          photographer: "Restroom Association (Singapore)",
+          sourceUrl: "https://www.toilet.org.sg/gallery/207/6-star-toilet-the-shoppes-at-marina-bay-sands",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/singapore-marina-bay-sands-six-star/mall-atrium.jpg",
+          alt: "Wide establishing shot of The Shoppes at Marina Bay Sands interior — vaulted glass roof and gleaming escalators rising through a multi-level retail atrium.",
+          caption: "The Shoppes at Marina Bay Sands — the Moshe Safdie-master-planned retail complex inside which the 6-star restrooms are tucked.",
+          photographer: "Basile Morin via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:Interior_of_The_Shoppes_at_Marina_Bay_Sands,_Singapore.jpg",
+          licenseStatus: "cc",
+          license: "CC BY-SA 4.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+        },
+      ],
+    },
+  },
 };
 
 const CARRY_OVER = [];

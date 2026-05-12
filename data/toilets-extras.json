@@ -310,5 +310,121 @@
         "url": "https://tokyotoilet.jp/en/jingumae/"
       }
     ]
+  },
+  {
+    "slug": "china-nanjing-deji-plaza-restroom",
+    "name": "Deji Plaza Themed Washrooms",
+    "nameLocal": "南京德基广场卫生间",
+    "region": "Asia",
+    "location": {
+      "country": "China",
+      "city": "Nanjing",
+      "place": "Deji Plaza Phase I, Zhongshan Road, Xuanwu District",
+      "coordinates": { "lat": 32.0464, "lng": 118.7889 }
+    },
+    "year": 2022,
+    "tagline": "X+Living has turned every floor of a Nanjing mall into a different themed washroom — and the floor traffic now revolves around them.",
+    "description": "Deji Plaza in Nanjing has spent the last several years quietly redrawing what a shopping-mall restroom can be. Since 2021 the mall has commissioned the Shanghai studio X+Living, led by Li Xiang (李想), to design a series of themed washrooms — one per floor, each on a budget that would build a small boutique. The 2022 sixth-floor 'Sanctuary Garden' (花园圣所) is the most-circulated of the set: a 500-square-metre corridor staged as a symmetrical experience gallery, with botanical-pattern lattice walls, deep planters, petal-shaped lounge sofas and washbasins carved from green marble like garden fountains. The signage uses roses for the women's side and palm leaves for the men's, instead of stick figures.\n\nOther floors push the concept harder. The second-floor 'Blues Club' (2023) clads its corridor in houndstooth fashion graphics. There are reports of a 'Michelangelo' suite (2021, ~¥5 million), a sapphire-blue 'Palace' (~¥12 million), and a 2023 cyberpunk room (~¥20 million). Chinese press now refer to the toilet program as a 5A-grade scenic attraction; the mall openly tells reporters that roughly 30% of foot traffic is restroom-driven, with ~40% of those visitors converting into purchases. It is the most explicit demonstration anywhere that a public toilet can be a commercial space's loudest brand asset.",
+    "styles": ["Pop", "Conceptual"],
+    "features": ["Art Installation", "Accessible", "Family-friendly"],
+    "visitorTips": [
+      {
+        "title": "Getting There",
+        "description": "Deji Plaza Phase I sits at the southern end of Zhongshan Road in Xuanwu District; metro line 2/3 Daxinggong Station is the nearest stop.",
+        "icon": "location"
+      },
+      {
+        "title": "Best Time",
+        "description": "Weekday mornings — the 6F washrooms are an attraction in their own right and queue on weekends.",
+        "icon": "time"
+      },
+      {
+        "title": "Good to Know",
+        "description": "Don't stop at one floor. Each level has a different themed washroom — Phase I 2F (houndstooth), 6F (Sanctuary Garden), and Phase II 6F (Relief Garden) are the most-photographed.",
+        "icon": "info"
+      },
+      {
+        "title": "Accessibility",
+        "description": "Accessible stalls, mother-and-baby rooms and first-aid stations are integrated into each themed washroom.",
+        "icon": "accessibility"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/cover.jpg",
+        "alt": "Symmetrical corridor of the Phase I 6F washroom — deep planters and botanical-pattern walls flank a marble walkway leading to the restroom entrances.",
+        "caption": "The 'experience gallery' approach to the Sanctuary Garden washroom is staged like a museum procession.",
+        "photographer": "SFAP / X+Living, via Hi设计",
+        "sourceUrl": "https://www.hisheji.com/project/space-type/public-space/2022/10/19/149833",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/interior-washbasin.jpg",
+        "alt": "Green marble washbasin with a tall fountain-style spout fixture, set against a botanical-patterned wall.",
+        "caption": "Green marble basins shaped like garden fountains are the signature of Li Xiang's design.",
+        "photographer": "SFAP / X+Living, via Hi设计",
+        "sourceUrl": "https://www.hisheji.com/project/space-type/public-space/2022/10/19/149833",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/interior-female-restroom.jpg",
+        "alt": "Interior of the women's restroom — a row of stalls with botanical-pattern partitions and matching tiled floor.",
+        "caption": "Even the stall interiors carry the garden motif, with patterned partitions and floor.",
+        "photographer": "SFAP / X+Living, via Hi设计",
+        "sourceUrl": "https://www.hisheji.com/project/space-type/public-space/2022/10/19/149833",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/seating-detail.jpg",
+        "alt": "Cluster of curved, brightly coloured sofas shaped like flower petals in the lounge / waiting area.",
+        "caption": "The anteroom lounge uses petal-shaped sofas to extend the garden metaphor into the seating.",
+        "photographer": "SFAP / X+Living, via Hi设计",
+        "sourceUrl": "https://www.hisheji.com/project/space-type/public-space/2022/10/19/149833",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/supplement-vanity-dressing-station.jpg",
+        "alt": "Vanity alcove in the 6F washroom with a marble counter, framed mirror and a row of bench seats with botanical-patterned upholstery.",
+        "caption": "A vanity alcove off the main corridor doubles as a dressing station for shoppers between purchases.",
+        "photographer": "SFAP, via IFDM",
+        "sourceUrl": "https://www.ifdm.design/2023/02/14/x-living-deji-plaza-bathrooms-nanjing/",
+        "licenseStatus": "unknown"
+      },
+      {
+        "src": "/images/china-nanjing-deji-plaza-restroom/supplement-floor2-houndstooth-corridor.jpg",
+        "alt": "Black-and-white houndstooth-clad corridor on Phase I Floor 2 — the 'Blues Club' themed washroom — with monolithic stalls in matching pattern.",
+        "caption": "Phase I, Floor 2 — the 2023 'Blues Club' washroom takes the houndstooth pattern from fashion onto every surface.",
+        "photographer": "SFAP, via Sphere-Art",
+        "sourceUrl": "https://www.sphere-art.com/post/x-living-completes-deji-plaza-blues-club-washroom",
+        "licenseStatus": "unknown"
+      }
+    ],
+    "designer": {
+      "name": "Li Xiang",
+      "firm": "X+Living (唯想国际)",
+      "portrait": "/images/china-nanjing-deji-plaza-restroom/li-xiang.jpg",
+      "portraitCredit": "via Design Shanghai speaker profile",
+      "portraitSourceUrl": "https://xl-muse.com/"
+    },
+    "practical": {
+      "openingHours": "Mall hours, roughly 10:00–22:00",
+      "fee": "Free with mall entry",
+      "accessibility": "Accessible stalls and family rooms on each themed floor"
+    },
+    "tags": ["Pop", "Art Installation"],
+    "sources": [
+      {
+        "title": "Deji Plaza Phase 1 6F Washroom — X+Living project page",
+        "url": "https://xl-muse.com/"
+      },
+      {
+        "title": "Deji Plaza 6F Sanctuary Garden — Hi设计",
+        "url": "https://www.hisheji.com/project/space-type/public-space/2022/10/19/149833"
+      },
+      {
+        "title": "X+Living turns mall washrooms into themed attractions — IFDM",
+        "url": "https://www.ifdm.design/2023/02/14/x-living-deji-plaza-bathrooms-nanjing/"
+      }
+    ]
   }
 ]
