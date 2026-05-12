@@ -143,6 +143,11 @@ const MERGE_RULES = {
           licenseStatus: "unknown",
         },
       ],
+          designer: {
+        portrait: "/images/norway-ureddplassen/hza-cofounder.jpg",
+        portraitCredit: "Haugen/Zohar Arkitekter (studio page)",
+        portraitSourceUrl: "https://www.hza.no/studio",
+      },
     },
   },
   "tokyo-yoyogi-fukamachi-transparent": {
@@ -195,6 +200,13 @@ const MERGE_RULES = {
         },
       ],
       tags: ["Transparent", "Urban"],
+          designer: {
+        portrait: "/images/tokyo-transparent-toilet/shigeru-ban.jpg",
+        portraitCredit: "準建築人手札網站 Forgemind ArchiMedia via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Shigeru_Ban_(3x4_cropped).jpg",
+        portraitLicense: "CC BY 2.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by/2.0/deed.en",
+      },
     },
   },
   "tokyo-urasando-marc-newson": {
@@ -233,6 +245,13 @@ const MERGE_RULES = {
           licenseStatus: "unknown",
         },
       ],
+          designer: {
+        portrait: "/images/tokyo-urasando-marc-newson/marc-newson.jpg",
+        portraitCredit: "Financial Times via Flickr / Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Marc_Newson_(cropped).jpg",
+        portraitLicense: "CC BY 2.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by/2.0/",
+      },
     },
   },
   "ichihara-toilet-in-nature": {
@@ -275,6 +294,13 @@ const MERGE_RULES = {
           licenseStatus: "unknown",
         },
       ],
+          designer: {
+        portrait: "/images/ichihara-toilet-in-nature/sou-fujimoto.jpg",
+        portraitCredit: "j.tobias / sumikaproject via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Sou_Fujimoto_2009.jpg",
+        portraitLicense: "CC BY 2.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by/2.0/",
+      },
     },
   },
   "nyc-bryant-park-restroom": {
@@ -321,6 +347,11 @@ const MERGE_RULES = {
           licenseStatus: "unknown",
         },
       ],
+          designer: {
+        portrait: "/images/nyc-bryant-park-restroom/jennifer-nitzky.jpg",
+        portraitCredit: "Studio HIP (headshot)",
+        portraitSourceUrl: "https://www.studiohip.nyc/jennifer-nitzky",
+      },
     },
   },
   "london-sketch-egg-pods": {
@@ -351,6 +382,13 @@ const MERGE_RULES = {
           licenseStatus: "unknown",
         },
       ],
+          designer: {
+        portrait: "/images/london-sketch-egg-pods/india-mahdavi.jpg",
+        portraitCredit: "Noor Chalhoub via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:India_Mahdavi-7033.jpg",
+        portraitLicense: "CC BY-SA 4.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+      },
     },
   },
   "kawakawa-hundertwasser-toilets": {
@@ -412,6 +450,13 @@ const MERGE_RULES = {
           licenseUrl: "https://creativecommons.org/licenses/by/2.0/",
         },
       ],
+          designer: {
+        portrait: "/images/kawakawa-hundertwasser-toilets/friedensreich-hundertwasser.jpg",
+        portraitCredit: "Hannes Grobe via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Hundertwasser_nz_1998_hg.jpg",
+        portraitLicense: "CC BY-SA 2.5",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.5/",
+      },
     },
   },
   "turkey-ephesus-latrines": {
@@ -512,6 +557,263 @@ const MERGE_RULES = {
       ],
     },
   },
+  "tokyo-yoyogi-hachiman-mushrooms": {
+    inlineOverride: {
+      images: [
+        {
+          src: "/images/tokyo-yoyogi-hachiman-mushrooms/cover.jpg",
+          alt: "Three mushroom-shaped concrete toilet volumes by Toyo Ito at Yoyogi-Hachiman, each topped with a dome roof",
+          caption: "Toyo Ito's three cylindrical volumes sprout from the grove behind the Yoyogi-Hachiman shrine — one central accessible stall, two flanking.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/yoyogi_hachiman/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-yoyogi-hachiman-mushrooms/universal-stall.jpg",
+          alt: "Inside the universal accessible stall with toilet, grab rails and washbasin under the curved dome roof",
+          caption: "Inside the universal toilet, the dome roof curves over the white fixtures and the clerestory band of frosted glass.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/yoyogi_hachiman/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-yoyogi-hachiman-mushrooms/tile-detail.jpg",
+          alt: "Close-up of the gradated round-tile mosaic wrapping the mushroom volumes",
+          caption: "Hand-cut round tiles, applied in a soft gradient, give the cylindrical walls a mushroom-cap texture.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/yoyogi_hachiman/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-yoyogi-hachiman-mushrooms/dome-detail.jpg",
+          alt: "The dome roof floating over the cylindrical stall on a continuous frosted-glass clerestory",
+          caption: "The dome appears to hover, separated from the cylinder by a continuous ribbon of frosted glass.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/yoyogi_hachiman/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-yoyogi-hachiman-mushrooms/night.jpg",
+          alt: "The three mushroom volumes illuminated at night within the wooded grove",
+          caption: "After dark, the three mushrooms glow softly within the Yoyogi-Hachiman grove.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/yoyogi_hachiman/",
+          licenseStatus: "unknown",
+        },
+      ],
+      designer: {
+        portrait: "/images/tokyo-yoyogi-hachiman-mushrooms/toyo-ito.jpg",
+        portraitCredit: "Jerome Tobias via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Toyo_Ito_2009.jpg",
+        portraitLicense: "CC BY 2.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by/2.0/",
+      },
+    },
+  },
+  "tokyo-jingu-dori-amayadori": {
+    inlineOverride: {
+      images: [
+        {
+          src: "/images/tokyo-jingu-dori-amayadori/cover.jpg",
+          alt: "Tadao Ando's Amayadori cylindrical louvered concrete structure with circular roof at Jingu-Dori Park",
+          caption: "Tadao Ando's 'Amayadori' (rain shelter) — a cylindrical louvered concrete drum capped by a thin floating disc.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/jingu-dori_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-jingu-dori-amayadori/interior-detail.jpg",
+          alt: "Inside the accessible stall: white toilet with grab rails, washbasin, mirror and child fixtures",
+          caption: "Inside the universal stall — fixtures arrayed around the perimeter of the cylinder.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/jingu-dori_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-jingu-dori-amayadori/cylinder-exterior.jpg",
+          alt: "Vertical view of the cylindrical louvered concrete drum among the park trees",
+          caption: "From the side, the vertical concrete louvers become the building's full envelope.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/jingu-dori_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-jingu-dori-amayadori/engawa-walkway.jpg",
+          alt: "The engawa perimeter walkway between the outer louvers and the inner stall volumes",
+          caption: "The engawa — a traditional Japanese veranda — wraps between louvered shell and inner stalls.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/jingu-dori_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-jingu-dori-amayadori/roof-detail.jpg",
+          alt: "Detail of the circular cantilevered roof above the vertical concrete louvers",
+          caption: "The roof reads as a thin circular disc cantilevered over the louvered cylinder below.",
+          photographer: "Satoshi Nagare / The Nippon Foundation via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/jingu-dori_park/",
+          licenseStatus: "unknown",
+        },
+      ],
+      designer: {
+        portrait: "/images/tokyo-jingu-dori-amayadori/tadao-ando.jpg",
+        portraitCredit: "Christopher Schriner via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Tadao_Ando_2004.jpg",
+        portraitLicense: "CC BY-SA 2.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/",
+      },
+    },
+  },
+  "tokyo-nabeshima-walk-in-the-woods": {
+    inlineOverride: {
+      images: [
+        {
+          src: "/images/tokyo-nabeshima-walk-in-the-woods/cover.jpg",
+          alt: "Kengo Kuma's five cedar-louvre clad huts connected by a stepped walkway through Nabeshima Shoto Park",
+          caption: "Kuma's 'A Walk in the Woods' — five cedar-louvre huts threaded together by a stepped walkway through the park.",
+          photographer: "Satoshi Nagare via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/nabesima_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-nabeshima-walk-in-the-woods/interior-stall.jpg",
+          alt: "Hut interior with toilet, washbasin and live-edge cedar mirror frames; window opens onto park trees",
+          caption: "Inside one of the huts: white toilet, washbasin and live-edge cedar mirror frames, with the park trees framed in the window.",
+          photographer: "Satoshi Nagare via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/nabesima_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-nabeshima-walk-in-the-woods/accessible-interior.jpg",
+          alt: "Accessible hut interior with a wall of cedar log-slice rounds, toilet and washbasin",
+          caption: "The accessible hut features a wall of cedar log-slice rounds behind the toilet and basin.",
+          photographer: "Satoshi Nagare via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/nabesima_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-nabeshima-walk-in-the-woods/huts-path.jpg",
+          alt: "Cedar-clad huts glimpsed through the surrounding park trees",
+          caption: "The five huts surface and recede among the trees of Nabeshima Shoto Park.",
+          photographer: "Satoshi Nagare via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/nabesima_park/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/tokyo-nabeshima-walk-in-the-woods/path-night.jpg",
+          alt: "The illuminated cedar-louvre walkway between the five huts at dusk",
+          caption: "After dark, the cedar walkway between the huts glows softly between the trees.",
+          photographer: "Satoshi Nagare via tokyotoilet.jp",
+          sourceUrl: "https://tokyotoilet.jp/en/nabesima_park/",
+          licenseStatus: "unknown",
+        },
+      ],
+      designer: {
+        portrait: "/images/tokyo-nabeshima-walk-in-the-woods/kengo-kuma.jpg",
+        portraitCredit: "MEXT Japan via Wikimedia Commons",
+        portraitSourceUrl: "https://commons.wikimedia.org/wiki/File:Kengo_Kuma_20190530.jpg",
+        portraitLicense: "CC BY 4.0",
+        portraitLicenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+      },
+    },
+  },
+  "nyc-america-cattelan-gold-toilet": {
+    inlineOverride: {
+      images: [
+        {
+          src: "/images/nyc-america-cattelan-gold-toilet/cover.jpg",
+          alt: "Top-down view of Maurizio Cattelan's 'America' (2016) — the fully functioning 18-karat gold toilet at the Guggenheim Museum",
+          caption: "Top-down view of 'America' (2016) — a fully functioning 18-karat gold toilet, installed at the Guggenheim Museum's fifth-floor restroom.",
+          photographer: "MossAlbatross via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:America_(Cattelan)_top_view.jpg",
+          licenseStatus: "cc",
+          license: "CC BY-SA 4.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+        },
+        {
+          src: "/images/nyc-america-cattelan-gold-toilet/gold-bowl-detail.jpg",
+          alt: "Side view of the 18-karat gold toilet bowl in its plain bathroom enclosure at the Guggenheim",
+          caption: "Cattelan installed the gold toilet in a working public restroom, not on a plinth — visitors used it.",
+          photographer: "MossAlbatross via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:America_(Cattelan)_side_view.jpg",
+          licenseStatus: "cc",
+          license: "CC BY-SA 4.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+        },
+        {
+          src: "/images/nyc-america-cattelan-gold-toilet/guggenheim-installation.jpg",
+          alt: "Installation view inside the Guggenheim restroom that housed 'America'",
+          caption: "The gold toilet in its working bathroom setting at the Guggenheim, September 2016.",
+          photographer: "Benjamin Sutton / Hyperallergic",
+          sourceUrl: "https://hyperallergic.com/waiting-to-pee-in-america-the-gold-toilet-at-the-guggenheim/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/nyc-america-cattelan-gold-toilet/queueing-visitors.jpg",
+          alt: "Visitors queueing on the Guggenheim's fifth floor to use 'America'",
+          caption: "Over 100,000 people lined up to use the gold toilet during its year-long Guggenheim installation.",
+          photographer: "Benjamin Sutton / Hyperallergic",
+          sourceUrl: "https://hyperallergic.com/waiting-to-pee-in-america-the-gold-toilet-at-the-guggenheim/",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/nyc-america-cattelan-gold-toilet/blenheim-palace.jpg",
+          alt: "'America' installed in a water closet at Blenheim Palace, September 2019",
+          caption: "Installed at Blenheim Palace in September 2019 — stolen five days after the opening and never recovered.",
+          photographer: "Tom Lindboe / Blenheim Art Foundation",
+          sourceUrl: "https://www.wallpaper.com/art/maurizio-cattelan-blenheim-palace-oxfordshire",
+          licenseStatus: "unknown",
+        },
+      ],
+      // designer: portrait skipped — no CC/non-commercial portrait of Cattelan exists
+      // (he is known to be camera-averse and uses body doubles).
+    },
+  },
+  "kyoto-tofukuji-tosu": {
+    inlineOverride: {
+      images: [
+        {
+          src: "/images/kyoto-tofukuji-tosu/cover.jpg",
+          alt: "The long wooden Tōsu lavatory hall at Tofuku-ji, Kyoto, with vertical wooden lattice facade",
+          caption: "The Tōsu (東司) at Tofuku-ji — Japan's oldest extant Zen monastic lavatory, designated an Important Cultural Property.",
+          photographer: "Zairon via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:Kyoto_Tofuku-ji_Tosu_1.jpg",
+          licenseStatus: "cc",
+          license: "CC BY-SA 4.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+        },
+        {
+          src: "/images/kyoto-tofukuji-tosu/interior-holes.jpg",
+          alt: "Interior of the Tōsu showing a long row of evenly-spaced pit holes in the clay floor",
+          caption: "The interior reveals the long row of pit holes that gave the hall its nickname 'hyakusecchin' — the hundred-person toilet.",
+          photographer: "Nippon.com",
+          sourceUrl: "https://www.nippon.com/en/guide-to-japan/gu006001/the-tosu-of-tofukuji-japan%E2%80%99s-oldest-toilet.html",
+          licenseStatus: "unknown",
+        },
+        {
+          src: "/images/kyoto-tofukuji-tosu/exterior-2.jpg",
+          alt: "Side elevation of the Tōsu showing the wooden lattice façade",
+          caption: "From the side, the lattice façade lets visitors view the interior from outside without entering.",
+          photographer: "Zairon via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:Kyoto_Tofuku-ji_Tosu_2.jpg",
+          licenseStatus: "cc",
+          license: "CC BY-SA 4.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+        },
+        {
+          src: "/images/kyoto-tofukuji-tosu/lattice-view.jpg",
+          alt: "Another view of the Tōsu among the temple buildings of Tofuku-ji",
+          caption: "The Tōsu sits within Tofuku-ji's wider monastic precinct, alongside the temple's other Important Cultural Properties.",
+          photographer: "Hiro2006 via Wikimedia Commons",
+          sourceUrl: "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E7%A6%8F%E5%AF%BA8.JPG",
+          licenseStatus: "cc",
+          license: "CC BY-SA 3.0",
+          licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+        },
+      ],
+      // No designer — Muromachi-era anonymous craftsmen.
+    },
+  },
+
 };
 
 const CARRY_OVER = [];
